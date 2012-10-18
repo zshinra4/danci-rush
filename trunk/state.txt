@@ -248,7 +248,7 @@ appraisal			 N
 appreciate			 K
 approach			 K
 appropriate			 N
-			 K
+NULL			 K
 approval			 N
 approve			 N
 approximate			 K
@@ -499,7 +499,7 @@ black			 K
 blackboard			 K
 blackmail			 K
 blade			 K
-			 K
+NULL			 K
 blame			 U
 blank			 K
 blanket			 N
@@ -750,7 +750,7 @@ chalk			 U
 challenge			 K
 chamber			 U
 champagne			 K
-			 K
+NULL			 K
 champion			 K
 chance			 K
 chancellor			 U
@@ -1001,7 +1001,7 @@ confidential			 K
 confine			 U
 confirm			 K
 conflict			 K
-			 K
+NULL			 K
 conform			 N
 confront			 K
 confuse			 K
@@ -1252,7 +1252,7 @@ deck			 N
 declaration			 K
 declare			 K
 decline			 K
-			 K
+NULL			 K
 decorate			 K
 decrease			 U
 dedicate			 K
@@ -1503,7 +1503,7 @@ drip			 U
 drive			 K
 driver			 K
 drop			 K
-			 K
+NULL			 K
 drought			 U
 drown			 U
 drug			 K
@@ -1754,7 +1754,7 @@ exempt			 U
 exercise			 K
 exert			 U
 exhaust			 N
-			 K
+NULL			 K
 exhibit			 K
 exhibition			 K
 exile			 U
@@ -2005,7 +2005,7 @@ forward			 K
 fossil			 U
 foster			 U
 foul			 U
-			 K
+NULL			 K
 found			 K
 foundation			 K
 fountain			 U
@@ -2256,7 +2256,7 @@ hat			 K
 hatch			 U
 hate			 K
 hatred			 U
-			 K
+NULL			 K
 haul			 N
 have			 K
 hawk			 U
@@ -2507,7 +2507,7 @@ inference			 N
 inferior			 U
 infinite			 K
 inflation			 K
-			 K
+NULL			 K
 influence			 K
 influential			 K
 inform			 K
@@ -2758,7 +2758,7 @@ layoff			 U
 layout			 U
 lazy			 K
 lead			 K
-			 K
+NULL			 K
 leadership			 K
 leading			 K
 leaf			 K
@@ -3009,7 +3009,7 @@ merchandise			 U
 merchant			 N
 mercury			 U
 mercy			 U
-			 K
+NULL			 K
 mere			 U
 merely			 K
 merge			 K
@@ -3260,7 +3260,7 @@ nowadays			 K
 nowhere			 K
 nuclear			 K
 nucleus			 N
-			 K
+NULL			 K
 nuisance			 N
 numb			 K
 number			 K
@@ -3511,7 +3511,7 @@ peach			 N
 peak			 N
 peanut			 K
 pear			 K
-			 K
+NULL			 K
 pearl			 U
 peasant			 U
 pebble			 U
@@ -3762,7 +3762,7 @@ prey			 N
 price			 K
 prick			 U
 pride			 N
-			 K
+NULL			 K
 priest			 U
 primary			 N
 prime			 N
@@ -4013,7 +4013,7 @@ refusal			 U
 refuse			 K
 refute			 U
 regard			 K
-			 K
+NULL			 K
 regarding			 K
 regardless			 K
 regime			 K
@@ -4264,7 +4264,7 @@ scar			 U
 scarce			 K
 scarcely			 U
 scare			 K
-			 K
+NULL			 K
 scarf			 U
 scatter			 U
 scene			 N
@@ -4515,7 +4515,7 @@ sniff			 U
 snow			 K
 snowstorm			 K
 so			 K
-			 K
+NULL			 K
 soak			 U
 soap			 N
 soar			 K
@@ -4766,7 +4766,7 @@ substantial			 U
 substitute			 U
 subtle			 U
 subtract			 U
-			 K
+NULL			 K
 suburb			 U
 subway			 K
 succeed			 K
@@ -5017,7 +5017,7 @@ tile			 U
 till			 K
 tilt			 U
 timber			 N
-			 K
+NULL			 K
 time			 K
 timely			 K
 timid			 U
@@ -5268,7 +5268,7 @@ velvet			 U
 ventilate			 U
 venture			 U
 verb			 U
-			 K
+NULL			 K
 verbal			 U
 verdict			 U
 verge			 U
