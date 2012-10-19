@@ -29,8 +29,23 @@ def rewrite_state():
     for i in state_list:
         sfp.write(i+"\n")
 
+selector = ''
+for i in sys.argv:
+    if i.startswith('selector:'):
+        a,b = i.split(":")
+        selector = b
+        print "[INFO] set selector: %s"%selector
+	break
+
 idx = 0
 while 1:
+    if len(selector) > 0:
+        last_state = state_list[idx].split()[-1]
+        if last_state != selector:
+	    state_list[idx]+=(" "+last_state)
+	    idx += 1
+	    continue
+
     print word_list[idx]
     #ch = sys.stdin.read(1)
     ch = msvcrt.getch()

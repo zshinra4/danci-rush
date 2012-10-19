@@ -1,5515 +1,5515 @@
-a			 K
-abandon			 K
-abdomen			 U
-abide			 N
-ability			 K
-able			 K
-abnormal			 K
-aboard			 K
-abolish			 K
-abound			 U
-about			 K
-above			 K
-abroad			 K
-abrupt			 K
-absence			 K
-absent			 K
-absolute			 K
-absorb			 N
-abstract			 K
-absurd			 N
-abundance			 U
-abundant			 U
-abuse			 K
-academic			 K
-academy			 K
-accelerate			 K
-accent			 N
-accept			 K
-acceptance			 K
-access			 K
-accessory			 K
-accident			 K
-accidental			 N
-acclaim			 N
-accommodate			 K
-accommodation			 K
-accompany			 K
-accomplish			 N
-accord			 K
-accordance			 K
-according-to			 K
-accordingly			 K
-account			 K
-accountant			 N
-accumulate			 K
-accuracy			 K
-accurate			 K
-accuse			 U
-accustomed			 K
-ache			 N
-achieve			 K
-acid			 K
-acknowledge			 N
-acquaint			 K
-acquaintance			 K
-acquire			 N
-acquisition			 N
-acre			 N
-acrobat			 N
-across			 N
-act			 K
-action			 K
-activate			 N
-active			 K
-activity			 K
-actor			 K
-actress			 K
-actual			 N
-acute			 N
-adapt			 K
-add			 K
-addict			 N
-addition			 K
-additional			 K
-address			 K
-adequate			 K
-adhere			 N
-adjacent			 K
-adjective			 N
-adjoin			 K
-adjust			 K
-administer			 K
-administration			 N
-admire			 K
-admission			 U
-admit			 K
-adolescent			 K
-adopt			 K
-adore			 U
-adult			 K
-advance			 K
-advanced			 N
-advantage			 K
-advent			 U
-adventure			 U
-adverb			 U
-adverse			 U
-advertise			 K
-advice			 K
-advisable			 U
-advise			 N
-advocate			 K
-aerial			 U
-aeroplane			 U
-aesthetic			 U
-affair			 U
-affect			 K
-affection			 K
-affiliate			 N
-affirm			 N
-affluent			 K
-afford			 K
-afraid			 K
-after			 K
-afternoon			 K
-afterward			 N
-again			 K
-against			 K
-age			 K
-agency			 K
-agenda			 K
-agent			 K
-aggravate			 K
-aggressive			 K
-agitate			 U
-ago			 K
-agony			 U
-agree			 K
-agreeable			 N
-agreement			 K
-agriculture			 K
-ahead			 K
-Aid			 U
-Aim			 U
-Air			 K
-air-conditioning			 K
-aircraft			 K
-airline			 K
-airport			 K
-Aisle			 U
-alarm			 K
-album			 K
-alcohol			 K
-Alert			 K
-Alien			 K
-Alike			 K
-Alive			 U
-All			 K
-allege			 N
-alleviate			 N
-alliance			 N
-allocate			 K
-Allow			 K
-allowance			 K
-Alloy			 K
-Ally			 K
-almost			 K
-alone			 K
-along			 K
-alongside			 K
-aloud			 N
-alphabet			 N
-already			 K
-Also			 K
-Alter			 K
-alternate			 N
-alternative			 K
-although			 N
-altitude			 K
-altogether			 U
-aluminum			 K
-always			 K
-amateur			 K
-amaze			 K
-ambassador			 K
-ambiguous			 K
-ambition			 K
-ambitious			 K
-ambulance			 K
-amend			 U
-amiable			 U
-Amid			 N
-among			 N
-amount			 K
-ample			 U
-amplifier			 K
-amplify			 K
-amuse			 K
-analogue			 N
-analogy			 N
-analyse			 K
-analysis			 K
-analytic			 K
-ancestor			 K
-anchor			 K
-ancient			 U
-and			 K
-anecdote			 U
-angel			 K
-anger			 K
-angle			 K
-angry			 K
-anguish			 U
-animal			 K
-ankle			 K
-anniversary			 K
-announce			 K
-annoy			 U
-annual			 K
-anonymous			 K
-another			 K
-answer			 K
-ant			 K
-antenna			 U
-anticipate			 K
-antique			 U
-anxiety			 K
-anxious			 K
-any			 K
-anybody			 K
-anyhow			 K
-anyone			 K
-anything			 K
-anyway			 K
-anywhere			 K
-apart			 N
-apartment			 K
-apologise			 K
-apology			 K
-appal			 U
-apparatus			 N
-apparent			 K
-appeal			 K
-appear			 K
-appearance			 K
-appendix			 N
-appetite			 K
-applaud			 N
-applause			 N
-apple			 K
-appliance			 N
-applicable			 N
-application			 N
-apply			 K
-appoint			 K
-appointment			 K
-appraisal			 N
-appreciate			 K
-approach			 K
-appropriate			 N
-NULL			 K
-approval			 N
-approve			 N
-approximate			 K
-April			 K
-apt			 U
-arbitrary			 N
-arch			 K
-architect			 K
-architecture			 K
-area			 K
-argue			 K
-argument			 K
-arise			 K
-arithmetic			 K
-arm			 K
-army			 K
-around			 K
-arouse			 K
-arrange			 K
-array			 K
-arrest			 K
-arrival			 K
-arrive			 K
-arrogant			 U
-arrow			 K
-art			 K
-artery			 K
-article			 K
-articulate			 U
-artificial			 U
-artist			 K
-artistic			 N
-as			 K
-ascend			 K
-ascertain			 K
-ash			 U
-ashamed			 N
-ashore			 U
-aside			 K
-ask			 K
-asleep			 K
-aspect			 K
-aspire			 U
-assassinate			 N
-assault			 K
-assemble			 K
-assembly			 K
-assert			 K
-assess			 N
-asset			 K
-assign			 K
-assignment			 K
-assimilate			 U
-assist			 U
-assistance			 K
-assistant			 K
-associate			 K
-association			 K
-assume			 K
-assumption			 K
-assurance			 N
-assure			 N
-astonish			 K
-astronaut			 K
-astronomy			 N
-at			 K
-athlete			 K
-atmosphere			 K
-atom			 K
-attach			 K
-attack			 K
-attain			 N
-attempt			 K
-attend			 K
-attendance			 K
-attendant			 K
-attention			 K
-attitude			 K
-attorney			 K
-attract			 K
-attractive			 K
-attribute			 K
-auction			 N
-audience			 K
-audio			 K
-audit			 U
-auditorium			 U
-augment			 K
-August			 K
-aunt			 K
-aural			 U
-authentic			 U
-author			 K
-authority			 K
-auto			 K
-automatic			 K
-automation			 U
-autonomy			 U
-autumn			 K
-auxiliary			 N
-avail			 K
-available			 K
-avenue			 K
-average			 K
-avert			 U
-aviation			 U
-avoid			 K
-await			 N
-awake			 K
-award			 U
-aware			 U
-away			 K
-awe			 U
-awful			 K
-awkward			 U
-axe			 K
-axis			 N
-baby			 K
-bachelor			 K
-back			 K
-background			 K
-backward			 K
-bacon			 K
-bacterium			 N
-bad			 K
-badge			 U
-badly			 K
-badminton			 K
-bag			 K
-baggage			 U
-bait			 U
-bake			 N
-balance			 K
-balcony			 U
-bald			 U
-ball			 K
-ballet			 K
-balloon			 K
-ballot			 U
-ban			 K
-banana			 K
-band			 K
-bandage			 K
-bang			 K
-bank			 K
-bankrupt			 K
-banner			 K
-banquet			 K
-bar			 K
-barbecue			 U
-barber			 U
-bare			 U
-barely			 U
-bargain			 K
-bark			 K
-barn			 K
-barrel			 K
-barren			 K
-barrier			 K
-base			 K
-baseball			 K
-basement			 K
-basic			 K
-basin			 U
-basis			 K
-basket			 K
-basketball			 K
-bat			 K
-batch			 K
-bath			 K
-bathe			 K
-bathroom			 K
-battery			 K
-battle			 K
-bay			 K
-be			 K
-beach			 N
-beam			 K
-bean			 K
-bear			 N
-beard			 K
-bearing			 U
-beast			 K
-beat			 K
-beautiful			 K
-beauty			 K
-because			 K
-become			 K
-bed			 K
-bee			 K
-beef			 K
-beer			 K
-before			 K
-beforehand			 K
-beg			 K
-begin			 K
-beginning			 K
-behalf			 K
-behave			 U
-behavior			 K
-behind			 K
-being			 K
-belief			 K
-believe			 K
-bell			 K
-belly			 K
-belong			 K
-beloved			 K
-below			 K
-belt			 U
-bench			 K
-bend			 K
-beneath			 K
-beneficial			 K
-benefit			 K
-benign			 K
-beside			 K
-besides			 U
-best			 K
-bet			 U
-betray			 K
-better			 K
-between			 K
-beverage			 K
-beware			 K
-bewilder			 N
-beyond			 K
-bias			 K
-Bible			 K
-bibliography			 K
-bicycle			 K
-bid			 K
-big			 K
-bill			 K
-billion			 K
-bin			 K
-bind			 K
-biography			 K
-biology			 K
-bird			 K
-birth			 K
-birthday			 K
-biscuit			 U
-bite			 K
-bitter			 U
-bizarre			 N
-black			 K
-blackboard			 K
-blackmail			 K
-blade			 K
-NULL			 K
-blame			 U
-blank			 K
-blanket			 N
-blast			 U
-blaze			 K
-bleak			 N
-bleed			 K
-blend			 K
-bless			 N
-blind			 K
-block			 K
-blood			 K
-bloody			 K
-bloom			 K
-blossom			 K
-blouse			 K
-blow			 N
-blue			 K
-blueprint			 K
-blunder			 U
-blunt			 K
-blur			 N
-blush			 N
-board			 N
-boast			 K
-boat			 K
-body			 K
-boil			 U
-bold			 K
-bolt			 K
-bomb			 K
-bond			 K
-bone			 N
-bonus			 K
-book			 K
-boom			 U
-boost			 K
-boot			 K
-booth			 K
-border			 K
-bore			 K
-born			 K
-borrow			 K
-bosom			 K
-boss			 K
-both			 K
-bother			 N
-bottle			 K
-bottom			 K
-bounce			 K
-bound			 K
-boundary			 K
-bow			 K
-bowel			 U
-bowl			 U
-bowling			 U
-box			 K
-boy			 K
-boycott			 K
-brace			 K
-bracket			 U
-brain			 K
-brake			 N
-branch			 K
-brand			 K
-brandy			 K
-brass			 U
-brave			 K
-breach			 U
-bread			 U
-breadth			 K
-break			 K
-breakdown			 K
-breakfast			 K
-breast			 U
-breath			 K
-breathe			 K
-breed			 U
-breeze			 K
-bribe			 U
-brick			 K
-bride			 U
-bridge			 K
-brief			 U
-briefcase			 K
-bright			 K
-brilliant			 K
-brim			 U
-bring			 K
-brisk			 U
-brittle			 U
-broad			 K
-broadcast			 K
-brochure			 U
-bronze			 U
-brook			 U
-broom			 U
-brother			 K
-brow			 U
-brown			 U
-browse			 U
-bruise			 U
-brush			 K
-brutal			 N
-bubble			 K
-bucket			 N
-bud			 U
-budget			 K
-buffet			 U
-bug			 K
-build			 K
-building			 K
-bulb			 U
-bulk			 U
-bull			 U
-bullet			 K
-bulletin			 U
-bully			 U
-bump			 U
-bunch			 K
-bundle			 K
-burden			 K
-bureau			 K
-bureaucracy			 K
-burglar			 U
-burn			 K
-burst			 U
-bury			 U
-bus			 K
-bush			 U
-business			 K
-busy			 K
-but			 K
-butcher			 U
-butter			 K
-butterfly			 K
-button			 K
-buy			 K
-by			 K
-bypass			 N
-cab			 U
-cabbage			 U
-cabin			 K
-cabinet			 K
-cable			 N
-cafe			 K
-cafeteria			 U
-cage			 U
-cake			 K
-calcium			 U
-calculate			 K
-calendar			 K
-call			 K
-calm			 N
-calorie			 K
-camel			 K
-camera			 U
-camp			 U
-campaign			 K
-campus			 U
-can			 K
-canal			 U
-cancel			 K
-cancer			 K
-candidate			 K
-candle			 U
-candy			 K
-cannon			 K
-canoe			 U
-canteen			 U
-canvas			 K
-cap			 K
-capable			 K
-capacity			 K
-cape			 U
-capital			 N
-capitalism			 K
-capsule			 K
-captain			 U
-captive			 U
-capture			 K
-car			 K
-carbohydrate			 U
-carbon			 U
-card			 K
-cardinal			 U
-care			 K
-career			 K
-careful			 K
-caress			 N
-cargo			 K
-carpenter			 K
-carpet			 U
-carriage			 N
-carrier			 K
-carrot			 K
-carry			 K
-cart			 K
-cartoon			 K
-carve			 K
-case			 K
-cash			 K
-cashier			 K
-cassette			 K
-cast			 K
-castle			 K
-casual			 N
-casualty			 N
-cat			 K
-catalog			 K
-catastrophe			 K
-catch			 K
-category			 K
-cater			 U
-cathedral			 U
-Catholic			 U
-cattle			 K
-cause			 N
-caution			 N
-cautious			 N
-cave			 K
-cease			 K
-ceiling			 K
-celebrate			 K
-celebrity			 K
-cell			 K
-cellar			 K
-cement			 U
-cemetery			 U
-census			 U
-cent			 U
-centigrade			 K
-centimetre			 K
-central			 K
-centre			 K
-century			 K
-cereal			 U
-ceremony			 N
-certain			 K
-certainly			 K
-certainty			 K
-certificate			 K
-certify			 K
-chain			 K
-chair			 K
-chairman			 K
-chalk			 U
-challenge			 K
-chamber			 U
-champagne			 K
-NULL			 K
-champion			 K
-chance			 K
-chancellor			 U
-change			 K
-channel			 K
-chaos			 N
-chap			 U
-chapter			 K
-character			 K
-characteristic			 K
-characterize			 N
-charge			 N
-charity			 N
-charm			 N
-chart			 K
-charter			 U
-chase			 K
-chat			 K
-cheap			 K
-cheat			 U
-cheek			 U
-cheer			 U
-cheese			 N
-chef			 U
-chemical			 K
-chemist			 K
-chemistry			 N
-cheque			 U
-cherish			 U
-cherry			 K
-chess			 K
-chest			 U
-chew			 N
-chicken			 K
-chief			 K
-child			 K
-childhood			 K
-chill			 U
-chimney			 U
-chin			 U
-china			 K
-chip			 N
-chocolate			 K
-choice			 K
-choke			 U
-choose			 K
-chop			 K
-chorus			 U
-Christ			 U
-Christian			 U
-Christmas			 K
-chronic			 K
-church			 N
-cigar			 K
-cigaret			 K
-cinema			 K
-circle			 K
-circuit			 K
-circular			 K
-circulate			 N
-circumference			 U
-circus			 N
-cite			 K
-citizen			 U
-city			 K
-civil			 K
-civilian			 K
-civilization			 K
-civilize			 K
-claim			 N
-clap			 K
-clarify			 K
-clarity			 K
-clash			 K
-clasp			 K
-class			 K
-classic			 K
-classical			 K
-classification			 K
-classify			 K
-classmate			 K
-classroom			 K
-clause			 U
-claw			 U
-clay			 U
-clean			 K
-clear			 K
-clergy			 U
-clerk			 U
-clever			 K
-click			 K
-client			 K
-cliff			 K
-climate			 K
-climax			 K
-climb			 K
-cling			 N
-clinic			 U
-clip			 K
-cloak			 U
-clock			 K
-clockwise			 K
-clone			 K
-close			 K
-closet			 K
-cloth			 K
-clothe			 N
-clothes			 K
-clothing			 N
-cloud			 K
-cloudy			 N
-club			 K
-clue			 K
-clumsy			 U
-cluster			 K
-clutch			 N
-coach			 K
-coal			 U
-coalition			 U
-coarse			 U
-coast			 U
-coat			 U
-cocaine			 K
-cock			 K
-code			 K
-coffee			 K
-cognitive			 K
-coherent			 U
-cohesive			 U
-coil			 U
-coin			 K
-coincide			 K
-coincidence			 K
-coke			 U
-cold			 K
-collaborate			 K
-collapse			 K
-collar			 U
-colleague			 K
-collect			 K
-collection			 K
-collective			 K
-college			 K
-collide			 U
-collision			 K
-colonel			 U
-colonial			 U
-colony			 U
-color			 K
-column			 K
-comb			 K
-combat			 K
-combination			 K
-combine			 K
-come			 K
-comedy			 K
-comfort			 K
-comfortable			 K
-comic			 U
-command			 K
-commemorate			 K
-commence			 U
-commend			 U
-comment			 K
-commerce			 U
-commercial			 U
-commission			 U
-commit			 U
-committee			 K
-commodity			 K
-common			 K
-commonplace			 U
-commonwealth			 U
-communicate			 K
-communication			 K
-communism			 U
-community			 K
-commute			 K
-compact			 K
-companion			 K
-company			 K
-comparable			 K
-comparative			 K
-compare			 K
-comparison			 N
-compartment			 U
-compass			 K
-compassion			 U
-compatible			 U
-compel			 K
-compensate			 N
-compensation			 U
-compete			 K
-competent			 N
-competition			 N
-competitive			 K
-compile			 K
-complain			 K
-complaint			 K
-complement			 U
-complete			 K
-complex			 K
-complicate			 K
-complicated			 K
-complication			 N
-compliment			 U
-comply			 U
-component			 K
-compose			 K
-composite			 U
-composition			 U
-compound			 U
-comprehend			 U
-comprehension			 K
-comprehensive			 N
-compress			 U
-comprise			 U
-compromise			 U
-compulsory			 U
-compute			 K
-computer			 K
-comrade			 U
-conceal			 U
-concede			 K
-conceive			 N
-concentrate			 U
-concentration			 U
-concept			 K
-concern			 K
-concerning			 K
-concert			 K
-concession			 K
-concise			 U
-conclude			 K
-conclusion			 K
-concrete			 U
-condemn			 U
-condense			 U
-condition			 K
-conduct			 K
-conductor			 K
-confer			 U
-conference			 U
-confess			 U
-confidence			 K
-confident			 K
-confidential			 K
-confine			 U
-confirm			 K
-conflict			 K
-NULL			 K
-conform			 N
-confront			 K
-confuse			 K
-confusion			 K
-congratulate			 N
-congratulation			 K
-congress			 N
-conjunction			 K
-connect			 K
-connection			 K
-conquer			 K
-conquest			 K
-conscience			 K
-conscientious			 K
-conscious			 K
-consecutive			 N
-consensus			 K
-consent			 K
-consequence			 N
-consequently			 K
-conservation			 K
-conservative			 K
-consider			 K
-considerable			 K
-considerate			 K
-consideration			 K
-consist			 K
-consistent			 K
-console			 N
-consolidate			 N
-conspicuous			 U
-conspiracy			 N
-constant			 K
-constituent			 N
-constitute			 U
-constitution			 U
-constrain			 K
-construct			 K
-construction			 N
-consult			 K
-consultant			 K
-consume			 K
-consumption			 K
-contact			 K
-contain			 K
-container			 K
-contaminate			 U
-contemplate			 K
-contemporary			 K
-contempt			 U
-contend			 U
-content			 K
-contest			 N
-context			 K
-continent			 U
-continual			 K
-continue			 K
-continuous			 K
-contract			 K
-contradict			 K
-contradiction			 K
-contrary			 U
-contrast			 U
-contribute			 K
-contribution			 K
-contrive			 N
-control			 K
-controversial			 N
-controversy			 N
-convenience			 K
-convenient			 K
-convention			 U
-conventional			 U
-conversation			 K
-conversely			 U
-conversion			 U
-convert			 K
-convey			 K
-convict			 K
-conviction			 K
-convince			 K
-cook			 K
-cool			 K
-cooperate			 K
-cooperative			 K
-coordinate			 K
-coordinate			 K
-cop			 K
-cope			 U
-copper			 U
-copy			 K
-copyright			 K
-cord			 U
-cordial			 U
-core			 K
-corn			 N
-corner			 K
-corporation			 N
-correct			 K
-correlate			 N
-correspond			 K
-correspondence			 K
-correspondent			 K
-corresponding			 K
-corridor			 U
-corrode			 U
-corrupt			 U
-cosmic			 K
-cost			 K
-costly			 K
-costume			 K
-cosy			 U
-cottage			 U
-cotton			 U
-couch			 K
-cough			 U
-could			 K
-council			 N
-counsel			 K
-count			 K
-counter			 K
-counterpart			 K
-country			 K
-countryside			 K
-county			 K
-couple			 K
-coupon			 N
-courage			 K
-course			 U
-court			 K
-courtesy			 U
-courtyard			 N
-cousin			 U
-cover			 K
-cow			 U
-coward			 N
-crab			 U
-crack			 K
-cradle			 U
-craft			 K
-crane			 U
-crash			 N
-crawl			 U
-crazy			 K
-cream			 K
-create			 K
-creative			 K
-creature			 K
-credential			 U
-credit			 K
-creep			 K
-crew			 U
-cricket			 U
-crime			 K
-criminal			 K
-cripple			 U
-crisis			 K
-crisp			 U
-criterion			 K
-critic			 K
-critical			 K
-criticism			 K
-criticize			 K
-crop			 K
-cross			 K
-crow			 K
-crowd			 N
-crown			 K
-crucial			 N
-crude			 U
-cruel			 U
-cruise			 U
-crush			 U
-crust			 U
-cry			 K
-crystal			 K
-cube			 N
-cucumber			 U
-cue			 U
-cultivate			 N
-culture			 K
-cunning			 U
-cup			 K
-cupboard			 K
-curb			 U
-cure			 U
-curiosity			 K
-curious			 K
-curl			 U
-currency			 K
-current			 K
-curriculum			 U
-curse			 U
-curtain			 U
-curve			 U
-cushion			 U
-custom			 K
-customary			 N
-customer			 N
-cut			 K
-cyberspace			 U
-cycle			 K
-cylinder			 K
-daily			 K
-dairy			 U
-dam			 N
-damage			 K
-damn			 U
-damp			 U
-dance			 K
-danger			 U
-dangerous			 K
-dare			 K
-dark			 K
-darling			 U
-dash			 U
-data			 K
-database			 K
-date			 K
-daughter			 K
-dawn			 K
-day			 K
-daylight			 K
-daytime			 K
-dazzle			 K
-dead			 K
-deadline			 K
-deadly			 N
-deaf			 U
-deal			 K
-dealer			 K
-dean			 U
-dear			 N
-death			 K
-debate			 K
-debt			 K
-decade			 K
-decay			 U
-deceit			 U
-deceive			 K
-December			 K
-decent			 K
-decide			 K
-decimal			 K
-decision			 K
-decisive			 N
-deck			 N
-declaration			 K
-declare			 K
-decline			 K
-NULL			 K
-decorate			 K
-decrease			 U
-dedicate			 K
-deduce			 U
-deduct			 U
-deed			 U
-deem			 U
-deep			 K
-deer			 K
-defeat			 U
-defence			 K
-defect			 K
-defend			 K
-deficiency			 N
-deficit			 K
-define			 K
-definite			 K
-definition			 K
-defy			 U
-degenerate			 K
-degree			 K
-delay			 K
-delegate			 K
-delete			 K
-deliberate			 U
-delicate			 U
-delicious			 K
-delight			 U
-deliver			 K
-delivery			 K
-demand			 K
-democracy			 K
-democratic			 K
-demonstrate			 N
-denial			 N
-denote			 N
-denounce			 K
-dense			 N
-density			 K
-dental			 U
-dentist			 U
-deny			 K
-depart			 N
-department			 N
-departure			 N
-depend			 K
-dependent			 K
-depict			 N
-deposit			 K
-depress			 K
-deprive			 U
-depth			 K
-deputy			 U
-derive			 K
-descend			 K
-descendant			 N
-descent			 N
-describe			 K
-description			 K
-desert			 K
-deserve			 K
-design			 K
-designate			 U
-desirable			 N
-desire			 N
-desk			 K
-desolate			 U
-despair			 U
-despatch			 U
-desperate			 K
-despise			 U
-despite			 U
-dessert			 U
-destination			 K
-destiny			 K
-destroy			 K
-destruction			 K
-destructive			 K
-detach			 K
-detail			 K
-detain			 U
-detect			 U
-detective			 K
-detector			 K
-deteriorate			 N
-determine			 K
-develop			 K
-deviate			 U
-device			 K
-devil			 U
-devise			 K
-devote			 K
-dew			 U
-diagnose			 U
-diagram			 N
-dial			 U
-dialect			 U
-dialog			 N
-diameter			 U
-diamond			 K
-diary			 U
-dictate			 U
-dictation			 U
-dictionary			 K
-die			 N
-diet			 N
-differ			 K
-difference			 K
-different			 K
-differentiate			 K
-difficult			 K
-difficulty			 K
-diffuse			 U
-dig			 K
-digest			 U
-digital			 K
-dignity			 U
-dilemma			 K
-diligent			 N
-dilute			 U
-dim			 U
-dimension			 K
-diminish			 U
-dine			 U
-dinner			 K
-dip			 U
-diploma			 U
-diplomatic			 U
-direct			 N
-direction			 K
-directly			 K
-director			 K
-directory			 K
-dirt			 U
-dirty			 K
-disable			 N
-disappear			 K
-disappoint			 K
-disaster			 K
-disastrous			 K
-disc			 U
-discard			 K
-discern			 U
-discharge			 N
-discipline			 N
-disclose			 K
-discount			 N
-discourage			 K
-discourse			 U
-discover			 K
-discovery			 K
-discreet			 U
-discrepancy			 U
-discriminate			 N
-discuss			 K
-disease			 U
-disgrace			 U
-disguise			 U
-disgust			 U
-dish			 K
-dislike			 K
-dismay			 U
-dismiss			 K
-disorder			 K
-disperse			 U
-displace			 K
-display			 K
-disposal			 U
-dispose			 U
-disposition			 U
-dispute			 N
-disregard			 K
-disrupt			 U
-dissipate			 U
-dissolve			 U
-distance			 K
-distant			 U
-distill			 U
-distinct			 N
-distinction			 N
-distinguish			 N
-distort			 N
-distract			 U
-distress			 U
-distribute			 K
-district			 U
-disturb			 K
-disturbance			 K
-ditch			 U
-dive			 N
-diverse			 N
-diversion			 N
-divert			 U
-divide			 N
-dividend			 N
-divine			 U
-division			 N
-divorce			 K
-dizzy			 U
-do			 K
-dock			 U
-doctor			 K
-doctorate			 U
-document			 K
-documentary			 K
-dog			 K
-doll			 U
-dollar			 K
-domain			 K
-dome			 K
-domestic			 K
-dominant			 K
-dominate			 K
-donate			 U
-donkey			 U
-doom			 U
-door			 K
-doorway			 U
-dorm			 U
-dose			 U
-dot			 K
-doubt			 K
-dove			 U
-down			 K
-downstairs			 N
-downtown			 N
-downward			 K
-doze			 K
-dozen			 K
-draft			 K
-drag			 K
-dragon			 K
-drain			 U
-drama			 N
-dramatic			 K
-drastic			 U
-draw			 K
-drawback			 K
-drawer			 K
-drawing			 K
-dread			 U
-dream			 K
-dress			 U
-drift			 N
-drill			 U
-drink			 K
-drip			 U
-drive			 K
-driver			 K
-drop			 K
-NULL			 K
-drought			 U
-drown			 U
-drug			 K
-drum			 U
-drunk			 K
-dry			 K
-dubious			 N
-duck			 U
-due			 K
-dull			 U
-dumb			 U
-dump			 K
-duplicate			 K
-durable			 N
-duration			 K
-during			 K
-dusk			 U
-dust			 U
-duty			 K
-dwarf			 U
-dwell			 N
-dwelling			 N
-dye			 U
-dynamic			 K
-dynasty			 U
-each			 K
-eager			 N
-eagle			 U
-ear			 K
-early			 K
-earn			 K
-earnest			 K
-earth			 K
-earthquake			 K
-ease			 K
-east			 K
-Easter			 K
-eastern			 K
-easy			 K
-eat			 K
-ebb			 U
-eccentric			 K
-echo			 K
-eclipse			 K
-ecology			 K
-economic			 K
-economical			 K
-economics			 K
-economy			 K
-edge			 K
-edible			 K
-edit			 K
-edition			 K
-editor			 K
-editorial			 K
-educate			 K
-education			 K
-effect			 K
-effective			 K
-efficiency			 K
-efficient			 K
-effort			 K
-egg			 K
-ego			 U
-eight			 K
-eighteen			 K
-eighty			 K
-either			 K
-eject			 N
-elaborate			 K
-elapse			 K
-elastic			 N
-elbow			 K
-elder			 K
-elderly			 K
-elect			 K
-electric			 K
-electrical			 K
-electrician			 K
-electricity			 K
-electron			 K
-electronic			 K
-elegant			 K
-element			 K
-elementary			 K
-elephant			 K
-elevate			 K
-elevator			 K
-eleven			 K
-eligible			 K
-eliminate			 K
-elite			 K
-eloquent			 K
-else			 K
-elsewhere			 K
-e-mail			 K
-embark			 K
-embarrass			 K
-embassy			 K
-embed			 K
-embody			 K
-embrace			 K
-emerge			 K
-emergency			 K
-emigrate			 K
-eminent			 N
-emit			 K
-emotion			 K
-emperor			 K
-emphasis			 K
-emphasize			 K
-empire			 K
-empirical			 N
-employ			 K
-employee			 K
-employer			 K
-employment			 K
-empty			 K
-enable			 K
-enclose			 K
-enclosure			 K
-encounter			 K
-encourage			 K
-encyclopedia			 K
-end			 K
-endeavor			 N
-ending			 K
-endow			 N
-endurance			 U
-endure			 K
-enemy			 K
-energetic			 N
-energy			 K
-enforce			 K
-engage			 K
-engagement			 K
-engine			 K
-engineer			 K
-engineering			 K
-enhance			 K
-enjoy			 K
-enlarge			 K
-enlighten			 K
-enormous			 K
-enough			 K
-enquire			 U
-enrich			 K
-enroll			 U
-ensure			 N
-entail			 U
-enter			 K
-enterprise			 K
-entertain			 K
-entertainment			 K
-enthusiasm			 K
-enthusiastic			 K
-entire			 K
-entitle			 N
-entity			 K
-entrance			 K
-entrepreneur			 U
-entry			 U
-envelope			 K
-environment			 K
-envisage			 N
-envy			 K
-epidemic			 N
-episode			 N
-epoch			 U
-equal			 K
-equality			 K
-equation			 K
-equator			 K
-equip			 K
-equipment			 K
-equivalent			 K
-era			 U
-erase			 K
-erect			 N
-erosion			 U
-erroneous			 U
-error			 K
-erupt			 U
-escalate			 U
-escape			 K
-escort			 N
-especially			 K
-essay			 K
-essence			 K
-essential			 K
-establish			 K
-establishment			 K
-estate			 K
-esteem			 U
-estimate			 K
-eternal			 U
-ethnic			 K
-evacuate			 U
-evade			 U
-evaluate			 K
-evaporate			 U
-eve			 N
-even			 K
-evening			 K
-event			 K
-eventually			 K
-ever			 K
-every			 K
-everybody			 K
-everyday			 K
-everyone			 K
-everything			 K
-everywhere			 K
-evidence			 K
-evident			 K
-evil			 K
-evoke			 N
-evolution			 K
-evolve			 K
-exact			 K
-exaggerate			 U
-exam			 K
-examine			 K
-example			 K
-exceed			 K
-exceedingly			 N
-excel			 N
-excellent			 K
-except			 K
-exception			 K
-exceptional			 K
-excerpt			 N
-excess			 K
-excessive			 K
-exchange			 N
-excite			 N
-excitement			 K
-exciting			 K
-exclaim			 N
-exclude			 K
-exclusive			 K
-excursion			 U
-excuse			 K
-execute			 K
-executive			 K
-exemplify			 U
-exempt			 U
-exercise			 K
-exert			 U
-exhaust			 N
-NULL			 K
-exhibit			 K
-exhibition			 K
-exile			 U
-exist			 K
-existence			 K
-exit			 K
-exotic			 K
-expand			 K
-expansion			 K
-expect			 K
-expectation			 K
-expedition			 U
-expel			 U
-expend			 K
-expenditure			 K
-expense			 K
-expensive			 K
-experience			 K
-experiment			 K
-experimental			 K
-expert			 K
-expertise			 K
-expire			 K
-explain			 K
-explanation			 K
-explicit			 K
-explode			 U
-exploit			 U
-explore			 K
-explosion			 K
-explosive			 K
-export			 K
-expose			 U
-exposure			 U
-express			 N
-expression			 K
-exquisite			 U
-extend			 K
-extension			 K
-extensive			 K
-extent			 K
-exterior			 U
-external			 N
-extinct			 N
-extinguish			 N
-extra			 K
-extract			 K
-extraordinary			 K
-extravagant			 N
-extreme			 K
-eye			 K
-eyebrow			 K
-eyesight			 N
-fable			 U
-fabric			 N
-fabricate			 N
-fabulous			 N
-face			 K
-facilitate			 N
-facility			 N
-fact			 K
-factor			 K
-factory			 K
-faculty			 N
-fade			 K
-fail			 K
-failure			 K
-faint			 U
-fair			 N
-fairly			 N
-fairy			 K
-faith			 U
-faithful			 U
-fake			 K
-fall			 K
-false			 K
-fame			 U
-familiar			 K
-family			 K
-famine			 K
-famous			 K
-fan			 K
-fancy			 K
-fantastic			 K
-fantasy			 U
-far			 K
-fare			 U
-farewell			 K
-farm			 K
-farmer			 K
-farther			 K
-fascinate			 U
-fashion			 K
-fashionable			 K
-fast			 K
-fasten			 K
-fat			 K
-fatal			 K
-fate			 K
-father			 K
-fatigue			 U
-fault			 K
-faulty			 U
-favor			 N
-favorable			 N
-favorite			 K
-fax			 K
-fear			 K
-fearful			 K
-feasible			 K
-feast			 U
-feat			 K
-feather			 K
-feature			 K
-February			 K
-federal			 K
-federation			 K
-fee			 K
-feeble			 U
-feed			 U
-feedback			 K
-feel			 K
-feeling			 K
-fell			 K
-fellow			 U
-fellowship			 K
-female			 K
-feminine			 U
-fence			 K
-ferry			 U
-fertile			 N
-fertilizer			 N
-festival			 K
-fetch			 N
-feudal			 U
-fever			 U
-few			 K
-fiber			 K
-fiction			 U
-field			 K
-fierce			 N
-fifteen			 K
-fifty			 K
-fight			 K
-figure			 K
-file			 K
-fill			 K
-film			 K
-filter			 K
-final			 K
-finally			 K
-finance			 K
-financial			 K
-find			 K
-finding			 K
-fine			 K
-finger			 U
-finish			 K
-finite			 K
-fire			 U
-fireman			 K
-fireplace			 U
-firm			 K
-first			 K
-fish			 K
-fisherman			 K
-fist			 U
-fit			 K
-fitting			 K
-five			 K
-fix			 K
-fixture			 N
-flag			 K
-flame			 U
-flap			 U
-flare			 U
-flash			 U
-flat			 K
-flatter			 K
-flavor			 U
-flaw			 U
-flee			 U
-fleet			 U
-flesh			 U
-flexible			 K
-flight			 U
-fling			 U
-float			 K
-flock			 U
-flood			 K
-floor			 K
-flour			 K
-flourish			 K
-flow			 U
-flower			 K
-flu			 U
-fluctuate			 K
-fluent			 K
-fluid			 K
-flush			 N
-fly			 K
-foam			 U
-focus			 K
-fog			 U
-fold			 K
-folk			 N
-follow			 K
-following			 K
-fond			 U
-food			 K
-fool			 K
-foolish			 K
-foot			 K
-football			 K
-footstep			 U
-for			 K
-forbid			 K
-force			 K
-fore			 U
-forecast			 U
-forehead			 U
-foreign			 K
-foreigner			 K
-foremost			 U
-foresee			 U
-forest			 K
-forever			 K
-forge			 U
-forget			 K
-forgive			 K
-fork			 K
-form			 K
-formal			 N
-format			 K
-formation			 U
-former			 K
-formidable			 U
-formula			 K
-formulate			 N
-forth			 U
-forthcoming			 U
-fortnight			 U
-fortunate			 U
-fortune			 K
-forty			 U
-forum			 U
-forward			 K
-fossil			 U
-foster			 U
-foul			 U
-NULL			 K
-found			 K
-foundation			 K
-fountain			 U
-four			 K
-fourteen			 K
-fox			 K
-fraction			 U
-fracture			 U
-fragile			 U
-fragment			 K
-fragrant			 U
-frame			 N
-framework			 K
-frank			 K
-fraud			 U
-free			 K
-freedom			 K
-freeze			 K
-freight			 U
-frequency			 K
-frequent			 K
-fresh			 K
-friction			 U
-Friday			 K
-fridge			 U
-friend			 K
-friendly			 K
-friendship			 K
-fright			 U
-frighten			 U
-fringe			 U
-frog			 K
-from			 K
-front			 K
-frontier			 N
-frost			 U
-frown			 N
-fruit			 K
-fruitful			 N
-frustrate			 U
-fry			 K
-fuel			 N
-fulfill			 N
-full			 K
-fume			 U
-fun			 K
-function			 K
-fund			 K
-fundamental			 K
-funeral			 U
-funny			 K
-fur			 U
-furious			 U
-furnace			 U
-furnish			 U
-furniture			 U
-further			 U
-furthermore			 K
-fuse			 U
-fuss			 U
-futile			 U
-future			 K
-gain			 K
-galaxy			 K
-gallery			 U
-gallon			 U
-gallop			 U
-gamble			 K
-game			 K
-gang			 U
-gaol			 U
-gap			 K
-garage			 U
-garbage			 K
-garden			 K
-garlic			 U
-garment			 U
-gas			 K
-gasoline			 K
-gasp			 N
-gate			 K
-gather			 K
-gauge			 K
-gay			 K
-gaze			 K
-gear			 N
-gender			 K
-gene			 K
-general			 K
-generalize			 N
-generate			 K
-generation			 K
-generator			 K
-generous			 K
-genetic			 N
-genius			 K
-gentle			 U
-gentleman			 K
-gently			 U
-genuine			 K
-geography			 K
-geology			 K
-geometry			 K
-germ			 K
-gesture			 K
-get			 K
-ghost			 K
-giant			 K
-gift			 K
-gigantic			 K
-giggle			 K
-girl			 K
-give			 K
-glad			 N
-glamor			 N
-glance			 K
-glare			 N
-glass			 K
-glide			 N
-glimpse			 U
-glitter			 K
-global			 K
-globe			 K
-gloomy			 N
-glorious			 K
-glory			 K
-glove			 K
-glow			 N
-glue			 K
-go			 K
-goal			 K
-goat			 U
-god			 K
-gold			 K
-golden			 K
-golf			 K
-good			 K
-goodby			 U
-goodness			 N
-goods			 K
-goose			 U
-gorgeous			 K
-gossip			 K
-govern			 K
-government			 K
-governor			 K
-gown			 U
-grab			 N
-grace			 U
-graceful			 U
-gracious			 U
-grade			 U
-gradual			 N
-graduate			 K
-grain			 U
-gramme			 U
-grammar			 U
-grand			 N
-grandmother			 K
-grant			 N
-grape			 K
-graph			 K
-graphic			 K
-grasp			 N
-grass			 K
-grateful			 N
-gratitude			 U
-grave			 K
-gravity			 K
-graze			 U
-grease			 N
-great			 K
-greedy			 N
-green			 K
-greenhouse			 K
-greet			 U
-greeting			 U
-grey			 U
-grief			 N
-grieve			 N
-grim			 U
-grin			 U
-grind			 K
-grip			 U
-groan			 N
-grocer			 K
-grope			 U
-gross			 K
-ground			 K
-group			 K
-grow			 K
-grown-up			 K
-growth			 K
-guarantee			 K
-guard			 K
-guess			 K
-guest			 N
-guidance			 K
-guide			 K
-guideline			 K
-guilt			 K
-guilty			 K
-guitar			 K
-gulf			 N
-gum			 K
-gun			 K
-gut			 U
-guy			 K
-gymnasium			 U
-habit			 N
-habitat			 N
-hail			 U
-hair			 K
-half			 K
-hall			 U
-halt			 U
-ham			 U
-hamburger			 K
-hammer			 U
-hamper			 U
-hand			 K
-handbook			 K
-handful			 K
-handicap			 U
-handkerchief			 U
-handle			 K
-handsome			 K
-handwriting			 K
-handy			 U
-hang			 N
-happen			 K
-happy			 K
-harassment			 U
-harbor			 U
-hard			 K
-harden			 K
-hardly			 K
-hardship			 N
-hardware			 K
-harm			 K
-harmony			 U
-harness			 N
-harsh			 U
-harvest			 N
-haste			 N
-hasty			 N
-hat			 K
-hatch			 U
-hate			 K
-hatred			 U
-NULL			 K
-haul			 N
-have			 K
-hawk			 U
-hay			 U
-hazard			 U
-he			 K
-head			 K
-headache			 K
-heading			 N
-headline			 K
-headmaster			 U
-headquarters			 U
-heal			 U
-health			 K
-healthy			 K
-heap			 K
-hear			 N
-hearing			 N
-heart			 K
-heat			 K
-heave			 U
-heaven			 U
-heavy			 K
-hedge			 U
-heel			 U
-height			 K
-heighten			 K
-heir			 U
-helicopter			 N
-hell			 K
-hello			 K
-helmet			 U
-help			 K
-helpful			 K
-hemisphere			 U
-hen			 K
-hence			 U
-henceforth			 U
-her			 K
-herb			 U
-herd			 U
-here			 K
-heritage			 U
-hero			 K
-heroic			 K
-heroin			 U
-heroine			 U
-hers			 K
-herself			 K
-hesitate			 U
-hi			 K
-hide			 K
-hierarchy			 N
-high			 K
-highland			 K
-highlight			 K
-highly			 K
-highway			 K
-hijack			 U
-hike			 U
-hill			 K
-him			 K
-himself			 K
-hinder			 U
-hinge			 U
-hint			 K
-hip			 N
-hire			 N
-his			 K
-historian			 K
-historic			 K
-historical			 K
-history			 K
-hit			 K
-hitherto			 K
-hobby			 U
-hoist			 U
-hold			 K
-holder			 K
-hole			 K
-holiday			 K
-hollow			 K
-holy			 K
-home			 K
-homework			 K
-homogeneous			 K
-honest			 K
-honey			 K
-honor			 K
-honorable			 N
-hook			 K
-hop			 U
-hope			 K
-hopeful			 K
-horizon			 N
-horizontal			 N
-horn			 N
-horrible			 K
-horror			 U
-horse			 K
-horsepower			 K
-hose			 U
-hospital			 K
-hospitality			 N
-host			 K
-hostage			 U
-hostess			 N
-hostile			 U
-hot			 K
-hotel			 K
-hound			 U
-hour			 K
-house			 K
-household			 K
-housewife			 K
-housework			 K
-housing			 U
-hover			 U
-how			 K
-however			 K
-howl			 U
-huddle			 U
-hug			 U
-huge			 K
-hum			 U
-human			 K
-humanity			 K
-humble			 U
-humid			 U
-humidity			 U
-humiliate			 U
-humor			 K
-humorous			 U
-hundred			 U
-hunger			 K
-hungry			 K
-hunt			 U
-hurl			 U
-hurricane			 K
-hurry			 K
-hurt			 K
-husband			 K
-hut			 U
-hydrogen			 K
-hypocrisy			 U
-hypothesis			 N
-hysterical			 N
-I			 K
-ice			 K
-ice-cream			 K
-idea			 K
-ideal			 K
-identical			 N
-identification			 N
-identify			 N
-identity			 N
-ideology			 K
-idiom			 K
-idiot			 N
-idle			 K
-if			 K
-ignite			 U
-ignorance			 K
-ignorant			 K
-ignore			 K
-ill			 K
-illegal			 K
-illiterate			 U
-illness			 K
-illuminate			 U
-illusion			 N
-illustrate			 N
-illustration			 N
-image			 K
-imaginary			 K
-imagination			 K
-imaginative			 K
-imagine			 K
-imitate			 K
-imitation			 K
-immediate			 K
-immense			 U
-immerse			 U
-immigrant			 U
-immune			 U
-impact			 U
-impair			 U
-impart			 U
-impatient			 K
-imperative			 N
-imperial			 N
-impetus			 U
-implement			 K
-implication			 U
-implicit			 K
-imply			 N
-import			 K
-importance			 K
-important			 K
-impose			 N
-impossible			 K
-impress			 N
-impression			 K
-impressive			 K
-improve			 U
-improvement			 U
-impulse			 U
-in			 K
-incentive			 U
-inch			 K
-incidence			 N
-incident			 N
-incidentally			 N
-incline			 U
-include			 K
-inclusive			 K
-income			 K
-incorporate			 K
-increase			 K
-increasingly			 K
-incredible			 K
-incur			 U
-indeed			 N
-independence			 K
-independent			 K
-index			 K
-indicate			 N
-indication			 N
-indicative			 N
-indifferent			 U
-indignant			 U
-indignation			 U
-indispensable			 U
-individual			 K
-indoor			 U
-induce			 U
-indulge			 U
-industrial			 N
-industrialize			 N
-industry			 N
-inertia			 U
-inevitable			 U
-infant			 U
-infect			 U
-infectious			 U
-infer			 U
-inference			 N
-inferior			 U
-infinite			 K
-inflation			 K
-NULL			 K
-influence			 K
-influential			 K
-inform			 K
-information			 K
-infrared			 K
-infrastructure			 K
-ingenious			 U
-ingredient			 N
-inhabit			 U
-inhabitant			 U
-inhale			 U
-inherent			 U
-inherit			 U
-inhibit			 N
-initial			 K
-initiate			 N
-initiative			 K
-inject			 U
-injure			 N
-injury			 N
-ink			 K
-inland			 K
-inlet			 U
-inn			 U
-inner			 N
-innocent			 U
-innovation			 U
-innumerable			 U
-input			 K
-inquiry			 N
-insect			 U
-insert			 K
-inside			 K
-insight			 K
-insist			 K
-inspect			 U
-inspiration			 U
-inspire			 U
-install			 K
-installation			 K
-installment			 K
-instance			 N
-instant			 N
-instantaneous			 U
-instead			 K
-instinct			 U
-institute			 U
-institution			 U
-instruct			 K
-instruction			 K
-instrument			 K
-instrumental			 K
-insulate			 U
-insult			 U
-insurance			 N
-insure			 N
-intact			 K
-integral			 N
-integrate			 N
-integrity			 N
-intellectual			 K
-intelligence			 K
-intelligent			 K
-intelligible			 U
-intend			 N
-intense			 N
-intensity			 N
-intensive			 N
-intention			 N
-interact			 K
-intercourse			 U
-interest			 K
-interesting			 K
-interface			 K
-interfere			 U
-interference			 U
-interim			 U
-interior			 U
-intermediate			 K
-intermittent			 U
-internal			 N
-international			 K
-internet			 K
-interpret			 K
-interrupt			 U
-intersection			 U
-interval			 K
-intervene			 U
-interview			 N
-intimate			 N
-intimidate			 U
-into			 K
-intricate			 U
-intrigue			 U
-intrinsic			 U
-introduce			 K
-introduction			 K
-intrude			 K
-intuition			 U
-invade			 U
-invalid			 K
-invaluable			 N
-invariably			 N
-invasion			 U
-invent			 U
-invention			 U
-inventory			 U
-inverse			 N
-invert			 N
-invest			 K
-investigate			 K
-investment			 K
-invisible			 K
-invitation			 U
-invite			 K
-involve			 K
-inward			 U
-iron			 K
-irony			 N
-irrespective			 N
-irrigate			 U
-irritate			 N
-island			 K
-isle			 K
-isolate			 K
-issue			 K
-it			 K
-item			 K
-its			 K
-itself			 K
-jacket			 K
-jam			 U
-January			 K
-jar			 K
-jargon			 K
-jaw			 N
-jazz			 K
-jealous			 K
-jeans			 U
-jet			 K
-jewel			 U
-jewelry			 K
-job			 K
-jog			 K
-join			 K
-joint			 K
-joke			 K
-jolly			 K
-journal			 K
-journalist			 K
-journey			 N
-joy			 K
-judge			 K
-judgement			 K
-judicial			 K
-jug			 U
-juice			 U
-July			 K
-jump			 K
-junction			 K
-June			 K
-jungle			 N
-junior			 N
-junk			 U
-jury			 K
-just			 K
-justice			 K
-justify			 N
-juvenile			 N
-keen			 K
-keep			 K
-kettle			 K
-key			 K
-keyboard			 K
-kick			 K
-kid			 K
-kidnap			 K
-kidney			 K
-kill			 K
-kilo			 U
-kilometre			 K
-kin			 K
-kind			 K
-kindergarten			 K
-kindness			 K
-king			 K
-kingdom			 K
-kiss			 K
-kit			 K
-kitchen			 K
-kite			 K
-knee			 K
-kneel			 N
-knife			 K
-knit			 K
-knob			 K
-knock			 U
-knot			 K
-know			 K
-knowledge			 K
-lab			 K
-label			 K
-labor			 K
-lace			 U
-lack			 K
-lad			 N
-ladder			 K
-lady			 K
-lag			 U
-lake			 K
-lamb			 K
-lame			 K
-lamp			 K
-land			 K
-landlady			 K
-landlord			 K
-lane			 K
-language			 K
-lantern			 K
-lap			 K
-lapse			 K
-laptop			 K
-large			 K
-largely			 K
-laser			 K
-lash			 U
-last			 K
-late			 K
-lately			 K
-latent			 U
-later			 K
-lateral			 U
-Latin			 K
-latitude			 K
-latter			 K
-laugh			 N
-laughter			 U
-launch			 N
-laundry			 U
-lavatory			 U
-law			 K
-lawn			 N
-lawyer			 U
-lay			 K
-layer			 K
-layman			 U
-layoff			 U
-layout			 U
-lazy			 K
-lead			 K
-NULL			 K
-leadership			 K
-leading			 K
-leaf			 K
-leaflet			 U
-league			 K
-leak			 N
-lean			 U
-leap			 U
-learn			 K
-learned			 U
-learning			 U
-lease			 U
-least			 K
-leather			 U
-leave			 K
-lecture			 U
-left			 K
-leg			 K
-legacy			 U
-legal			 K
-legend			 N
-legislation			 U
-legitimate			 U
-leisure			 K
-lemon			 K
-lend			 K
-length			 K
-lens			 U
-less			 K
-lesson			 K
-lest			 U
-let			 K
-letter			 K
-level			 K
-lever			 K
-levy			 K
-liability			 N
-liable			 N
-liberal			 U
-liberate			 U
-liberty			 U
-librarian			 U
-library			 K
-license			 K
-lick			 U
-lid			 U
-lie			 K
-life			 K
-lifetime			 K
-lift			 K
-light			 K
-lightning			 K
-like			 K
-likelihood			 K
-likely			 K
-likewise			 N
-limb			 U
-limit			 K
-limitation			 K
-limited			 K
-limp			 U
-line			 K
-linear			 K
-linen			 U
-liner			 U
-linger			 N
-linguistic			 N
-link			 K
-lion			 K
-lip			 U
-liquid			 U
-liquor			 U
-list			 K
-listen			 K
-literacy			 U
-literally			 N
-literary			 N
-literature			 U
-litre			 U
-litter			 U
-little			 K
-live			 K
-lively			 K
-liver			 U
-living			 K
-living-room			 K
-load			 K
-loaf			 U
-loan			 K
-lobby			 K
-local			 K
-locality			 N
-locate			 K
-location			 K
-lock			 K
-locker			 K
-locomotive			 U
-lodge			 U
-lofty			 K
-log			 K
-logic			 K
-logical			 K
-lonely			 K
-long			 K
-longitude			 K
-look			 K
-loom			 K
-loop			 K
-loose			 N
-loosen			 N
-lord			 N
-lorry			 U
-lose			 K
-loss			 K
-lot			 K
-lottery			 U
-loud			 K
-loudspeaker			 K
-lounge			 U
-love			 K
-lovely			 K
-lover			 K
-low			 K
-lower			 K
-loyal			 U
-loyalty			 U
-lubricate			 U
-luck			 K
-lucky			 K
-luggage			 U
-lumber			 U
-lump			 U
-lunar			 U
-lunch			 U
-lung			 U
-lure			 U
-luxury			 K
-machine			 K
-machinery			 U
-mad			 U
-madame			 U
-magazine			 K
-magic			 K
-magistrate			 U
-magnet			 K
-magnetic			 K
-magnificent			 U
-magnify			 K
-magnitude			 N
-maid			 U
-maiden			 U
-mail			 K
-main			 K
-mainland			 K
-maintain			 K
-maintenance			 K
-majesty			 U
-major			 K
-majority			 K
-make			 K
-male			 K
-malignant			 U
-mammal			 U
-man			 K
-manage			 K
-management			 K
-manager			 K
-maneuver			 U
-manifest			 U
-manipulate			 N
-mankind			 U
-manner			 K
-manual			 K
-manufacture			 K
-manuscript			 K
-many			 K
-map			 K
-marble			 U
-march			 K
-March			 K
-margin			 K
-marginal			 K
-marine			 U
-marital			 U
-mark			 K
-market			 K
-marriage			 U
-married			 K
-marry			 K
-marvelous			 U
-Marxist			 K
-masculine			 U
-mask			 N
-mass			 U
-massacre			 U
-massive			 U
-master			 K
-masterpiece			 U
-mat			 U
-match			 U
-mate			 U
-material			 N
-mathematical			 K
-maths			 K
-matter			 K
-mature			 U
-maximum			 K
-may			 K
-May			 K
-maybe			 K
-mayor			 N
-me			 K
-meadow			 U
-meal			 U
-mean			 K
-meaning			 K
-means			 K
-meantime			 U
-meanwhile			 U
-measure			 K
-meat			 N
-mechanic			 U
-mechanical			 U
-mechanism			 U
-medal			 K
-medical			 N
-medicine			 N
-medieval			 U
-meditate			 U
-meditation			 U
-medium			 N
-meet			 K
-meeting			 K
-melody			 U
-melon			 U
-melt			 N
-member			 N
-membership			 K
-memo			 U
-memorial			 U
-memory			 K
-menace			 U
-mend			 K
-mental			 U
-mention			 U
-menu			 K
-merchandise			 U
-merchant			 N
-mercury			 U
-mercy			 U
-NULL			 K
-mere			 U
-merely			 K
-merge			 K
-merit			 U
-merry			 K
-mess			 U
-message			 K
-messenger			 K
-metal			 U
-metaphor			 U
-method			 K
-metre			 U
-metric			 U
-metropolitan			 U
-microphone			 K
-microscope			 K
-middle			 K
-midst			 K
-might			 K
-migrate			 U
-mild			 K
-mile			 K
-militant			 U
-military			 U
-milk			 K
-mill			 U
-millimeter			 U
-million			 K
-millionaire			 U
-mind			 K
-mine			 K
-mineral			 U
-mingle			 K
-miniature			 U
-minimize			 K
-minimum			 K
-minister			 U
-ministry			 U
-minor			 U
-minority			 U
-minus			 K
-minute			 U
-miracle			 K
-mirror			 K
-mischief			 U
-miserable			 U
-misery			 U
-misfortune			 U
-mislead			 K
-miss			 K
-missile			 U
-missing			 K
-mission			 U
-missionary			 N
-mist			 U
-mistake			 K
-mistress			 U
-misunderstand			 K
-mix			 K
-mixture			 K
-moan			 U
-mob			 U
-mobile			 K
-mobilize			 U
-mock			 U
-mode			 K
-model			 K
-moderate			 K
-modern			 K
-modernization			 K
-modest			 U
-modify			 K
-module			 K
-moist			 K
-moisture			 U
-molecule			 U
-moment			 K
-momentum			 U
-monarch			 U
-Monday			 K
-monetary			 U
-money			 K
-monitor			 K
-monkey			 K
-monopoly			 K
-monotonous			 U
-monster			 N
-month			 K
-monthly			 K
-monument			 U
-mood			 U
-moon			 K
-moral			 U
-morality			 U
-more			 K
-moreover			 U
-morning			 K
-mortal			 U
-mortgage			 K
-mosaic			 U
-mosquito			 U
-moss			 U
-most			 U
-mostly			 U
-motel			 K
-mother			 K
-motion			 K
-motivate			 K
-motive			 K
-motor			 K
-mould			 U
-mount			 U
-mountain			 K
-mourn			 U
-mouse			 K
-mouth			 K
-move			 K
-movement			 K
-movie			 K
-much			 K
-mud			 K
-mug			 U
-multiple			 N
-multiply			 K
-multitude			 N
-municipal			 U
-murder			 K
-murmur			 U
-muscle			 N
-muscular			 U
-museum			 K
-mushroom			 U
-music			 K
-musical			 K
-musician			 K
-must			 K
-mute			 U
-mutter			 U
-mutton			 U
-mutual			 U
-my			 K
-myself			 K
-mysterious			 K
-mystery			 K
-myth			 K
-nail			 N
-naive			 K
-naked			 U
-name			 K
-namely			 K
-nap			 U
-napkin			 U
-narrative			 U
-narrow			 N
-nasty			 U
-nation			 K
-national			 K
-nationality			 K
-native			 N
-natural			 U
-nature			 N
-naughty			 U
-naval			 U
-navigation			 N
-navy			 K
-near			 K
-nearby			 K
-nearly			 N
-neat			 U
-necessary			 K
-necessitate			 U
-necessity			 U
-neck			 K
-necklace			 K
-need			 K
-needle			 U
-negative			 K
-neglect			 K
-negligible			 N
-negotiate			 N
-Negro			 K
-neighbor			 K
-neighborhood			 K
-neither			 K
-nephew			 U
-nerve			 K
-nervous			 N
-nest			 N
-net			 K
-network			 K
-neutral			 U
-never			 K
-nevertheless			 K
-new			 K
-news			 K
-newspaper			 K
-next			 K
-nice			 K
-nickel			 U
-nickname			 K
-niece			 U
-night			 K
-nightmare			 K
-nine			 K
-nineteen			 K
-ninety			 K
-nitrogen			 K
-no			 K
-noble			 U
-nobody			 K
-nod			 K
-noise			 K
-noisy			 K
-nominal			 K
-nominate			 K
-none			 K
-nonetheless			 K
-nonsense			 U
-noodle			 K
-noon			 U
-nor			 U
-norm			 K
-normal			 K
-normalization			 K
-north			 K
-northeast			 K
-northern			 K
-northwest			 K
-nose			 K
-not			 K
-notable			 K
-note			 K
-notebook			 K
-nothing			 K
-notice			 K
-noticeable			 K
-notify			 K
-notion			 K
-notorious			 U
-notwithstanding			 U
-noun			 N
-nourish			 N
-novel			 K
-novelty			 K
-November			 K
-now			 K
-nowadays			 K
-nowhere			 K
-nuclear			 K
-nucleus			 N
-NULL			 K
-nuisance			 N
-numb			 K
-number			 K
-numerical			 K
-numerous			 N
-nurse			 N
-nursery			 N
-nurture			 U
-nut			 U
-nutrition			 K
-nylon			 K
-oak			 K
-oar			 K
-oath			 N
-obedience			 N
-obedient			 N
-obey			 K
-object			 K
-objection			 K
-objective			 K
-obligation			 N
-oblige			 N
-obscure			 K
-observation			 N
-observe			 K
-obsession			 K
-obsolete			 N
-obstacle			 K
-obstruct			 K
-obstruction			 K
-obtain			 K
-obvious			 K
-occasion			 N
-occasional			 N
-occupation			 N
-occupy			 K
-occur			 N
-occurrence			 N
-ocean			 K
-o'clock			 U
-October			 K
-odd			 K
-odds			 K
-odor			 U
-of			 K
-off			 K
-offend			 N
-offensive			 K
-offer			 K
-office			 K
-officer			 K
-official			 K
-offset			 K
-offspring			 N
-often			 K
-oil			 K
-okay			 K
-old			 K
-omit			 K
-on			 K
-once			 K
-one			 K
-oneself			 K
-onion			 K
-only			 K
-onto			 K
-opaque			 K
-open			 K
-opening			 K
-opera			 N
-operate			 K
-operation			 K
-operational			 K
-operator			 K
-opinion			 K
-opponent			 K
-opportunity			 K
-oppose			 N
-opposite			 N
-oppress			 N
-opt			 U
-optical			 K
-optimistic			 N
-optimum			 U
-option			 K
-optional			 K
-or			 K
-oral			 K
-orange			 K
-orbit			 U
-orchard			 U
-orchestra			 U
-order			 K
-orderly			 U
-ordinary			 U
-ore			 U
-organ			 U
-organic			 U
-organism			 U
-organization			 K
-organize			 K
-orient			 U
-oriental			 U
-orientation			 U
-origin			 K
-original			 K
-originate			 N
-ornament			 N
-orphan			 U
-orthodox			 N
-other			 K
-otherwise			 K
-ought			 K
-ounce			 K
-our			 K
-ours			 K
-ourselves			 K
-out			 K
-outbreak			 U
-outcome			 K
-outdoor			 K
-outer			 K
-outfit			 U
-outing			 U
-outlet			 N
-outline			 K
-outlook			 K
-output			 K
-outrage			 U
-outset			 U
-outside			 U
-outskirts			 U
-outstanding			 U
-outward			 U
-oval			 U
-oven			 U
-over			 K
-overall			 K
-overcoat			 K
-overcome			 K
-overflow			 K
-overhead			 N
-overhear			 N
-overlap			 K
-overlook			 K
-overnight			 K
-overpass			 K
-overseas			 K
-overtake			 N
-overthrow			 N
-overtime			 K
-overturn			 K
-overwhelm			 K
-overwhelming			 K
-owe			 U
-owing			 U
-owl			 U
-own			 K
-owner			 K
-ownership			 K
-ox			 K
-oxide			 K
-oxygen			 K
-ozone			 U
-pace			 K
-pack			 K
-package			 K
-packet			 U
-pact			 U
-pad			 K
-paddle			 U
-page			 K
-pail			 U
-pain			 U
-painful			 K
-paint			 U
-painter			 U
-painting			 K
-pair			 U
-palace			 K
-pale			 U
-palm			 K
-pamphlet			 U
-pan			 K
-panda			 K
-panel			 K
-panic			 K
-panorama			 U
-pant			 U
-pants			 U
-paper			 K
-paperback			 N
-parachute			 U
-parade			 U
-paradigm			 U
-paradox			 U
-paragraph			 U
-parallel			 K
-paralyze			 U
-parameter			 K
-parasite			 U
-parcel			 U
-pardon			 U
-parent			 U
-park			 K
-parliament			 U
-part			 K
-partial			 K
-participant			 K
-participate			 K
-particle			 U
-particular			 K
-partly			 U
-partner			 U
-party			 K
-pass			 K
-passage			 K
-passenger			 K
-passer-by			 U
-passion			 K
-passive			 K
-passport			 K
-past			 K
-paste			 K
-pastime			 K
-pasture			 U
-pat			 U
-patch			 K
-patent			 K
-path			 K
-pathetic			 U
-patience			 U
-patient			 U
-patriotic			 U
-patrol			 U
-patron			 U
-pattern			 K
-pause			 K
-pave			 K
-pavement			 K
-paw			 U
-pay			 K
-payment			 K
-pea			 U
-peace			 K
-peaceful			 K
-peach			 N
-peak			 N
-peanut			 K
-pear			 K
-NULL			 K
-pearl			 U
-peasant			 U
-pebble			 U
-peculiar			 U
-pedal			 U
-pedestrian			 U
-peel			 U
-peep			 U
-peer			 K
-pen			 K
-penalty			 U
-pencil			 K
-pendulum			 U
-penetrate			 K
-peninsula			 K
-penny			 K
-pension			 U
-people			 K
-pepper			 U
-per			 U
-perceive			 U
-percent			 K
-percentage			 K
-perfect			 K
-perfection			 N
-perform			 K
-performance			 K
-perfume			 U
-perhaps			 K
-period			 N
-periodical			 N
-perish			 U
-permanent			 U
-permeate			 U
-permission			 K
-permit			 K
-perpetual			 U
-perplex			 U
-persecute			 U
-persevere			 U
-persist			 U
-person			 K
-personal			 K
-personality			 K
-personnel			 U
-perspective			 N
-persuade			 U
-persuasion			 U
-pessimistic			 U
-pest			 U
-pet			 K
-petition			 U
-petrol			 K
-petroleum			 K
-petty			 U
-pharmacy			 U
-phase			 K
-phenomenon			 K
-philosopher			 K
-philosophy			 K
-phone			 K
-photo			 K
-phrase			 N
-physical			 K
-physician			 K
-physicist			 K
-physics			 K
-physiological			 K
-piano			 K
-pick			 K
-pickup			 K
-picnic			 U
-picture			 K
-pie			 K
-piece			 N
-pierce			 K
-pig			 K
-pigeon			 U
-pile			 K
-pilgrim			 U
-pill			 U
-pillar			 U
-pillow			 K
-pilot			 U
-pin			 U
-pinch			 U
-pine			 U
-pink			 K
-pint			 U
-pioneer			 U
-pipe			 K
-pirate			 U
-pistol			 U
-piston			 U
-pit			 U
-pitch			 U
-pity			 K
-place			 U
-plague			 U
-plain			 U
-plan			 K
-plane			 K
-planet			 U
-plant			 K
-plantation			 U
-plaster			 N
-plastic			 N
-plate			 K
-plateau			 K
-platform			 K
-plausible			 U
-play			 K
-playground			 K
-plea			 U
-plead			 U
-pleasant			 N
-please			 K
-pleasure			 K
-pledge			 U
-plentiful			 U
-plenty			 K
-plight			 K
-plot			 U
-plough			 U
-plug			 U
-plumber			 U
-plunge			 U
-plural			 U
-plus			 K
-pneumonia			 U
-pocket			 K
-poem			 K
-poet			 K
-poetry			 U
-point			 K
-poison			 K
-poisonous			 K
-poke			 K
-polar			 K
-pole			 U
-police			 K
-policeman			 K
-policy			 K
-polish			 N
-polite			 K
-political			 K
-politician			 K
-politics			 K
-poll			 N
-pollute			 U
-pollution			 U
-pond			 U
-ponder			 U
-pool			 K
-poor			 K
-pop			 K
-pope			 U
-popular			 K
-population			 K
-porcelain			 U
-porch			 U
-pork			 U
-port			 K
-portable			 U
-porter			 U
-portion			 U
-portrait			 U
-portray			 U
-pose			 K
-position			 K
-positive			 K
-possess			 U
-possession			 U
-possibility			 U
-possible			 K
-possibly			 K
-post			 K
-postage			 U
-postcard			 U
-poster			 K
-postman			 K
-postpone			 K
-posture			 U
-pot			 K
-potato			 K
-potential			 N
-poultry			 U
-pound			 U
-pour			 N
-poverty			 U
-powder			 U
-power			 K
-powerful			 K
-practical			 K
-practically			 K
-practice			 K
-practise			 N
-practitioner			 N
-praise			 K
-pray			 K
-prayer			 K
-preach			 U
-precaution			 U
-precede			 N
-precedent			 K
-preceding			 K
-precious			 N
-precise			 N
-precision			 N
-preclude			 U
-predecessor			 N
-predict			 K
-predominant			 K
-preface			 K
-prefer			 K
-preferable			 U
-preference			 U
-pregnant			 K
-prejudice			 U
-preliminary			 U
-premier			 U
-premise			 U
-premium			 U
-preparation			 K
-prepare			 K
-preposition			 U
-prescribe			 U
-prescription			 U
-presence			 U
-present			 K
-presently			 K
-preserve			 U
-preside			 U
-president			 K
-press			 K
-pressure			 K
-prestige			 U
-presumably			 K
-presume			 U
-pretend			 K
-pretext			 N
-pretty			 K
-prevail			 K
-prevalent			 U
-prevent			 K
-previous			 K
-prey			 N
-price			 K
-prick			 U
-pride			 N
-NULL			 K
-priest			 U
-primary			 N
-prime			 N
-primitive			 U
-prince			 K
-princess			 K
-principal			 N
-principle			 N
-print			 K
-prior			 K
-priority			 K
-prison			 K
-prisoner			 K
-privacy			 K
-private			 K
-privilege			 U
-prize			 K
-probability			 K
-probable			 K
-probe			 U
-problem			 K
-procedure			 U
-proceed			 K
-proceeding			 K
-process			 K
-procession			 K
-proclaim			 K
-produce			 K
-product			 K
-production			 K
-productive			 K
-productivity			 K
-profession			 K
-professional			 K
-professor			 K
-proficiency			 U
-profile			 K
-profit			 K
-profitable			 K
-profound			 K
-programme			 U
-progress			 K
-progressive			 N
-prohibit			 K
-project			 K
-projector			 K
-prolong			 U
-prominent			 N
-promise			 K
-promising			 K
-promote			 K
-prompt			 N
-prone			 N
-pronoun			 U
-pronounce			 U
-pronunciation			 U
-proof			 K
-propaganda			 U
-propel			 U
-proper			 K
-property			 K
-prophet			 U
-proportion			 N
-proposal			 N
-propose			 U
-proposition			 U
-prose			 N
-prosecute			 U
-prospect			 N
-prospective			 N
-prosper			 U
-prosperity			 N
-prosperous			 N
-protect			 K
-protein			 U
-protest			 K
-prototype			 K
-proud			 U
-prove			 U
-provide			 K
-provided			 K
-province			 K
-provision			 U
-provoke			 K
-prudent			 K
-psychiatry			 N
-psychology			 N
-pub			 K
-public			 K
-publication			 K
-publicity			 K
-publish			 K
-puff			 U
-pull			 K
-pulse			 N
-pump			 K
-punch			 K
-punctual			 N
-punish			 K
-pupil			 N
-puppet			 U
-purchase			 K
-pure			 K
-purify			 K
-purple			 U
-purpose			 K
-purse			 N
-pursue			 U
-pursuit			 K
-push			 K
-put			 K
-puzzle			 N
-pyramid			 K
-qualification			 N
-qualify			 N
-qualitative			 N
-quality			 N
-quantify			 N
-quantitative			 N
-quantity			 N
-quarrel			 U
-quart			 N
-quarter			 K
-quarterly			 K
-quartz			 N
-queen			 K
-queer			 U
-quench			 U
-quest			 N
-question			 K
-questionnaire			 U
-queue			 K
-quick			 K
-quiet			 K
-quilt			 U
-quit			 K
-quite			 K
-quiver			 U
-quiz			 U
-quota			 U
-quote			 K
-rabbit			 K
-race			 K
-racial			 K
-rack			 U
-racket			 U
-radar			 U
-radiant			 U
-radiate			 U
-radical			 U
-radio			 K
-radioactive			 K
-radius			 K
-rag			 U
-rage			 K
-raid			 U
-rail			 U
-railroad			 U
-rain			 K
-rainbow			 K
-raise			 K
-rake			 U
-rally			 N
-random			 K
-range			 K
-rank			 K
-rap			 U
-rape			 N
-rapid			 K
-rare			 K
-rarely			 K
-rash			 U
-rat			 U
-rate			 K
-rather			 K
-ratio			 K
-rational			 K
-raw			 K
-ray			 U
-razor			 U
-reach			 K
-react			 U
-read			 K
-reader			 K
-readily			 N
-reading			 K
-ready			 K
-real			 K
-realise			 K
-realistic			 N
-reality			 K
-really			 K
-realm			 K
-reap			 N
-rear			 K
-reason			 K
-reasonable			 K
-reassure			 U
-rebel			 U
-rebellion			 U
-recall			 K
-recede			 N
-receipt			 K
-receive			 K
-recent			 K
-reception			 N
-recipe			 U
-recipient			 U
-reciprocal			 U
-recite			 U
-reckless			 U
-reckon			 K
-reclaim			 K
-recognition			 K
-recognize			 K
-recollect			 U
-recommend			 K
-reconcile			 U
-record			 K
-recorder			 K
-recover			 K
-recovery			 K
-recreation			 U
-recruit			 U
-rectangle			 K
-rectify			 U
-recur			 U
-recycle			 K
-red			 K
-reduce			 U
-reduction			 U
-redundant			 U
-reed			 U
-reel			 U
-refer			 U
-reference			 K
-refine			 N
-reflect			 K
-reflection			 K
-reform			 K
-refrain			 U
-refresh			 K
-refreshment			 N
-refuge			 U
-refugee			 K
-refund			 U
-refusal			 U
-refuse			 K
-refute			 U
-regard			 K
-NULL			 K
-regarding			 K
-regardless			 K
-regime			 K
-region			 K
-register			 K
-regret			 K
-regular			 K
-regulate			 K
-regulation			 K
-rehearsal			 U
-reign			 K
-rein			 U
-reinforce			 U
-reject			 N
-rejoice			 U
-relate			 K
-relation			 K
-relationship			 K
-relative			 K
-relativity			 K
-relax			 K
-relay			 K
-release			 N
-relevant			 N
-reliable			 K
-reliance			 K
-relief			 K
-relieve			 K
-religion			 U
-religious			 U
-relish			 U
-reluctant			 U
-rely			 K
-remain			 K
-remainder			 K
-remains			 K
-remark			 K
-remarkable			 K
-remedy			 U
-remember			 K
-remind			 K
-remnant			 N
-remote			 K
-removal			 U
-remove			 K
-renaissance			 U
-render			 K
-renew			 U
-renovate			 U
-rent			 U
-repair			 K
-repay			 U
-repeat			 K
-repeatedly			 K
-repel			 U
-repertoire			 U
-repetition			 U
-replace			 K
-replacement			 K
-reply			 K
-report			 K
-reporter			 K
-represent			 K
-representative			 K
-repression			 K
-reproach			 U
-reproduce			 N
-reptile			 N
-republic			 N
-republican			 N
-reputation			 N
-request			 K
-require			 K
-requirement			 K
-rescue			 K
-research			 K
-resemblance			 U
-resemble			 U
-resent			 U
-reservation			 U
-reserve			 N
-reservoir			 N
-residence			 U
-resident			 K
-resign			 U
-resist			 U
-resistance			 U
-resistant			 U
-resolute			 N
-resolution			 N
-resolve			 N
-resort			 N
-resource			 K
-respect			 K
-respective			 K
-respond			 K
-response			 K
-responsibility			 K
-responsible			 K
-rest			 K
-restaurant			 K
-restless			 U
-restore			 K
-restrain			 K
-restraint			 K
-restrict			 U
-result			 K
-resultant			 K
-resume			 K
-retail			 K
-retain			 N
-retention			 U
-retire			 K
-retort			 U
-retreat			 N
-retrieve			 N
-retrospect			 U
-return			 K
-reveal			 K
-revelation			 K
-revenge			 U
-revenue			 K
-reverse			 K
-review			 K
-revise			 N
-revive			 N
-revolt			 U
-revolution			 K
-revolutionary			 K
-revolve			 N
-reward			 K
-rhythm			 N
-rib			 U
-ribbon			 U
-rice			 K
-rich			 K
-rid			 U
-riddle			 U
-ride			 K
-ridge			 U
-ridiculous			 K
-rifle			 U
-right			 K
-rigid			 U
-rigorous			 U
-rim			 K
-ring			 K
-riot			 U
-rip			 N
-ripe			 K
-rise			 K
-risk			 K
-ritual			 U
-rival			 U
-river			 K
-road			 K
-roar			 K
-roast			 U
-rob			 K
-robe			 K
-robot			 K
-robust			 K
-rock			 K
-rocket			 K
-rod			 U
-role			 K
-roll			 K
-romance			 K
-romantic			 K
-roof			 K
-room			 K
-root			 K
-rope			 U
-rose			 K
-rot			 K
-rotary			 U
-rotate			 K
-rotten			 K
-rough			 U
-round			 K
-roundabout			 K
-rouse			 K
-route			 K
-routine			 K
-row			 K
-royal			 K
-royalty			 N
-rub			 U
-rubber			 U
-rubbish			 U
-ruby			 K
-rude			 U
-rug			 K
-ruin			 U
-rule			 K
-ruler			 K
-rumor			 K
-run			 K
-rural			 U
-rush			 K
-rust			 U
-ruthless			 U
-sack			 U
-sacred			 U
-sacrifice			 N
-sad			 K
-saddle			 U
-safe			 K
-safeguard			 N
-safety			 K
-sail			 U
-sailor			 K
-saint			 N
-sake			 U
-salad			 U
-salary			 K
-sale			 N
-salesman			 K
-salt			 N
-salute			 U
-salvation			 U
-same			 K
-sample			 K
-sanction			 U
-sand			 K
-sandwich			 K
-sane			 U
-sarcastic			 U
-satellite			 K
-satire			 U
-satisfaction			 K
-satisfactory			 K
-satisfy			 K
-saturate			 K
-Saturday			 K
-sauce			 U
-saucer			 U
-sausage			 U
-savage			 U
-save			 K
-saving			 K
-saw			 K
-say			 K
-scale			 K
-scan			 K
-scandal			 K
-scar			 U
-scarce			 K
-scarcely			 U
-scare			 K
-NULL			 K
-scarf			 U
-scatter			 U
-scene			 N
-scenery			 N
-scent			 U
-schedule			 K
-scheme			 U
-scholar			 K
-scholarship			 K
-school			 K
-science			 K
-scientific			 K
-scientist			 K
-scissors			 U
-scold			 U
-scope			 K
-score			 K
-scorn			 U
-scout			 U
-scramble			 U
-scrap			 U
-scrape			 U
-scratch			 U
-scream			 K
-screen			 K
-screw			 U
-script			 K
-scrutiny			 U
-sculpture			 U
-sea			 K
-seal			 K
-seam			 K
-search			 K
-seaside			 K
-season			 K
-seat			 K
-second			 K
-secondary			 K
-secret			 K
-secretary			 K
-section			 K
-sector			 K
-secure			 K
-security			 K
-see			 K
-seed			 K
-seek			 K
-seem			 K
-seemingly			 K
-segment			 K
-segregate			 U
-seize			 K
-seldom			 K
-select			 K
-selection			 K
-self			 K
-selfish			 K
-sell			 K
-semester			 U
-semiconductor			 U
-seminar			 U
-senate			 K
-senator			 U
-send			 K
-senior			 K
-sensation			 N
-sense			 K
-sensible			 K
-sensitive			 K
-sentence			 K
-sentiment			 U
-separate			 K
-September			 K
-sequence			 K
-serial			 N
-series			 N
-serious			 N
-servant			 K
-serve			 K
-service			 K
-session			 K
-set			 K
-setback			 U
-setting			 K
-settle			 K
-settlement			 K
-seven			 K
-several			 K
-severe			 U
-sew			 U
-sex			 K
-shabby			 N
-shade			 K
-shadow			 K
-shady			 U
-shaft			 U
-shake			 K
-shall			 U
-shallow			 K
-sham			 U
-shame			 U
-shampoo			 U
-shape			 K
-share			 K
-shark			 U
-sharp			 U
-shatter			 U
-shave			 N
-she			 K
-shear			 N
-shed			 U
-sheep			 K
-sheer			 U
-sheet			 N
-shelf			 K
-shell			 K
-shelter			 K
-shepherd			 U
-shield			 N
-shift			 K
-shilling			 U
-shine			 U
-ship			 K
-shipment			 K
-shirt			 U
-shiver			 N
-shock			 K
-shoe			 K
-shoot			 K
-shop			 K
-shopkeeper			 K
-shore			 U
-short			 U
-shortage			 K
-shortcoming			 K
-shorthand			 K
-shortly			 K
-shot			 K
-should			 K
-shoulder			 U
-shout			 U
-shove			 U
-show			 K
-shower			 U
-shrewd			 U
-shrink			 K
-shrug			 U
-shut			 K
-shutter			 K
-shuttle			 K
-shy			 U
-sick			 K
-side			 K
-sideways			 K
-siege			 U
-sigh			 K
-sight			 U
-sightseeing			 K
-sign			 K
-signal			 K
-signature			 U
-significance			 K
-significant			 K
-signify			 K
-silence			 K
-silent			 K
-silicon			 K
-silk			 K
-silly			 U
-silver			 K
-similar			 K
-simple			 K
-simplicity			 K
-simplify			 K
-simply			 K
-simulate			 K
-simultaneous			 K
-sin			 U
-since			 K
-sincere			 N
-sing			 K
-single			 K
-singular			 K
-sink			 U
-sip			 K
-sir			 K
-siren			 U
-sister			 K
-sit			 K
-site			 K
-situated			 U
-situation			 K
-six			 K
-size			 K
-skate			 U
-skeleton			 K
-skeptical			 U
-sketch			 U
-ski			 U
-skill			 U
-skilled			 U
-skillful			 U
-skim			 U
-skin			 K
-skip			 K
-skirt			 K
-skull			 U
-sky			 K
-skyscraper			 K
-slack			 U
-slam			 U
-slap			 U
-slaughter			 N
-slave			 K
-sleep			 K
-sleeve			 U
-slender			 K
-slice			 K
-slide			 U
-slight			 U
-slim			 U
-slip			 U
-slipper			 U
-slippery			 U
-slit			 U
-slogan			 U
-slope			 U
-slot			 K
-slow			 K
-slum			 U
-sly			 U
-small			 K
-smart			 K
-smash			 U
-smell			 U
-smile			 K
-smog			 K
-smoke			 K
-smooth			 K
-smuggle			 U
-snack			 K
-snake			 K
-snap			 U
-snatch			 U
-sneak			 U
-sneeze			 U
-sniff			 U
-snow			 K
-snowstorm			 K
-so			 K
-NULL			 K
-soak			 U
-soap			 N
-soar			 K
-sob			 K
-sober			 K
-so-called			 K
-soccer			 K
-sociable			 N
-social			 N
-socialism			 K
-society			 K
-sociology			 K
-sock			 K
-soda			 K
-sofa			 K
-soft			 K
-software			 K
-soil			 U
-solar			 U
-soldier			 K
-sole			 K
-solemn			 U
-solid			 K
-solidarity			 K
-solitary			 K
-solo			 K
-soluble			 N
-solution			 K
-solve			 U
-some			 K
-somebody			 K
-somehow			 K
-someone			 K
-something			 K
-sometime			 K
-sometimes			 K
-somewhat			 K
-somewhere			 K
-son			 K
-song			 K
-soon			 K
-sophisticated			 K
-sophomore			 K
-sore			 K
-sorrow			 U
-sorry			 K
-sort			 K
-soul			 N
-sound			 K
-soup			 K
-sour			 K
-source			 K
-south			 K
-southeast			 K
-southern			 K
-southwest			 K
-sovereign			 K
-sow			 U
-space			 K
-spacecraft			 K
-spaceship			 K
-spacious			 N
-spade			 U
-span			 K
-spare			 K
-spark			 N
-sparkle			 N
-speak			 U
-speaker			 K
-spear			 N
-special			 K
-specialist			 K
-speciality			 N
-specialize			 K
-species			 K
-specific			 K
-specification			 K
-specify			 N
-specimen			 U
-spectacle			 U
-spectacular			 U
-spectator			 U
-spectrum			 U
-speculate			 K
-speech			 K
-speed			 K
-spell			 K
-spelling			 K
-spend			 K
-sphere			 K
-spicy			 U
-spider			 K
-spill			 U
-spin			 K
-spine			 U
-spiral			 U
-spirit			 K
-spiritual			 U
-spit			 U
-spite			 U
-splash			 U
-splendid			 U
-split			 K
-spoil			 U
-spokesman			 K
-sponge			 U
-sponsor			 K
-spontaneous			 U
-spoon			 U
-sport			 K
-sportsman			 K
-spot			 K
-spouse			 U
-spray			 U
-spread			 K
-spring			 K
-sprinkle			 U
-sprout			 U
-spur			 U
-spy			 K
-square			 K
-squeeze			 K
-squirrel			 U
-stab			 U
-stability			 U
-stable			 K
-stack			 K
-stadium			 U
-staff			 K
-stage			 U
-stagger			 U
-stain			 U
-stair			 K
-staircase			 U
-stake			 U
-stale			 U
-stalk			 K
-stall			 U
-stamp			 U
-stand			 K
-standard			 K
-standpoint			 K
-staple			 U
-star			 K
-stare			 U
-start			 K
-startle			 U
-starve			 K
-state			 K
-statement			 K
-statesman			 U
-static			 K
-station			 K
-stationary			 U
-stationery			 U
-statistical			 U
-statue			 K
-status			 K
-statute			 U
-stay			 K
-steady			 U
-steak			 U
-steal			 K
-steam			 U
-steamer			 U
-steel			 K
-steep			 U
-steer			 U
-stem			 U
-step			 K
-stereo			 K
-stereotype			 K
-stern			 U
-steward			 U
-stick			 K
-sticky			 K
-stiff			 U
-still			 K
-stimulate			 K
-sting			 U
-stir			 U
-stitch			 U
-stock			 K
-stocking			 K
-stomach			 U
-stone			 K
-stool			 U
-stoop			 U
-stop			 K
-storage			 K
-store			 K
-storey			 K
-storm			 K
-story			 K
-stove			 U
-straight			 K
-straightforward			 K
-strain			 U
-strange			 K
-stranger			 K
-strap			 U
-strategy			 K
-straw			 U
-strawberry			 U
-stream			 K
-streamline			 K
-street			 K
-strength			 K
-strengthen			 K
-strenuous			 U
-stress			 U
-stretch			 U
-strict			 U
-stride			 U
-strife			 U
-strike			 K
-striking			 U
-string			 U
-strip			 K
-stripe			 K
-strive			 U
-stroke			 U
-stroll			 U
-strong			 K
-structure			 K
-struggle			 U
-stubborn			 U
-student			 K
-studio			 K
-study			 K
-stuff			 K
-stumble			 K
-stun			 U
-stupid			 K
-sturdy			 U
-style			 K
-subject			 K
-subjective			 U
-submarine			 U
-submerge			 U
-submit			 K
-subordinate			 U
-subscribe			 N
-subsequent			 U
-subsidy			 U
-substance			 U
-substantial			 U
-substitute			 U
-subtle			 U
-subtract			 U
-NULL			 K
-suburb			 U
-subway			 K
-succeed			 K
-success			 K
-successful			 K
-succession			 U
-successive			 U
-successor			 K
-such			 K
-suck			 K
-sudden			 U
-sue			 U
-suffer			 K
-suffice			 U
-sufficient			 K
-sugar			 K
-suggest			 K
-suggestion			 K
-suicide			 K
-suit			 K
-suitable			 K
-suite			 U
-sulfur			 U
-sum			 K
-summarize			 K
-summary			 K
-summer			 K
-summit			 K
-summon			 U
-sun			 K
-Sunday			 K
-sunrise			 K
-sunset			 K
-sunshine			 K
-super			 K
-superb			 U
-superficial			 U
-superfluous			 U
-superior			 U
-superiority			 U
-supermarket			 U
-supersonic			 U
-superstition			 U
-supervise			 K
-supper			 K
-supplement			 U
-supply			 K
-support			 K
-suppose			 K
-suppress			 U
-supreme			 U
-sure			 K
-surface			 K
-surge			 U
-surgeon			 U
-surgery			 U
-surname			 K
-surpass			 U
-surplus			 K
-surprise			 K
-surrender			 U
-surround			 K
-surroundings			 K
-survey			 U
-survival			 K
-survive			 K
-susceptible			 U
-suspect			 K
-suspend			 K
-suspicion			 U
-suspicious			 U
-sustain			 K
-swallow			 U
-swamp			 U
-swan			 K
-swarm			 U
-sway			 U
-swear			 K
-sweat			 U
-sweater			 U
-sweep			 N
-sweet			 N
-swell			 U
-swift			 K
-swim			 U
-swing			 U
-switch			 U
-sword			 K
-symbol			 K
-symmetry			 K
-sympathetic			 N
-sympathize			 N
-sympathy			 N
-symphony			 U
-symposium			 U
-symptom			 U
-syndrome			 U
-synthesis			 K
-synthetic			 K
-system			 K
-systematic			 K
-table			 K
-tablet			 U
-tackle			 U
-tactic			 K
-tag			 K
-tail			 K
-tailor			 K
-take			 K
-tale			 K
-talent			 K
-talk			 K
-tall			 K
-tame			 U
-tan			 U
-tangle			 K
-tank			 K
-tanker			 K
-tap			 K
-tape			 K
-tar			 U
-target			 K
-tariff			 U
-task			 K
-taste			 K
-tax			 K
-taxi			 K
-tea			 K
-teach			 K
-teacher			 K
-team			 K
-tear			 U
-tease			 K
-technical			 K
-technician			 K
-technique			 K
-technology			 K
-tedious			 U
-teenager			 K
-telegram			 K
-telegraph			 K
-telephone			 K
-telescope			 K
-tell			 K
-temper			 K
-temperament			 U
-temperature			 U
-temple			 K
-tempo			 K
-temporary			 K
-tempt			 K
-temptation			 K
-ten			 K
-tenant			 K
-tend			 K
-tendency			 U
-tender			 K
-tennis			 U
-tense			 U
-tension			 K
-tent			 K
-tentative			 U
-term			 K
-terminal			 K
-terminate			 K
-terrible			 K
-terrific			 K
-terrify			 K
-territory			 K
-terror			 K
-test			 K
-testify			 K
-testimony			 K
-text			 K
-textbook			 K
-textile			 K
-texture			 K
-than			 K
-thank			 K
-Thanksgiving			 K
-that			 K
-the			 K
-theater			 K
-theft			 K
-their			 K
-theirs			 K
-them			 K
-theme			 K
-themselves			 K
-then			 K
-theoretical			 U
-theory			 K
-therapy			 U
-there			 K
-thereafter			 K
-thereby			 K
-therefore			 K
-thermal			 U
-thermometer			 U
-these			 K
-thesis			 U
-they			 K
-thick			 K
-thief			 K
-thigh			 U
-thin			 K
-thing			 K
-think			 K
-third			 K
-thirst			 K
-thirsty			 K
-thirteen			 U
-thirty			 K
-this			 K
-thorn			 N
-thorough			 N
-those			 K
-though			 K
-thought			 K
-thoughtful			 K
-thousand			 K
-thread			 K
-threat			 K
-threaten			 K
-three			 K
-threshold			 K
-thrift			 U
-thrill			 U
-thrive			 N
-throat			 K
-throne			 K
-through			 K
-throughout			 K
-throw			 K
-thrust			 U
-thumb			 K
-thunder			 K
-Thursday			 K
-thus			 K
-tick			 K
-ticket			 K
-tide			 K
-tidy			 K
-tie			 K
-tiger			 K
-tight			 U
-tile			 U
-till			 K
-tilt			 U
-timber			 N
-NULL			 K
-time			 K
-timely			 K
-timid			 U
-tin			 K
-tiny			 K
-tip			 K
-tire			 U
-tired			 U
-tiresome			 U
-tissue			 K
-title			 K
-to			 K
-toast			 U
-tobacco			 K
-today			 K
-toe			 K
-together			 K
-toilet			 K
-token			 K
-tolerance			 K
-tolerant			 K
-tolerate			 K
-toll			 K
-tomato			 K
-tomb			 U
-tomorrow			 K
-ton			 K
-tone			 K
-tongue			 U
-tonight			 K
-too			 K
-tool			 K
-tooth			 K
-top			 K
-topic			 K
-torch			 U
-torment			 N
-torrent			 K
-torture			 N
-toss			 U
-total			 K
-touch			 K
-tough			 U
-tour			 K
-tourist			 K
-tow			 N
-toward			 U
-towel			 U
-tower			 K
-town			 K
-toxic			 K
-toy			 K
-trace			 K
-track			 N
-tractor			 K
-trade			 K
-trademark			 K
-tradition			 K
-traffic			 K
-tragedy			 K
-tragic			 U
-trail			 N
-train			 K
-training			 K
-trait			 K
-traitor			 U
-tram			 U
-tramp			 U
-transaction			 K
-transcend			 U
-transfer			 K
-transform			 K
-transient			 K
-transistor			 U
-transition			 U
-translate			 K
-translation			 K
-transmission			 U
-transmit			 U
-transparent			 K
-transplant			 K
-transport			 K
-trap			 K
-trash			 K
-travel			 K
-tray			 U
-treason			 U
-treasure			 U
-treat			 U
-treaty			 U
-tree			 K
-tremble			 K
-tremendous			 K
-trench			 U
-trend			 K
-trial			 U
-triangle			 K
-tribe			 U
-tribute			 K
-trick			 U
-trifle			 U
-trigger			 K
-trim			 U
-trip			 K
-triple			 K
-triumph			 N
-trivial			 U
-trolley			 U
-troop			 N
-tropic			 U
-tropical			 U
-trouble			 K
-troublesome			 K
-trousers			 K
-truck			 U
-true			 K
-trumpet			 N
-trunk			 U
-trust			 K
-truth			 K
-try			 K
-tub			 U
-tube			 U
-tuck			 U
-Tuesday			 K
-tug			 K
-tuition			 K
-tumble			 U
-tumour			 U
-tune			 K
-tunnel			 K
-turbine			 K
-turbulent			 N
-turkey			 K
-turn			 K
-turnover			 K
-tutor			 U
-TV			 K
-twelve			 K
-twenty			 K
-twice			 K
-twin			 U
-twinkle			 U
-twist			 U
-two			 K
-type			 K
-typewriter			 U
-typhoon			 U
-typical			 K
-typist			 U
-ugly			 K
-ultimate			 K
-ultraviolet			 U
-umbrella			 K
-unanimous			 U
-uncle			 K
-uncover			 N
-under			 N
-underestimate			 K
-undergo			 K
-undergraduate			 K
-underground			 K
-underlie			 U
-underline			 K
-underlying			 K
-undermine			 U
-underneath			 U
-understand			 K
-understanding			 K
-undertake			 U
-undo			 N
-undoubtedly			 K
-uneasy			 U
-unemployment			 K
-unexpected			 K
-unfold			 K
-unfortunately			 K
-uniform			 K
-unify			 U
-union			 K
-unique			 K
-unit			 K
-unite			 K
-unity			 U
-universal			 K
-universe			 K
-university			 U
-unless			 K
-unlike			 K
-unlikely			 K
-unload			 K
-until			 K
-unusual			 K
-up			 K
-update			 K
-upgrade			 U
-uphold			 U
-upon			 U
-upper			 K
-upright			 U
-uproar			 U
-upset			 K
-upstairs			 K
-up-to-date			 K
-upward			 K
-urban			 K
-urge			 K
-urgent			 U
-us			 K
-usage			 K
-use			 K
-used			 K
-useful			 K
-usual			 K
-usually			 K
-utilize			 U
-utmost			 U
-utter			 U
-vacant			 U
-vacation			 U
-vacuum			 K
-vague			 K
-vain			 K
-valid			 K
-valley			 K
-valuable			 K
-value			 K
-valve			 K
-van			 U
-vanish			 U
-vanity			 U
-vapour			 U
-variable			 K
-variation			 K
-variety			 K
-various			 K
-vary			 K
-vase			 U
-vast			 K
-vegetable			 U
-vegetarian			 U
-vegetation			 U
-vehicle			 K
-veil			 U
-vein			 U
-velocity			 U
-velvet			 U
-ventilate			 U
-venture			 U
-verb			 U
-NULL			 K
-verbal			 U
-verdict			 U
-verge			 U
-verify			 K
-versatile			 U
-verse			 U
-version			 U
-versus			 K
-vertical			 K
-very			 K
-vessel			 U
-vest			 U
-veteran			 U
-veto			 U
-via			 K
-vibrate			 N
-vice			 U
-vicinity			 U
-vicious			 U
-victim			 K
-victory			 K
-video			 K
-view			 K
-viewpoint			 K
-vigorous			 U
-village			 K
-vinegar			 U
-violate			 N
-violence			 N
-violent			 N
-violet			 N
-violin			 K
-virgin			 U
-virtual			 N
-virtue			 U
-virus			 U
-visa			 K
-visible			 K
-vision			 K
-visit			 K
-visitor			 K
-visual			 K
-vital			 U
-vitamin			 K
-vivid			 K
-vocabulary			 K
-vocal			 U
-vocation			 U
-voice			 K
-void			 K
-volcano			 U
-volleyball			 K
-volt			 U
-voltage			 U
-volume			 K
-voluntary			 K
-volunteer			 K
-vote			 K
-vowel			 U
-voyage			 K
-vulgar			 U
-vulnerable			 U
-wage			 K
-wagon			 K
-waist			 U
-wait			 K
-waiter			 K
-waitress			 K
-wake			 K
-waken			 K
-walk			 K
-wall			 K
-wallet			 K
-wander			 U
-want			 K
-war			 K
-ward			 U
-wardrobe			 U
-warehouse			 U
-warfare			 U
-warm			 K
-warmth			 U
-warn			 K
-warrant			 K
-wash			 K
-waste			 K
-watch			 K
-watch			 K
-water			 K
-waterfall			 K
-waterproof			 U
-watt			 U
-wave			 K
-wax			 U
-way			 K
-we			 K
-weak			 U
-wealth			 K
-wealthy			 K
-weapon			 K
-wear			 K
-weary			 U
-weather			 K
-weave			 K
-web			 K
-wedding			 K
-wedge			 U
-Wednesday			 K
-weed			 U
-week			 K
-weekday			 K
-weekend			 K
-weekly			 K
-weep			 U
-weigh			 U
-weight			 K
-weird			 U
-welcome			 K
-weld			 U
-welfare			 K
-well			 U
-well-known			 K
-west			 K
-western			 K
-wet			 K
-whale			 U
-what			 K
-whatever			 K
-whatsoever			 K
-wheat			 U
-wheel			 K
-when			 K
-whenever			 K
-where			 K
-whereas			 U
-wherever			 K
-whether			 K
-which			 K
-whichever			 K
-while			 K
-whip			 U
-whirl			 U
-whisky			 U
-whisper			 U
-whistle			 U
-white			 K
-who			 K
-whoever			 K
-whole			 K
-wholesome			 U
-wholly			 U
-whom			 K
-whose			 K
-why			 K
-wicked			 N
-wide			 K
-widespread			 K
-widow			 K
-width			 K
-wife			 K
-wild			 K
-will			 K
-willing			 K
-win			 K
-wind			 K
-window			 K
-wine			 K
-wing			 K
-wink			 U
-winter			 K
-wipe			 U
-wire			 U
-wisdom			 K
-wise			 K
-wish			 K
-wit			 K
-witch			 K
-with			 K
-withdraw			 K
-withhold			 K
-within			 K
-without			 U
-withstand			 U
-witness			 K
-wolf			 K
-woman			 K
-wonder			 U
-wonderful			 K
-wood			 K
-wooden			 K
-wool			 U
-word			 U
-work			 K
-worker			 K
-workshop			 K
-world			 K
-worldwide			 K
-worm			 K
-worry			 K
-worse			 K
-worship			 K
-worst			 K
-worth			 K
-worthwhile			 K
-worthy			 K
-would			 K
-wound			 K
-wrap			 K
-wreath			 U
-wreck			 K
-wrench			 K
-wretched			 U
-wrinkle			 K
-wrist			 K
-write			 K
-writing			 K
-wrong			 K
-X-ray			 K
-yard			 K
-yawn			 U
-year			 K
-yearly			 K
-yell			 K
-yellow			 K
-yes			 K
-yesterday			 K
-yet			 K
-yield			 K
-you			 K
-young			 K
-youngster			 K
-your			 K
-yours			 K
-yourself			 K
-youth			 K
-zeal			 U
-zebra			 U
-zero			 K
-zigzag			 U
-zinc			 U
-zip			 K
-zone			 K
-zoo			 K
-zoom			 U
+a			 K K
+abandon			 K K
+abdomen			 U N
+abide			 N N
+ability			 K K
+able			 K K
+abnormal			 K K
+aboard			 K K
+abolish			 K K
+abound			 U U
+about			 K K
+above			 K K
+abroad			 K K
+abrupt			 K K
+absence			 K K
+absent			 K K
+absolute			 K K
+absorb			 N N
+abstract			 K K
+absurd			 N N
+abundance			 U K
+abundant			 U K
+abuse			 K K
+academic			 K K
+academy			 K K
+accelerate			 K K
+accent			 N N
+accept			 K K
+acceptance			 K K
+access			 K K
+accessory			 K K
+accident			 K K
+accidental			 N N
+acclaim			 N N
+accommodate			 K K
+accommodation			 K K
+accompany			 K K
+accomplish			 N N
+accord			 K K
+accordance			 K K
+according-to			 K K
+accordingly			 K K
+account			 K K
+accountant			 N N
+accumulate			 K K
+accuracy			 K K
+accurate			 K K
+accuse			 U K
+accustomed			 K K
+ache			 N N
+achieve			 K K
+acid			 K K
+acknowledge			 N N
+acquaint			 K K
+acquaintance			 K K
+acquire			 N N
+acquisition			 N N
+acre			 N N
+acrobat			 N N
+across			 N N
+act			 K K
+action			 K K
+activate			 N N
+active			 K K
+activity			 K K
+actor			 K K
+actress			 K K
+actual			 N N
+acute			 N N
+adapt			 K K
+add			 K K
+addict			 N N
+addition			 K K
+additional			 K K
+address			 K K
+adequate			 K K
+adhere			 N N
+adjacent			 K K
+adjective			 N N
+adjoin			 K K
+adjust			 K K
+administer			 K K
+administration			 N N
+admire			 K K
+admission			 U U
+admit			 K K
+adolescent			 K K
+adopt			 K K
+adore			 U U
+adult			 K K
+advance			 K K
+advanced			 N N
+advantage			 K K
+advent			 U K
+adventure			 U K
+adverb			 U U
+adverse			 U N
+advertise			 K K
+advice			 K K
+advisable			 U U
+advise			 N N
+advocate			 K K
+aerial			 U K
+aeroplane			 U U
+aesthetic			 U U
+affair			 U N
+affect			 K K
+affection			 K K
+affiliate			 N N
+affirm			 N N
+affluent			 K K
+afford			 K K
+afraid			 K K
+after			 K K
+afternoon			 K K
+afterward			 N N
+again			 K K
+against			 K K
+age			 K K
+agency			 K K
+agenda			 K K
+agent			 K K
+aggravate			 K K
+aggressive			 K K
+agitate			 U U
+ago			 K K
+agony			 U K
+agree			 K K
+agreeable			 N N
+agreement			 K K
+agriculture			 K K
+ahead			 K K
+Aid			 U K
+Aim			 U K
+Air			 K K
+air-conditioning			 K K
+aircraft			 K K
+airline			 K K
+airport			 K K
+Aisle			 U U
+alarm			 K K
+album			 K K
+alcohol			 K K
+Alert			 K K
+Alien			 K K
+Alike			 K K
+Alive			 U N
+All			 K K
+allege			 N N
+alleviate			 N N
+alliance			 N N
+allocate			 K K
+Allow			 K K
+allowance			 K K
+Alloy			 K K
+Ally			 K K
+almost			 K K
+alone			 K K
+along			 K K
+alongside			 K K
+aloud			 N N
+alphabet			 N N
+already			 K K
+Also			 K K
+Alter			 K K
+alternate			 N N
+alternative			 K K
+although			 N N
+altitude			 K K
+altogether			 U N
+aluminum			 K K
+always			 K K
+amateur			 K K
+amaze			 K K
+ambassador			 K K
+ambiguous			 K K
+ambition			 K K
+ambitious			 K K
+ambulance			 K K
+amend			 U U
+amiable			 U U
+Amid			 N N
+among			 N N
+amount			 K K
+ample			 U U
+amplifier			 K K
+amplify			 K K
+amuse			 K K
+analogue			 N N
+analogy			 N N
+analyse			 K K
+analysis			 K K
+analytic			 K K
+ancestor			 K K
+anchor			 K K
+ancient			 U N
+and			 K K
+anecdote			 U U
+angel			 K K
+anger			 K K
+angle			 K K
+angry			 K K
+anguish			 U N
+animal			 K K
+ankle			 K K
+anniversary			 K K
+announce			 K K
+annoy			 U U
+annual			 K K
+anonymous			 K K
+another			 K K
+answer			 K K
+ant			 K K
+antenna			 U U
+anticipate			 K K
+antique			 U U
+anxiety			 K K
+anxious			 K K
+any			 K K
+anybody			 K K
+anyhow			 K K
+anyone			 K K
+anything			 K K
+anyway			 K K
+anywhere			 K K
+apart			 N N
+apartment			 K K
+apologise			 K K
+apology			 K K
+appal			 U U
+apparatus			 N N
+apparent			 K K
+appeal			 K K
+appear			 K K
+appearance			 K K
+appendix			 N N
+appetite			 K K
+applaud			 N N
+applause			 N N
+apple			 K K
+appliance			 N N
+applicable			 N N
+application			 N N
+apply			 K K
+appoint			 K K
+appointment			 K K
+appraisal			 N N
+appreciate			 K K
+approach			 K K
+appropriate			 N N
+NULL			 K K
+approval			 N N
+approve			 N N
+approximate			 K K
+April			 K K
+apt			 U N
+arbitrary			 N N
+arch			 K K
+architect			 K K
+architecture			 K K
+area			 K K
+argue			 K K
+argument			 K K
+arise			 K K
+arithmetic			 K K
+arm			 K K
+army			 K K
+around			 K K
+arouse			 K K
+arrange			 K K
+array			 K K
+arrest			 K K
+arrival			 K K
+arrive			 K K
+arrogant			 U U
+arrow			 K K
+art			 K K
+artery			 K K
+article			 K K
+articulate			 U K
+artificial			 U U
+artist			 K K
+artistic			 N N
+as			 K K
+ascend			 K K
+ascertain			 K K
+ash			 U U
+ashamed			 N N
+ashore			 U U
+aside			 K K
+ask			 K K
+asleep			 K K
+aspect			 K K
+aspire			 U U
+assassinate			 N N
+assault			 K K
+assemble			 K K
+assembly			 K K
+assert			 K K
+assess			 N N
+asset			 K K
+assign			 K K
+assignment			 K K
+assimilate			 U U
+assist			 U K
+assistance			 K K
+assistant			 K K
+associate			 K K
+association			 K K
+assume			 K K
+assumption			 K K
+assurance			 N N
+assure			 N N
+astonish			 K K
+astronaut			 K K
+astronomy			 N N
+at			 K K
+athlete			 K K
+atmosphere			 K K
+atom			 K K
+attach			 K K
+attack			 K K
+attain			 N N
+attempt			 K K
+attend			 K K
+attendance			 K K
+attendant			 K K
+attention			 K K
+attitude			 K K
+attorney			 K K
+attract			 K K
+attractive			 K K
+attribute			 K K
+auction			 N N
+audience			 K K
+audio			 K K
+audit			 U N
+auditorium			 U U
+augment			 K K
+August			 K K
+aunt			 K K
+aural			 U U
+authentic			 U U
+author			 K K
+authority			 K K
+auto			 K K
+automatic			 K K
+automation			 U N
+autonomy			 U N
+autumn			 K K
+auxiliary			 N N
+avail			 K K
+available			 K K
+avenue			 K K
+average			 K K
+avert			 U U
+aviation			 U K
+avoid			 K K
+await			 N N
+awake			 K K
+award			 U N
+aware			 U K
+away			 K K
+awe			 U N
+awful			 K K
+awkward			 U N
+axe			 K K
+axis			 N N
+baby			 K K
+bachelor			 K K
+back			 K K
+background			 K K
+backward			 K K
+bacon			 K K
+bacterium			 N N
+bad			 K K
+badge			 U U
+badly			 K K
+badminton			 K K
+bag			 K K
+baggage			 U K
+bait			 U U
+bake			 N N
+balance			 K K
+balcony			 U U
+bald			 U U
+ball			 K K
+ballet			 K K
+balloon			 K K
+ballot			 U U
+ban			 K K
+banana			 K K
+band			 K K
+bandage			 K K
+bang			 K K
+bank			 K K
+bankrupt			 K K
+banner			 K K
+banquet			 K K
+bar			 K K
+barbecue			 U N
+barber			 U N
+bare			 U N
+barely			 U N
+bargain			 K K
+bark			 K K
+barn			 K K
+barrel			 K K
+barren			 K K
+barrier			 K K
+base			 K K
+baseball			 K K
+basement			 K K
+basic			 K K
+basin			 U U
+basis			 K K
+basket			 K K
+basketball			 K K
+bat			 K K
+batch			 K K
+bath			 K K
+bathe			 K K
+bathroom			 K K
+battery			 K K
+battle			 K K
+bay			 K K
+be			 K K
+beach			 N N
+beam			 K K
+bean			 K K
+bear			 N N
+beard			 K K
+bearing			 U N
+beast			 K K
+beat			 K K
+beautiful			 K K
+beauty			 K K
+because			 K K
+become			 K K
+bed			 K K
+bee			 K K
+beef			 K K
+beer			 K K
+before			 K K
+beforehand			 K K
+beg			 K K
+begin			 K K
+beginning			 K K
+behalf			 K K
+behave			 U U
+behavior			 K K
+behind			 K K
+being			 K K
+belief			 K K
+believe			 K K
+bell			 K K
+belly			 K K
+belong			 K K
+beloved			 K K
+below			 K K
+belt			 U K
+bench			 K K
+bend			 K K
+beneath			 K K
+beneficial			 K K
+benefit			 K K
+benign			 K K
+beside			 K K
+besides			 U N
+best			 K K
+bet			 U N
+betray			 K K
+better			 K K
+between			 K K
+beverage			 K K
+beware			 K K
+bewilder			 N N
+beyond			 K K
+bias			 K K
+Bible			 K K
+bibliography			 K K
+bicycle			 K K
+bid			 K K
+big			 K K
+bill			 K K
+billion			 K K
+bin			 K K
+bind			 K K
+biography			 K K
+biology			 K K
+bird			 K K
+birth			 K K
+birthday			 K K
+biscuit			 U U
+bite			 K K
+bitter			 U U
+bizarre			 N N
+black			 K K
+blackboard			 K K
+blackmail			 K K
+blade			 K K
+NULL			 K K
+blame			 U N
+blank			 K K
+blanket			 N N
+blast			 U N
+blaze			 K K
+bleak			 N N
+bleed			 K K
+blend			 K K
+bless			 N N
+blind			 K K
+block			 K K
+blood			 K K
+bloody			 K K
+bloom			 K K
+blossom			 K K
+blouse			 K K
+blow			 N N
+blue			 K K
+blueprint			 K K
+blunder			 U U
+blunt			 K K
+blur			 N N
+blush			 N N
+board			 N N
+boast			 K K
+boat			 K K
+body			 K K
+boil			 U U
+bold			 K K
+bolt			 K K
+bomb			 K K
+bond			 K K
+bone			 N N
+bonus			 K K
+book			 K K
+boom			 U U
+boost			 K K
+boot			 K K
+booth			 K K
+border			 K K
+bore			 K K
+born			 K K
+borrow			 K K
+bosom			 K K
+boss			 K K
+both			 K K
+bother			 N N
+bottle			 K K
+bottom			 K K
+bounce			 K K
+bound			 K K
+boundary			 K K
+bow			 K K
+bowel			 U N
+bowl			 U N
+bowling			 U K
+box			 K K
+boy			 K K
+boycott			 K K
+brace			 K K
+bracket			 U N
+brain			 K K
+brake			 N N
+branch			 K K
+brand			 K K
+brandy			 K K
+brass			 U U
+brave			 K K
+breach			 U U
+bread			 U K
+breadth			 K K
+break			 K K
+breakdown			 K K
+breakfast			 K K
+breast			 U U
+breath			 K K
+breathe			 K K
+breed			 U U
+breeze			 K K
+bribe			 U U
+brick			 K K
+bride			 U K
+bridge			 K K
+brief			 U K
+briefcase			 K K
+bright			 K K
+brilliant			 K K
+brim			 U N
+bring			 K K
+brisk			 U U
+brittle			 U U
+broad			 K K
+broadcast			 K K
+brochure			 U U
+bronze			 U U
+brook			 U N
+broom			 U U
+brother			 K K
+brow			 U U
+brown			 U N
+browse			 U N
+bruise			 U U
+brush			 K K
+brutal			 N N
+bubble			 K K
+bucket			 N N
+bud			 U U
+budget			 K K
+buffet			 U U
+bug			 K K
+build			 K K
+building			 K K
+bulb			 U U
+bulk			 U N
+bull			 U N
+bullet			 K K
+bulletin			 U U
+bully			 U U
+bump			 U N
+bunch			 K K
+bundle			 K K
+burden			 K K
+bureau			 K K
+bureaucracy			 K K
+burglar			 U U
+burn			 K K
+burst			 U U
+bury			 U U
+bus			 K K
+bush			 U U
+business			 K K
+busy			 K K
+but			 K K
+butcher			 U N
+butter			 K K
+butterfly			 K K
+button			 K K
+buy			 K K
+by			 K K
+bypass			 N N
+cab			 U U
+cabbage			 U N
+cabin			 K K
+cabinet			 K K
+cable			 N N
+cafe			 K K
+cafeteria			 U U
+cage			 U U
+cake			 K K
+calcium			 U N
+calculate			 K K
+calendar			 K K
+call			 K K
+calm			 N N
+calorie			 K K
+camel			 K K
+camera			 U N
+camp			 U N
+campaign			 K K
+campus			 U N
+can			 K K
+canal			 U U
+cancel			 K K
+cancer			 K K
+candidate			 K K
+candle			 U N
+candy			 K K
+cannon			 K K
+canoe			 U U
+canteen			 U U
+canvas			 K K
+cap			 K K
+capable			 K K
+capacity			 K K
+cape			 U U
+capital			 N N
+capitalism			 K K
+capsule			 K K
+captain			 U N
+captive			 U N
+capture			 K K
+car			 K K
+carbohydrate			 U U
+carbon			 U U
+card			 K K
+cardinal			 U U
+care			 K K
+career			 K K
+careful			 K K
+caress			 N N
+cargo			 K K
+carpenter			 K K
+carpet			 U U
+carriage			 N N
+carrier			 K K
+carrot			 K K
+carry			 K K
+cart			 K K
+cartoon			 K K
+carve			 K K
+case			 K K
+cash			 K K
+cashier			 K K
+cassette			 K K
+cast			 K K
+castle			 K K
+casual			 N N
+casualty			 N N
+cat			 K K
+catalog			 K K
+catastrophe			 K K
+catch			 K K
+category			 K K
+cater			 U U
+cathedral			 U U
+Catholic			 U U
+cattle			 K K
+cause			 N N
+caution			 N N
+cautious			 N N
+cave			 K K
+cease			 K K
+ceiling			 K K
+celebrate			 K K
+celebrity			 K K
+cell			 K K
+cellar			 K K
+cement			 U N
+cemetery			 U U
+census			 U U
+cent			 U U
+centigrade			 K K
+centimetre			 K K
+central			 K K
+centre			 K K
+century			 K K
+cereal			 U U
+ceremony			 N N
+certain			 K K
+certainly			 K K
+certainty			 K K
+certificate			 K K
+certify			 K K
+chain			 K K
+chair			 K K
+chairman			 K K
+chalk			 U U
+challenge			 K K
+chamber			 U U
+champagne			 K K
+NULL			 K K
+champion			 K K
+chance			 K K
+chancellor			 U U
+change			 K K
+channel			 K K
+chaos			 N N
+chap			 U U
+chapter			 K K
+character			 K K
+characteristic			 K K
+characterize			 N N
+charge			 N N
+charity			 N N
+charm			 N N
+chart			 K K
+charter			 U N
+chase			 K K
+chat			 K K
+cheap			 K K
+cheat			 U N
+cheek			 U U
+cheer			 U N
+cheese			 N N
+chef			 U U
+chemical			 K K
+chemist			 K K
+chemistry			 N N
+cheque			 U U
+cherish			 U N
+cherry			 K K
+chess			 K K
+chest			 U U
+chew			 N N
+chicken			 K K
+chief			 K K
+child			 K K
+childhood			 K K
+chill			 U N
+chimney			 U U
+chin			 U U
+china			 K K
+chip			 N N
+chocolate			 K K
+choice			 K K
+choke			 U U
+choose			 K K
+chop			 K K
+chorus			 U U
+Christ			 U U
+Christian			 U N
+Christmas			 K K
+chronic			 K K
+church			 N N
+cigar			 K K
+cigaret			 K K
+cinema			 K K
+circle			 K K
+circuit			 K K
+circular			 K K
+circulate			 N N
+circumference			 U U
+circus			 N N
+cite			 K K
+citizen			 U N
+city			 K K
+civil			 K K
+civilian			 K K
+civilization			 K K
+civilize			 K K
+claim			 N N
+clap			 K K
+clarify			 K K
+clarity			 K K
+clash			 K K
+clasp			 K K
+class			 K K
+classic			 K K
+classical			 K K
+classification			 K K
+classify			 K K
+classmate			 K K
+classroom			 K K
+clause			 U U
+claw			 U N
+clay			 U U
+clean			 K K
+clear			 K K
+clergy			 U U
+clerk			 U U
+clever			 K K
+click			 K K
+client			 K K
+cliff			 K K
+climate			 K K
+climax			 K K
+climb			 K K
+cling			 N N
+clinic			 U U
+clip			 K K
+cloak			 U N
+clock			 K K
+clockwise			 K K
+clone			 K K
+close			 K K
+closet			 K K
+cloth			 K K
+clothe			 N N
+clothes			 K K
+clothing			 N N
+cloud			 K K
+cloudy			 N N
+club			 K K
+clue			 K K
+clumsy			 U N
+cluster			 K K
+clutch			 N N
+coach			 K K
+coal			 U U
+coalition			 U U
+coarse			 U U
+coast			 U U
+coat			 U U
+cocaine			 K K
+cock			 K K
+code			 K K
+coffee			 K K
+cognitive			 K K
+coherent			 U N
+cohesive			 U U
+coil			 U N
+coin			 K K
+coincide			 K K
+coincidence			 K K
+coke			 U U
+cold			 K K
+collaborate			 K K
+collapse			 K K
+collar			 U U
+colleague			 K K
+collect			 K K
+collection			 K K
+collective			 K K
+college			 K K
+collide			 U N
+collision			 K K
+colonel			 U N
+colonial			 U N
+colony			 U N
+color			 K K
+column			 K K
+comb			 K K
+combat			 K K
+combination			 K K
+combine			 K K
+come			 K K
+comedy			 K K
+comfort			 K K
+comfortable			 K K
+comic			 U N
+command			 K K
+commemorate			 K K
+commence			 U U
+commend			 U N
+comment			 K K
+commerce			 U U
+commercial			 U U
+commission			 U U
+commit			 U N
+committee			 K K
+commodity			 K K
+common			 K K
+commonplace			 U N
+commonwealth			 U U
+communicate			 K K
+communication			 K K
+communism			 U U
+community			 K K
+commute			 K K
+compact			 K K
+companion			 K K
+company			 K K
+comparable			 K K
+comparative			 K K
+compare			 K K
+comparison			 N N
+compartment			 U N
+compass			 K K
+compassion			 U U
+compatible			 U N
+compel			 K K
+compensate			 N N
+compensation			 U N
+compete			 K K
+competent			 N N
+competition			 N N
+competitive			 K K
+compile			 K K
+complain			 K K
+complaint			 K K
+complement			 U N
+complete			 K K
+complex			 K K
+complicate			 K K
+complicated			 K K
+complication			 N N
+compliment			 U N
+comply			 U N
+component			 K K
+compose			 K K
+composite			 U N
+composition			 U N
+compound			 U N
+comprehend			 U N
+comprehension			 K K
+comprehensive			 N N
+compress			 U U
+comprise			 U U
+compromise			 U N
+compulsory			 U U
+compute			 K K
+computer			 K K
+comrade			 U N
+conceal			 U U
+concede			 K K
+conceive			 N N
+concentrate			 U N
+concentration			 U N
+concept			 K K
+concern			 K K
+concerning			 K K
+concert			 K K
+concession			 K K
+concise			 U N
+conclude			 K K
+conclusion			 K K
+concrete			 U N
+condemn			 U U
+condense			 U U
+condition			 K K
+conduct			 K K
+conductor			 K K
+confer			 U U
+conference			 U N
+confess			 U U
+confidence			 K K
+confident			 K K
+confidential			 K K
+confine			 U N
+confirm			 K K
+conflict			 K K
+NULL			 K K
+conform			 N N
+confront			 K K
+confuse			 K K
+confusion			 K K
+congratulate			 N N
+congratulation			 K K
+congress			 N N
+conjunction			 K K
+connect			 K K
+connection			 K K
+conquer			 K K
+conquest			 K K
+conscience			 K K
+conscientious			 K K
+conscious			 K K
+consecutive			 N N
+consensus			 K K
+consent			 K K
+consequence			 N N
+consequently			 K K
+conservation			 K K
+conservative			 K K
+consider			 K K
+considerable			 K K
+considerate			 K K
+consideration			 K K
+consist			 K K
+consistent			 K K
+console			 N N
+consolidate			 N N
+conspicuous			 U U
+conspiracy			 N N
+constant			 K K
+constituent			 N N
+constitute			 U N
+constitution			 U N
+constrain			 K K
+construct			 K K
+construction			 N N
+consult			 K K
+consultant			 K K
+consume			 K K
+consumption			 K K
+contact			 K K
+contain			 K K
+container			 K K
+contaminate			 U U
+contemplate			 K K
+contemporary			 K K
+contempt			 U N
+contend			 U N
+content			 K K
+contest			 N N
+context			 K K
+continent			 U N
+continual			 K K
+continue			 K K
+continuous			 K K
+contract			 K K
+contradict			 K K
+contradiction			 K K
+contrary			 U U
+contrast			 U N
+contribute			 K K
+contribution			 K K
+contrive			 N N
+control			 K K
+controversial			 N N
+controversy			 N N
+convenience			 K K
+convenient			 K K
+convention			 U N
+conventional			 U N
+conversation			 K K
+conversely			 U U
+conversion			 U N
+convert			 K K
+convey			 K K
+convict			 K K
+conviction			 K K
+convince			 K K
+cook			 K K
+cool			 K K
+cooperate			 K K
+cooperative			 K K
+coordinate			 K K
+coordinate			 K K
+cop			 K K
+cope			 U N
+copper			 U N
+copy			 K K
+copyright			 K K
+cord			 U U
+cordial			 U U
+core			 K K
+corn			 N N
+corner			 K K
+corporation			 N N
+correct			 K K
+correlate			 N N
+correspond			 K K
+correspondence			 K K
+correspondent			 K K
+corresponding			 K K
+corridor			 U U
+corrode			 U U
+corrupt			 U N
+cosmic			 K K
+cost			 K K
+costly			 K K
+costume			 K K
+cosy			 U U
+cottage			 U U
+cotton			 U U
+couch			 K K
+cough			 U N
+could			 K K
+council			 N N
+counsel			 K K
+count			 K K
+counter			 K K
+counterpart			 K K
+country			 K K
+countryside			 K K
+county			 K K
+couple			 K K
+coupon			 N N
+courage			 K K
+course			 U N
+court			 K K
+courtesy			 U U
+courtyard			 N N
+cousin			 U N
+cover			 K K
+cow			 U N
+coward			 N N
+crab			 U U
+crack			 K K
+cradle			 U U
+craft			 K K
+crane			 U U
+crash			 N N
+crawl			 U N
+crazy			 K K
+cream			 K K
+create			 K K
+creative			 K K
+creature			 K K
+credential			 U U
+credit			 K K
+creep			 K K
+crew			 U U
+cricket			 U U
+crime			 K K
+criminal			 K K
+cripple			 U U
+crisis			 K K
+crisp			 U N
+criterion			 K K
+critic			 K K
+critical			 K K
+criticism			 K K
+criticize			 K K
+crop			 K K
+cross			 K K
+crow			 K K
+crowd			 N N
+crown			 K K
+crucial			 N N
+crude			 U N
+cruel			 U N
+cruise			 U U
+crush			 U U
+crust			 U U
+cry			 K K
+crystal			 K K
+cube			 N N
+cucumber			 U U
+cue			 U N
+cultivate			 N N
+culture			 K K
+cunning			 U N
+cup			 K K
+cupboard			 K K
+curb			 U U
+cure			 U U
+curiosity			 K K
+curious			 K K
+curl			 U N
+currency			 K K
+current			 K K
+curriculum			 U U
+curse			 U U
+curtain			 U U
+curve			 U N
+cushion			 U N
+custom			 K K
+customary			 N N
+customer			 N N
+cut			 K K
+cyberspace			 U N
+cycle			 K K
+cylinder			 K K
+daily			 K K
+dairy			 U U
+dam			 N N
+damage			 K K
+damn			 U N
+damp			 U U
+dance			 K K
+danger			 U N
+dangerous			 K K
+dare			 K K
+dark			 K K
+darling			 U U
+dash			 U U
+data			 K K
+database			 K K
+date			 K K
+daughter			 K K
+dawn			 K K
+day			 K K
+daylight			 K K
+daytime			 K K
+dazzle			 K K
+dead			 K K
+deadline			 K K
+deadly			 N N
+deaf			 U N
+deal			 K K
+dealer			 K K
+dean			 U U
+dear			 N N
+death			 K K
+debate			 K K
+debt			 K K
+decade			 K K
+decay			 U N
+deceit			 U N
+deceive			 K K
+December			 K K
+decent			 K K
+decide			 K K
+decimal			 K K
+decision			 K K
+decisive			 N N
+deck			 N N
+declaration			 K K
+declare			 K K
+decline			 K K
+NULL			 K K
+decorate			 K K
+decrease			 U N
+dedicate			 K K
+deduce			 U N
+deduct			 U U
+deed			 U U
+deem			 U U
+deep			 K K
+deer			 K K
+defeat			 U N
+defence			 K K
+defect			 K K
+defend			 K K
+deficiency			 N N
+deficit			 K K
+define			 K K
+definite			 K K
+definition			 K K
+defy			 U U
+degenerate			 K K
+degree			 K K
+delay			 K K
+delegate			 K K
+delete			 K K
+deliberate			 U U
+delicate			 U N
+delicious			 K K
+delight			 U N
+deliver			 K K
+delivery			 K K
+demand			 K K
+democracy			 K K
+democratic			 K K
+demonstrate			 N N
+denial			 N N
+denote			 N N
+denounce			 K K
+dense			 N N
+density			 K K
+dental			 U U
+dentist			 U U
+deny			 K K
+depart			 N N
+department			 N N
+departure			 N N
+depend			 K K
+dependent			 K K
+depict			 N N
+deposit			 K K
+depress			 K K
+deprive			 U U
+depth			 K K
+deputy			 U U
+derive			 K K
+descend			 K K
+descendant			 N N
+descent			 N N
+describe			 K K
+description			 K K
+desert			 K K
+deserve			 K K
+design			 K K
+designate			 U U
+desirable			 N N
+desire			 N N
+desk			 K K
+desolate			 U U
+despair			 U N
+despatch			 U U
+desperate			 K K
+despise			 U U
+despite			 U U
+dessert			 U U
+destination			 K K
+destiny			 K K
+destroy			 K K
+destruction			 K K
+destructive			 K K
+detach			 K K
+detail			 K K
+detain			 U U
+detect			 U N
+detective			 K K
+detector			 K K
+deteriorate			 N N
+determine			 K K
+develop			 K K
+deviate			 U U
+device			 K K
+devil			 U N
+devise			 K K
+devote			 K K
+dew			 U U
+diagnose			 U U
+diagram			 N N
+dial			 U N
+dialect			 U U
+dialog			 N N
+diameter			 U U
+diamond			 K K
+diary			 U U
+dictate			 U N
+dictation			 U N
+dictionary			 K K
+die			 N N
+diet			 N N
+differ			 K K
+difference			 K K
+different			 K K
+differentiate			 K K
+difficult			 K K
+difficulty			 K K
+diffuse			 U U
+dig			 K K
+digest			 U N
+digital			 K K
+dignity			 U N
+dilemma			 K K
+diligent			 N N
+dilute			 U U
+dim			 U N
+dimension			 K K
+diminish			 U N
+dine			 U U
+dinner			 K K
+dip			 U U
+diploma			 U U
+diplomatic			 U U
+direct			 N N
+direction			 K K
+directly			 K K
+director			 K K
+directory			 K K
+dirt			 U N
+dirty			 K K
+disable			 N N
+disappear			 K K
+disappoint			 K K
+disaster			 K K
+disastrous			 K K
+disc			 U N
+discard			 K K
+discern			 U N
+discharge			 N N
+discipline			 N N
+disclose			 K K
+discount			 N N
+discourage			 K K
+discourse			 U N
+discover			 K K
+discovery			 K K
+discreet			 U U
+discrepancy			 U U
+discriminate			 N N
+discuss			 K K
+disease			 U N
+disgrace			 U U
+disguise			 U N
+disgust			 U U
+dish			 K K
+dislike			 K K
+dismay			 U U
+dismiss			 K K
+disorder			 K K
+disperse			 U U
+displace			 K K
+display			 K K
+disposal			 U U
+dispose			 U U
+disposition			 U U
+dispute			 N N
+disregard			 K K
+disrupt			 U U
+dissipate			 U U
+dissolve			 U U
+distance			 K K
+distant			 U N
+distill			 U N
+distinct			 N N
+distinction			 N N
+distinguish			 N N
+distort			 N N
+distract			 U U
+distress			 U N
+distribute			 K K
+district			 U U
+disturb			 K K
+disturbance			 K K
+ditch			 U N
+dive			 N N
+diverse			 N N
+diversion			 N N
+divert			 U U
+divide			 N N
+dividend			 N N
+divine			 U U
+division			 N N
+divorce			 K K
+dizzy			 U N
+do			 K K
+dock			 U U
+doctor			 K K
+doctorate			 U N
+document			 K K
+documentary			 K K
+dog			 K K
+doll			 U N
+dollar			 K K
+domain			 K K
+dome			 K K
+domestic			 K K
+dominant			 K K
+dominate			 K K
+donate			 U N
+donkey			 U N
+doom			 U U
+door			 K K
+doorway			 U N
+dorm			 U U
+dose			 U U
+dot			 K K
+doubt			 K K
+dove			 U U
+down			 K K
+downstairs			 N N
+downtown			 N N
+downward			 K K
+doze			 K K
+dozen			 K K
+draft			 K K
+drag			 K K
+dragon			 K K
+drain			 U N
+drama			 N N
+dramatic			 K K
+drastic			 U U
+draw			 K K
+drawback			 K K
+drawer			 K K
+drawing			 K K
+dread			 U N
+dream			 K K
+dress			 U N
+drift			 N N
+drill			 U N
+drink			 K K
+drip			 U N
+drive			 K K
+driver			 K K
+drop			 K K
+NULL			 K K
+drought			 U U
+drown			 U U
+drug			 K K
+drum			 U U
+drunk			 K K
+dry			 K K
+dubious			 N N
+duck			 U N
+due			 K K
+dull			 U U
+dumb			 U U
+dump			 K K
+duplicate			 K K
+durable			 N N
+duration			 K K
+during			 K K
+dusk			 U U
+dust			 U U
+duty			 K K
+dwarf			 U U
+dwell			 N N
+dwelling			 N N
+dye			 U U
+dynamic			 K K
+dynasty			 U N
+each			 K K
+eager			 N N
+eagle			 U N
+ear			 K K
+early			 K K
+earn			 K K
+earnest			 K K
+earth			 K K
+earthquake			 K K
+ease			 K K
+east			 K K
+Easter			 K K
+eastern			 K K
+easy			 K K
+eat			 K K
+ebb			 U U
+eccentric			 K K
+echo			 K K
+eclipse			 K K
+ecology			 K K
+economic			 K K
+economical			 K K
+economics			 K K
+economy			 K K
+edge			 K K
+edible			 K K
+edit			 K K
+edition			 K K
+editor			 K K
+editorial			 K K
+educate			 K K
+education			 K K
+effect			 K K
+effective			 K K
+efficiency			 K K
+efficient			 K K
+effort			 K K
+egg			 K K
+ego			 U U
+eight			 K K
+eighteen			 K K
+eighty			 K K
+either			 K K
+eject			 N N
+elaborate			 K K
+elapse			 K K
+elastic			 N N
+elbow			 K K
+elder			 K K
+elderly			 K K
+elect			 K K
+electric			 K K
+electrical			 K K
+electrician			 K K
+electricity			 K K
+electron			 K K
+electronic			 K K
+elegant			 K K
+element			 K K
+elementary			 K K
+elephant			 K K
+elevate			 K K
+elevator			 K K
+eleven			 K K
+eligible			 K K
+eliminate			 K K
+elite			 K K
+eloquent			 K K
+else			 K K
+elsewhere			 K K
+e-mail			 K K
+embark			 K K
+embarrass			 K K
+embassy			 K K
+embed			 K K
+embody			 K K
+embrace			 K K
+emerge			 K K
+emergency			 K K
+emigrate			 K K
+eminent			 N N
+emit			 K K
+emotion			 K K
+emperor			 K K
+emphasis			 K K
+emphasize			 K K
+empire			 K K
+empirical			 N N
+employ			 K K
+employee			 K K
+employer			 K K
+employment			 K K
+empty			 K K
+enable			 K K
+enclose			 K K
+enclosure			 K K
+encounter			 K K
+encourage			 K K
+encyclopedia			 K K
+end			 K K
+endeavor			 N N
+ending			 K K
+endow			 N N
+endurance			 U N
+endure			 K K
+enemy			 K K
+energetic			 N N
+energy			 K K
+enforce			 K K
+engage			 K K
+engagement			 K K
+engine			 K K
+engineer			 K K
+engineering			 K K
+enhance			 K K
+enjoy			 K K
+enlarge			 K K
+enlighten			 K K
+enormous			 K K
+enough			 K K
+enquire			 U N
+enrich			 K K
+enroll			 U N
+ensure			 N N
+entail			 U U
+enter			 K K
+enterprise			 K K
+entertain			 K K
+entertainment			 K K
+enthusiasm			 K K
+enthusiastic			 K K
+entire			 K K
+entitle			 N N
+entity			 K K
+entrance			 K K
+entrepreneur			 U N
+entry			 U N
+envelope			 K K
+environment			 K K
+envisage			 N N
+envy			 K K
+epidemic			 N N
+episode			 N N
+epoch			 U N
+equal			 K K
+equality			 K K
+equation			 K K
+equator			 K K
+equip			 K K
+equipment			 K K
+equivalent			 K K
+era			 U N
+erase			 K K
+erect			 N N
+erosion			 U U
+erroneous			 U U
+error			 K K
+erupt			 U N
+escalate			 U U
+escape			 K K
+escort			 N N
+especially			 K K
+essay			 K K
+essence			 K K
+essential			 K K
+establish			 K K
+establishment			 K K
+estate			 K K
+esteem			 U U
+estimate			 K K
+eternal			 U N
+ethnic			 K K
+evacuate			 U U
+evade			 U U
+evaluate			 K K
+evaporate			 U U
+eve			 N N
+even			 K K
+evening			 K K
+event			 K K
+eventually			 K K
+ever			 K K
+every			 K K
+everybody			 K K
+everyday			 K K
+everyone			 K K
+everything			 K K
+everywhere			 K K
+evidence			 K K
+evident			 K K
+evil			 K K
+evoke			 N N
+evolution			 K K
+evolve			 K K
+exact			 K K
+exaggerate			 U U
+exam			 K K
+examine			 K K
+example			 K K
+exceed			 K K
+exceedingly			 N N
+excel			 N N
+excellent			 K K
+except			 K K
+exception			 K K
+exceptional			 K K
+excerpt			 N N
+excess			 K K
+excessive			 K K
+exchange			 N N
+excite			 N N
+excitement			 K K
+exciting			 K K
+exclaim			 N N
+exclude			 K K
+exclusive			 K K
+excursion			 U U
+excuse			 K K
+execute			 K K
+executive			 K K
+exemplify			 U U
+exempt			 U U
+exercise			 K K
+exert			 U N
+exhaust			 N N
+NULL			 K K
+exhibit			 K K
+exhibition			 K K
+exile			 U U
+exist			 K K
+existence			 K K
+exit			 K K
+exotic			 K K
+expand			 K K
+expansion			 K K
+expect			 K K
+expectation			 K K
+expedition			 U N
+expel			 U U
+expend			 K K
+expenditure			 K K
+expense			 K K
+expensive			 K K
+experience			 K K
+experiment			 K K
+experimental			 K K
+expert			 K K
+expertise			 K K
+expire			 K K
+explain			 K K
+explanation			 K K
+explicit			 K K
+explode			 U N
+exploit			 U N
+explore			 K K
+explosion			 K K
+explosive			 K K
+export			 K K
+expose			 U N
+exposure			 U N
+express			 N N
+expression			 K K
+exquisite			 U U
+extend			 K K
+extension			 K K
+extensive			 K K
+extent			 K K
+exterior			 U N
+external			 N N
+extinct			 N N
+extinguish			 N N
+extra			 K K
+extract			 K K
+extraordinary			 K K
+extravagant			 N N
+extreme			 K K
+eye			 K K
+eyebrow			 K K
+eyesight			 N N
+fable			 U U
+fabric			 N N
+fabricate			 N N
+fabulous			 N N
+face			 K K
+facilitate			 N N
+facility			 N N
+fact			 K K
+factor			 K K
+factory			 K K
+faculty			 N N
+fade			 K K
+fail			 K K
+failure			 K K
+faint			 U U
+fair			 N N
+fairly			 N N
+fairy			 K K
+faith			 U N
+faithful			 U N
+fake			 K K
+fall			 K K
+false			 K K
+fame			 U U
+familiar			 K K
+family			 K K
+famine			 K K
+famous			 K K
+fan			 K K
+fancy			 K K
+fantastic			 K K
+fantasy			 U N
+far			 K K
+fare			 U U
+farewell			 K K
+farm			 K K
+farmer			 K K
+farther			 K K
+fascinate			 U N
+fashion			 K K
+fashionable			 K K
+fast			 K K
+fasten			 K K
+fat			 K K
+fatal			 K K
+fate			 K K
+father			 K K
+fatigue			 U U
+fault			 K K
+faulty			 U N
+favor			 N N
+favorable			 N N
+favorite			 K K
+fax			 K K
+fear			 K K
+fearful			 K K
+feasible			 K K
+feast			 U U
+feat			 K K
+feather			 K K
+feature			 K K
+February			 K K
+federal			 K K
+federation			 K K
+fee			 K K
+feeble			 U N
+feed			 U N
+feedback			 K K
+feel			 K K
+feeling			 K K
+fell			 K K
+fellow			 U N
+fellowship			 K K
+female			 K K
+feminine			 U U
+fence			 K K
+ferry			 U U
+fertile			 N N
+fertilizer			 N N
+festival			 K K
+fetch			 N N
+feudal			 U U
+fever			 U N
+few			 K K
+fiber			 K K
+fiction			 U U
+field			 K K
+fierce			 N N
+fifteen			 K K
+fifty			 K K
+fight			 K K
+figure			 K K
+file			 K K
+fill			 K K
+film			 K K
+filter			 K K
+final			 K K
+finally			 K K
+finance			 K K
+financial			 K K
+find			 K K
+finding			 K K
+fine			 K K
+finger			 U N
+finish			 K K
+finite			 K K
+fire			 U N
+fireman			 K K
+fireplace			 U U
+firm			 K K
+first			 K K
+fish			 K K
+fisherman			 K K
+fist			 U U
+fit			 K K
+fitting			 K K
+five			 K K
+fix			 K K
+fixture			 N N
+flag			 K K
+flame			 U N
+flap			 U U
+flare			 U N
+flash			 U N
+flat			 K K
+flatter			 K K
+flavor			 U U
+flaw			 U U
+flee			 U N
+fleet			 U U
+flesh			 U U
+flexible			 K K
+flight			 U N
+fling			 U U
+float			 K K
+flock			 U U
+flood			 K K
+floor			 K K
+flour			 K K
+flourish			 K K
+flow			 U N
+flower			 K K
+flu			 U U
+fluctuate			 K K
+fluent			 K K
+fluid			 K K
+flush			 N N
+fly			 K K
+foam			 U U
+focus			 K K
+fog			 U N
+fold			 K K
+folk			 N N
+follow			 K K
+following			 K K
+fond			 U N
+food			 K K
+fool			 K K
+foolish			 K K
+foot			 K K
+football			 K K
+footstep			 U N
+for			 K K
+forbid			 K K
+force			 K K
+fore			 U U
+forecast			 U N
+forehead			 U N
+foreign			 K K
+foreigner			 K K
+foremost			 U N
+foresee			 U N
+forest			 K K
+forever			 K K
+forge			 U U
+forget			 K K
+forgive			 K K
+fork			 K K
+form			 K K
+formal			 N N
+format			 K K
+formation			 U U
+former			 K K
+formidable			 U U
+formula			 K K
+formulate			 N N
+forth			 U U
+forthcoming			 U N
+fortnight			 U N
+fortunate			 U N
+fortune			 K K
+forty			 U N
+forum			 U N
+forward			 K K
+fossil			 U U
+foster			 U U
+foul			 U U
+NULL			 K K
+found			 K K
+foundation			 K K
+fountain			 U U
+four			 K K
+fourteen			 K K
+fox			 K K
+fraction			 U N
+fracture			 U N
+fragile			 U U
+fragment			 K K
+fragrant			 U U
+frame			 N N
+framework			 K K
+frank			 K K
+fraud			 U N
+free			 K K
+freedom			 K K
+freeze			 K K
+freight			 U U
+frequency			 K K
+frequent			 K K
+fresh			 K K
+friction			 U U
+Friday			 K K
+fridge			 U U
+friend			 K K
+friendly			 K K
+friendship			 K K
+fright			 U U
+frighten			 U N
+fringe			 U U
+frog			 K K
+from			 K K
+front			 K K
+frontier			 N N
+frost			 U U
+frown			 N N
+fruit			 K K
+fruitful			 N N
+frustrate			 U N
+fry			 K K
+fuel			 N N
+fulfill			 N N
+full			 K K
+fume			 U U
+fun			 K K
+function			 K K
+fund			 K K
+fundamental			 K K
+funeral			 U N
+funny			 K K
+fur			 U U
+furious			 U N
+furnace			 U U
+furnish			 U N
+furniture			 U U
+further			 U N
+furthermore			 K K
+fuse			 U U
+fuss			 U N
+futile			 U U
+future			 K K
+gain			 K K
+galaxy			 K K
+gallery			 U U
+gallon			 U N
+gallop			 U U
+gamble			 K K
+game			 K K
+gang			 U U
+gaol			 U U
+gap			 K K
+garage			 U U
+garbage			 K K
+garden			 K K
+garlic			 U U
+garment			 U U
+gas			 K K
+gasoline			 K K
+gasp			 N N
+gate			 K K
+gather			 K K
+gauge			 K K
+gay			 K K
+gaze			 K K
+gear			 N N
+gender			 K K
+gene			 K K
+general			 K K
+generalize			 N N
+generate			 K K
+generation			 K K
+generator			 K K
+generous			 K K
+genetic			 N N
+genius			 K K
+gentle			 U N
+gentleman			 K K
+gently			 U N
+genuine			 K K
+geography			 K K
+geology			 K K
+geometry			 K K
+germ			 K K
+gesture			 K K
+get			 K K
+ghost			 K K
+giant			 K K
+gift			 K K
+gigantic			 K K
+giggle			 K K
+girl			 K K
+give			 K K
+glad			 N N
+glamor			 N N
+glance			 K K
+glare			 N N
+glass			 K K
+glide			 N N
+glimpse			 U N
+glitter			 K K
+global			 K K
+globe			 K K
+gloomy			 N N
+glorious			 K K
+glory			 K K
+glove			 K K
+glow			 N N
+glue			 K K
+go			 K K
+goal			 K K
+goat			 U N
+god			 K K
+gold			 K K
+golden			 K K
+golf			 K K
+good			 K K
+goodby			 U N
+goodness			 N N
+goods			 K K
+goose			 U U
+gorgeous			 K K
+gossip			 K K
+govern			 K K
+government			 K K
+governor			 K K
+gown			 U N
+grab			 N N
+grace			 U N
+graceful			 U N
+gracious			 U N
+grade			 U N
+gradual			 N N
+graduate			 K K
+grain			 U N
+gramme			 U U
+grammar			 U N
+grand			 N N
+grandmother			 K K
+grant			 N N
+grape			 K K
+graph			 K K
+graphic			 K K
+grasp			 N N
+grass			 K K
+grateful			 N N
+gratitude			 U U
+grave			 K K
+gravity			 K K
+graze			 U U
+grease			 N N
+great			 K K
+greedy			 N N
+green			 K K
+greenhouse			 K K
+greet			 U N
+greeting			 U N
+grey			 U N
+grief			 N N
+grieve			 N N
+grim			 U U
+grin			 U N
+grind			 K K
+grip			 U N
+groan			 N N
+grocer			 K K
+grope			 U U
+gross			 K K
+ground			 K K
+group			 K K
+grow			 K K
+grown-up			 K K
+growth			 K K
+guarantee			 K K
+guard			 K K
+guess			 K K
+guest			 N N
+guidance			 K K
+guide			 K K
+guideline			 K K
+guilt			 K K
+guilty			 K K
+guitar			 K K
+gulf			 N N
+gum			 K K
+gun			 K K
+gut			 U N
+guy			 K K
+gymnasium			 U U
+habit			 N N
+habitat			 N N
+hail			 U N
+hair			 K K
+half			 K K
+hall			 U N
+halt			 U N
+ham			 U U
+hamburger			 K K
+hammer			 U N
+hamper			 U U
+hand			 K K
+handbook			 K K
+handful			 K K
+handicap			 U U
+handkerchief			 U U
+handle			 K K
+handsome			 K K
+handwriting			 K K
+handy			 U N
+hang			 N N
+happen			 K K
+happy			 K K
+harassment			 U U
+harbor			 U N
+hard			 K K
+harden			 K K
+hardly			 K K
+hardship			 N N
+hardware			 K K
+harm			 K K
+harmony			 U N
+harness			 N N
+harsh			 U U
+harvest			 N N
+haste			 N N
+hasty			 N N
+hat			 K K
+hatch			 U U
+hate			 K K
+hatred			 U U
+NULL			 K K
+haul			 N N
+have			 K K
+hawk			 U N
+hay			 U U
+hazard			 U N
+he			 K K
+head			 K K
+headache			 K K
+heading			 N N
+headline			 K K
+headmaster			 U N
+headquarters			 U N
+heal			 U U
+health			 K K
+healthy			 K K
+heap			 K K
+hear			 N N
+hearing			 N N
+heart			 K K
+heat			 K K
+heave			 U U
+heaven			 U N
+heavy			 K K
+hedge			 U U
+heel			 U N
+height			 K K
+heighten			 K K
+heir			 U N
+helicopter			 N N
+hell			 K K
+hello			 K K
+helmet			 U N
+help			 K K
+helpful			 K K
+hemisphere			 U U
+hen			 K K
+hence			 U N
+henceforth			 U U
+her			 K K
+herb			 U U
+herd			 U U
+here			 K K
+heritage			 U N
+hero			 K K
+heroic			 K K
+heroin			 U U
+heroine			 U N
+hers			 K K
+herself			 K K
+hesitate			 U N
+hi			 K K
+hide			 K K
+hierarchy			 N N
+high			 K K
+highland			 K K
+highlight			 K K
+highly			 K K
+highway			 K K
+hijack			 U N
+hike			 U U
+hill			 K K
+him			 K K
+himself			 K K
+hinder			 U U
+hinge			 U U
+hint			 K K
+hip			 N N
+hire			 N N
+his			 K K
+historian			 K K
+historic			 K K
+historical			 K K
+history			 K K
+hit			 K K
+hitherto			 K K
+hobby			 U U
+hoist			 U U
+hold			 K K
+holder			 K K
+hole			 K K
+holiday			 K K
+hollow			 K K
+holy			 K K
+home			 K K
+homework			 K K
+homogeneous			 K K
+honest			 K K
+honey			 K K
+honor			 K K
+honorable			 N N
+hook			 K K
+hop			 U N
+hope			 K K
+hopeful			 K K
+horizon			 N N
+horizontal			 N N
+horn			 N N
+horrible			 K K
+horror			 U N
+horse			 K K
+horsepower			 K K
+hose			 U U
+hospital			 K K
+hospitality			 N N
+host			 K K
+hostage			 U N
+hostess			 N N
+hostile			 U U
+hot			 K K
+hotel			 K K
+hound			 U U
+hour			 K K
+house			 K K
+household			 K K
+housewife			 K K
+housework			 K K
+housing			 U N
+hover			 U U
+how			 K K
+however			 K K
+howl			 U N
+huddle			 U U
+hug			 U U
+huge			 K K
+hum			 U U
+human			 K K
+humanity			 K K
+humble			 U N
+humid			 U U
+humidity			 U U
+humiliate			 U U
+humor			 K K
+humorous			 U N
+hundred			 U N
+hunger			 K K
+hungry			 K K
+hunt			 U N
+hurl			 U U
+hurricane			 K K
+hurry			 K K
+hurt			 K K
+husband			 K K
+hut			 U U
+hydrogen			 K K
+hypocrisy			 U U
+hypothesis			 N N
+hysterical			 N N
+I			 K K
+ice			 K K
+ice-cream			 K K
+idea			 K K
+ideal			 K K
+identical			 N N
+identification			 N N
+identify			 N N
+identity			 N N
+ideology			 K K
+idiom			 K K
+idiot			 N N
+idle			 K K
+if			 K K
+ignite			 U U
+ignorance			 K K
+ignorant			 K K
+ignore			 K K
+ill			 K K
+illegal			 K K
+illiterate			 U U
+illness			 K K
+illuminate			 U U
+illusion			 N N
+illustrate			 N N
+illustration			 N N
+image			 K K
+imaginary			 K K
+imagination			 K K
+imaginative			 K K
+imagine			 K K
+imitate			 K K
+imitation			 K K
+immediate			 K K
+immense			 U N
+immerse			 U N
+immigrant			 U N
+immune			 U U
+impact			 U N
+impair			 U U
+impart			 U U
+impatient			 K K
+imperative			 N N
+imperial			 N N
+impetus			 U U
+implement			 K K
+implication			 U N
+implicit			 K K
+imply			 N N
+import			 K K
+importance			 K K
+important			 K K
+impose			 N N
+impossible			 K K
+impress			 N N
+impression			 K K
+impressive			 K K
+improve			 U N
+improvement			 U N
+impulse			 U N
+in			 K K
+incentive			 U N
+inch			 K K
+incidence			 N N
+incident			 N N
+incidentally			 N N
+incline			 U N
+include			 K K
+inclusive			 K K
+income			 K K
+incorporate			 K K
+increase			 K K
+increasingly			 K K
+incredible			 K K
+incur			 U U
+indeed			 N N
+independence			 K K
+independent			 K K
+index			 K K
+indicate			 N N
+indication			 N N
+indicative			 N N
+indifferent			 U N
+indignant			 U N
+indignation			 U N
+indispensable			 U U
+individual			 K K
+indoor			 U U
+induce			 U N
+indulge			 U U
+industrial			 N N
+industrialize			 N N
+industry			 N N
+inertia			 U U
+inevitable			 U N
+infant			 U U
+infect			 U U
+infectious			 U U
+infer			 U U
+inference			 N N
+inferior			 U U
+infinite			 K K
+inflation			 K K
+NULL			 K K
+influence			 K K
+influential			 K K
+inform			 K K
+information			 K K
+infrared			 K K
+infrastructure			 K K
+ingenious			 U U
+ingredient			 N N
+inhabit			 U N
+inhabitant			 U N
+inhale			 U U
+inherent			 U U
+inherit			 U N
+inhibit			 N N
+initial			 K K
+initiate			 N N
+initiative			 K K
+inject			 U U
+injure			 N N
+injury			 N N
+ink			 K K
+inland			 K K
+inlet			 U U
+inn			 U U
+inner			 N N
+innocent			 U U
+innovation			 U U
+innumerable			 U U
+input			 K K
+inquiry			 N N
+insect			 U N
+insert			 K K
+inside			 K K
+insight			 K K
+insist			 K K
+inspect			 U N
+inspiration			 U U
+inspire			 U N
+install			 K K
+installation			 K K
+installment			 K K
+instance			 N N
+instant			 N N
+instantaneous			 U N
+instead			 K K
+instinct			 U U
+institute			 U N
+institution			 U U
+instruct			 K K
+instruction			 K K
+instrument			 K K
+instrumental			 K K
+insulate			 U U
+insult			 U N
+insurance			 N N
+insure			 N N
+intact			 K K
+integral			 N N
+integrate			 N N
+integrity			 N N
+intellectual			 K K
+intelligence			 K K
+intelligent			 K K
+intelligible			 U U
+intend			 N N
+intense			 N N
+intensity			 N N
+intensive			 N N
+intention			 N N
+interact			 K K
+intercourse			 U U
+interest			 K K
+interesting			 K K
+interface			 K K
+interfere			 U N
+interference			 U N
+interim			 U U
+interior			 U N
+intermediate			 K K
+intermittent			 U U
+internal			 N N
+international			 K K
+internet			 K K
+interpret			 K K
+interrupt			 U N
+intersection			 U N
+interval			 K K
+intervene			 U U
+interview			 N N
+intimate			 N N
+intimidate			 U U
+into			 K K
+intricate			 U N
+intrigue			 U U
+intrinsic			 U U
+introduce			 K K
+introduction			 K K
+intrude			 K K
+intuition			 U N
+invade			 U U
+invalid			 K K
+invaluable			 N N
+invariably			 N N
+invasion			 U U
+invent			 U N
+invention			 U N
+inventory			 U U
+inverse			 N N
+invert			 N N
+invest			 K K
+investigate			 K K
+investment			 K K
+invisible			 K K
+invitation			 U N
+invite			 K K
+involve			 K K
+inward			 U U
+iron			 K K
+irony			 N N
+irrespective			 N N
+irrigate			 U U
+irritate			 N N
+island			 K K
+isle			 K K
+isolate			 K K
+issue			 K K
+it			 K K
+item			 K K
+its			 K K
+itself			 K K
+jacket			 K K
+jam			 U U
+January			 K K
+jar			 K K
+jargon			 K K
+jaw			 N N
+jazz			 K K
+jealous			 K K
+jeans			 U U
+jet			 K K
+jewel			 U N
+jewelry			 K K
+job			 K K
+jog			 K K
+join			 K K
+joint			 K K
+joke			 K K
+jolly			 K K
+journal			 K K
+journalist			 K K
+journey			 N N
+joy			 K K
+judge			 K K
+judgement			 K K
+judicial			 K K
+jug			 U U
+juice			 U N
+July			 K K
+jump			 K K
+junction			 K K
+June			 K K
+jungle			 N N
+junior			 N N
+junk			 U N
+jury			 K K
+just			 K K
+justice			 K K
+justify			 N N
+juvenile			 N N
+keen			 K K
+keep			 K K
+kettle			 K K
+key			 K K
+keyboard			 K K
+kick			 K K
+kid			 K K
+kidnap			 K K
+kidney			 K K
+kill			 K K
+kilo			 U N
+kilometre			 K K
+kin			 K K
+kind			 K K
+kindergarten			 K K
+kindness			 K K
+king			 K K
+kingdom			 K K
+kiss			 K K
+kit			 K K
+kitchen			 K K
+kite			 K K
+knee			 K K
+kneel			 N N
+knife			 K K
+knit			 K K
+knob			 K K
+knock			 U N
+knot			 K K
+know			 K K
+knowledge			 K K
+lab			 K K
+label			 K K
+labor			 K K
+lace			 U N
+lack			 K K
+lad			 N N
+ladder			 K K
+lady			 K K
+lag			 U N
+lake			 K K
+lamb			 K K
+lame			 K K
+lamp			 K K
+land			 K K
+landlady			 K K
+landlord			 K K
+lane			 K K
+language			 K K
+lantern			 K K
+lap			 K K
+lapse			 K K
+laptop			 K K
+large			 K K
+largely			 K K
+laser			 K K
+lash			 U U
+last			 K K
+late			 K K
+lately			 K K
+latent			 U N
+later			 K K
+lateral			 U N
+Latin			 K K
+latitude			 K K
+latter			 K K
+laugh			 N N
+laughter			 U N
+launch			 N N
+laundry			 U U
+lavatory			 U N
+law			 K K
+lawn			 N N
+lawyer			 U N
+lay			 K K
+layer			 K K
+layman			 U U
+layoff			 U U
+layout			 U N
+lazy			 K K
+lead			 K K
+NULL			 K K
+leadership			 K K
+leading			 K K
+leaf			 K K
+leaflet			 U N
+league			 K K
+leak			 N N
+lean			 U N
+leap			 U N
+learn			 K K
+learned			 U U
+learning			 U N
+lease			 U U
+least			 K K
+leather			 U U
+leave			 K K
+lecture			 U N
+left			 K K
+leg			 K K
+legacy			 U U
+legal			 K K
+legend			 N N
+legislation			 U U
+legitimate			 U U
+leisure			 K K
+lemon			 K K
+lend			 K K
+length			 K K
+lens			 U U
+less			 K K
+lesson			 K K
+lest			 U N
+let			 K K
+letter			 K K
+level			 K K
+lever			 K K
+levy			 K K
+liability			 N N
+liable			 N N
+liberal			 U N
+liberate			 U U
+liberty			 U N
+librarian			 U U
+library			 K K
+license			 K K
+lick			 U U
+lid			 U U
+lie			 K K
+life			 K K
+lifetime			 K K
+lift			 K K
+light			 K K
+lightning			 K K
+like			 K K
+likelihood			 K K
+likely			 K K
+likewise			 N N
+limb			 U N
+limit			 K K
+limitation			 K K
+limited			 K K
+limp			 U U
+line			 K K
+linear			 K K
+linen			 U U
+liner			 U U
+linger			 N N
+linguistic			 N N
+link			 K K
+lion			 K K
+lip			 U N
+liquid			 U N
+liquor			 U U
+list			 K K
+listen			 K K
+literacy			 U N
+literally			 N N
+literary			 N N
+literature			 U N
+litre			 U U
+litter			 U U
+little			 K K
+live			 K K
+lively			 K K
+liver			 U N
+living			 K K
+living-room			 K K
+load			 K K
+loaf			 U U
+loan			 K K
+lobby			 K K
+local			 K K
+locality			 N N
+locate			 K K
+location			 K K
+lock			 K K
+locker			 K K
+locomotive			 U U
+lodge			 U U
+lofty			 K K
+log			 K K
+logic			 K K
+logical			 K K
+lonely			 K K
+long			 K K
+longitude			 K K
+look			 K K
+loom			 K K
+loop			 K K
+loose			 N N
+loosen			 N N
+lord			 N N
+lorry			 U U
+lose			 K K
+loss			 K K
+lot			 K K
+lottery			 U U
+loud			 K K
+loudspeaker			 K K
+lounge			 U U
+love			 K K
+lovely			 K K
+lover			 K K
+low			 K K
+lower			 K K
+loyal			 U N
+loyalty			 U N
+lubricate			 U U
+luck			 K K
+lucky			 K K
+luggage			 U U
+lumber			 U U
+lump			 U U
+lunar			 U U
+lunch			 U N
+lung			 U N
+lure			 U U
+luxury			 K K
+machine			 K K
+machinery			 U N
+mad			 U N
+madame			 U U
+magazine			 K K
+magic			 K K
+magistrate			 U U
+magnet			 K K
+magnetic			 K K
+magnificent			 U N
+magnify			 K K
+magnitude			 N N
+maid			 U N
+maiden			 U U
+mail			 K K
+main			 K K
+mainland			 K K
+maintain			 K K
+maintenance			 K K
+majesty			 U N
+major			 K K
+majority			 K K
+make			 K K
+male			 K K
+malignant			 U U
+mammal			 U U
+man			 K K
+manage			 K K
+management			 K K
+manager			 K K
+maneuver			 U U
+manifest			 U N
+manipulate			 N N
+mankind			 U N
+manner			 K K
+manual			 K K
+manufacture			 K K
+manuscript			 K K
+many			 K K
+map			 K K
+marble			 U N
+march			 K K
+March			 K K
+margin			 K K
+marginal			 K K
+marine			 U N
+marital			 U U
+mark			 K K
+market			 K K
+marriage			 U N
+married			 K K
+marry			 K K
+marvelous			 U N
+Marxist			 K K
+masculine			 U U
+mask			 N N
+mass			 U U
+massacre			 U U
+massive			 U U
+master			 K K
+masterpiece			 U U
+mat			 U U
+match			 U N
+mate			 U N
+material			 N N
+mathematical			 K K
+maths			 K K
+matter			 K K
+mature			 U N
+maximum			 K K
+may			 K K
+May			 K K
+maybe			 K K
+mayor			 N N
+me			 K K
+meadow			 U U
+meal			 U N
+mean			 K K
+meaning			 K K
+means			 K K
+meantime			 U N
+meanwhile			 U N
+measure			 K K
+meat			 N N
+mechanic			 U U
+mechanical			 U U
+mechanism			 U U
+medal			 K K
+medical			 N N
+medicine			 N N
+medieval			 U U
+meditate			 U U
+meditation			 U U
+medium			 N N
+meet			 K K
+meeting			 K K
+melody			 U U
+melon			 U U
+melt			 N N
+member			 N N
+membership			 K K
+memo			 U U
+memorial			 U U
+memory			 K K
+menace			 U U
+mend			 K K
+mental			 U N
+mention			 U N
+menu			 K K
+merchandise			 U U
+merchant			 N N
+mercury			 U U
+mercy			 U N
+NULL			 K K
+mere			 U N
+merely			 K K
+merge			 K K
+merit			 U U
+merry			 K K
+mess			 U U
+message			 K K
+messenger			 K K
+metal			 U N
+metaphor			 U U
+method			 K K
+metre			 U U
+metric			 U N
+metropolitan			 U U
+microphone			 K K
+microscope			 K K
+middle			 K K
+midst			 K K
+might			 K K
+migrate			 U U
+mild			 K K
+mile			 K K
+militant			 U U
+military			 U N
+milk			 K K
+mill			 U N
+millimeter			 U N
+million			 K K
+millionaire			 U U
+mind			 K K
+mine			 K K
+mineral			 U N
+mingle			 K K
+miniature			 U N
+minimize			 K K
+minimum			 K K
+minister			 U U
+ministry			 U N
+minor			 U N
+minority			 U N
+minus			 K K
+minute			 U N
+miracle			 K K
+mirror			 K K
+mischief			 U N
+miserable			 U N
+misery			 U N
+misfortune			 U N
+mislead			 K K
+miss			 K K
+missile			 U U
+missing			 K K
+mission			 U N
+missionary			 N N
+mist			 U U
+mistake			 K K
+mistress			 U U
+misunderstand			 K K
+mix			 K K
+mixture			 K K
+moan			 U N
+mob			 U N
+mobile			 K K
+mobilize			 U N
+mock			 U N
+mode			 K K
+model			 K K
+moderate			 K K
+modern			 K K
+modernization			 K K
+modest			 U N
+modify			 K K
+module			 K K
+moist			 K K
+moisture			 U N
+molecule			 U U
+moment			 K K
+momentum			 U U
+monarch			 U U
+Monday			 K K
+monetary			 U N
+money			 K K
+monitor			 K K
+monkey			 K K
+monopoly			 K K
+monotonous			 U N
+monster			 N N
+month			 K K
+monthly			 K K
+monument			 U U
+mood			 U U
+moon			 K K
+moral			 U N
+morality			 U N
+more			 K K
+moreover			 U N
+morning			 K K
+mortal			 U U
+mortgage			 K K
+mosaic			 U N
+mosquito			 U U
+moss			 U U
+most			 U N
+mostly			 U N
+motel			 K K
+mother			 K K
+motion			 K K
+motivate			 K K
+motive			 K K
+motor			 K K
+mould			 U U
+mount			 U N
+mountain			 K K
+mourn			 U U
+mouse			 K K
+mouth			 K K
+move			 K K
+movement			 K K
+movie			 K K
+much			 K K
+mud			 K K
+mug			 U U
+multiple			 N N
+multiply			 K K
+multitude			 N N
+municipal			 U U
+murder			 K K
+murmur			 U N
+muscle			 N N
+muscular			 U U
+museum			 K K
+mushroom			 U N
+music			 K K
+musical			 K K
+musician			 K K
+must			 K K
+mute			 U N
+mutter			 U U
+mutton			 U U
+mutual			 U U
+my			 K K
+myself			 K K
+mysterious			 K K
+mystery			 K K
+myth			 K K
+nail			 N N
+naive			 K K
+naked			 U U
+name			 K K
+namely			 K K
+nap			 U U
+napkin			 U U
+narrative			 U U
+narrow			 N N
+nasty			 U N
+nation			 K K
+national			 K K
+nationality			 K K
+native			 N N
+natural			 U N
+nature			 N N
+naughty			 U U
+naval			 U U
+navigation			 N N
+navy			 K K
+near			 K K
+nearby			 K K
+nearly			 N N
+neat			 U U
+necessary			 K K
+necessitate			 U U
+necessity			 U N
+neck			 K K
+necklace			 K K
+need			 K K
+needle			 U U
+negative			 K K
+neglect			 K K
+negligible			 N N
+negotiate			 N N
+Negro			 K K
+neighbor			 K K
+neighborhood			 K K
+neither			 K K
+nephew			 U U
+nerve			 K K
+nervous			 N N
+nest			 N N
+net			 K K
+network			 K K
+neutral			 U N
+never			 K K
+nevertheless			 K K
+new			 K K
+news			 K K
+newspaper			 K K
+next			 K K
+nice			 K K
+nickel			 U N
+nickname			 K K
+niece			 U U
+night			 K K
+nightmare			 K K
+nine			 K K
+nineteen			 K K
+ninety			 K K
+nitrogen			 K K
+no			 K K
+noble			 U N
+nobody			 K K
+nod			 K K
+noise			 K K
+noisy			 K K
+nominal			 K K
+nominate			 K K
+none			 K K
+nonetheless			 K K
+nonsense			 U N
+noodle			 K K
+noon			 U U
+nor			 U N
+norm			 K K
+normal			 K K
+normalization			 K K
+north			 K K
+northeast			 K K
+northern			 K K
+northwest			 K K
+nose			 K K
+not			 K K
+notable			 K K
+note			 K K
+notebook			 K K
+nothing			 K K
+notice			 K K
+noticeable			 K K
+notify			 K K
+notion			 K K
+notorious			 U N
+notwithstanding			 U N
+noun			 N N
+nourish			 N N
+novel			 K K
+novelty			 K K
+November			 K K
+now			 K K
+nowadays			 K K
+nowhere			 K K
+nuclear			 K K
+nucleus			 N N
+NULL			 K K
+nuisance			 N N
+numb			 K K
+number			 K K
+numerical			 K K
+numerous			 N N
+nurse			 N N
+nursery			 N N
+nurture			 U U
+nut			 U U
+nutrition			 K K
+nylon			 K K
+oak			 K K
+oar			 K K
+oath			 N N
+obedience			 N N
+obedient			 N N
+obey			 K K
+object			 K K
+objection			 K K
+objective			 K K
+obligation			 N N
+oblige			 N N
+obscure			 K K
+observation			 N N
+observe			 K K
+obsession			 K K
+obsolete			 N N
+obstacle			 K K
+obstruct			 K K
+obstruction			 K K
+obtain			 K K
+obvious			 K K
+occasion			 N N
+occasional			 N N
+occupation			 N N
+occupy			 K K
+occur			 N N
+occurrence			 N N
+ocean			 K K
+o'clock			 U N
+October			 K K
+odd			 K K
+odds			 K K
+odor			 U U
+of			 K K
+off			 K K
+offend			 N N
+offensive			 K K
+offer			 K K
+office			 K K
+officer			 K K
+official			 K K
+offset			 K K
+offspring			 N N
+often			 K K
+oil			 K K
+okay			 K K
+old			 K K
+omit			 K K
+on			 K K
+once			 K K
+one			 K K
+oneself			 K K
+onion			 K K
+only			 K K
+onto			 K K
+opaque			 K K
+open			 K K
+opening			 K K
+opera			 N N
+operate			 K K
+operation			 K K
+operational			 K K
+operator			 K K
+opinion			 K K
+opponent			 K K
+opportunity			 K K
+oppose			 N N
+opposite			 N N
+oppress			 N N
+opt			 U N
+optical			 K K
+optimistic			 N N
+optimum			 U N
+option			 K K
+optional			 K K
+or			 K K
+oral			 K K
+orange			 K K
+orbit			 U U
+orchard			 U U
+orchestra			 U U
+order			 K K
+orderly			 U N
+ordinary			 U N
+ore			 U U
+organ			 U N
+organic			 U N
+organism			 U U
+organization			 K K
+organize			 K K
+orient			 U N
+oriental			 U N
+orientation			 U N
+origin			 K K
+original			 K K
+originate			 N N
+ornament			 N N
+orphan			 U U
+orthodox			 N N
+other			 K K
+otherwise			 K K
+ought			 K K
+ounce			 K K
+our			 K K
+ours			 K K
+ourselves			 K K
+out			 K K
+outbreak			 U U
+outcome			 K K
+outdoor			 K K
+outer			 K K
+outfit			 U U
+outing			 U U
+outlet			 N N
+outline			 K K
+outlook			 K K
+output			 K K
+outrage			 U U
+outset			 U N
+outside			 U N
+outskirts			 U N
+outstanding			 U U
+outward			 U U
+oval			 U N
+oven			 U N
+over			 K K
+overall			 K K
+overcoat			 K K
+overcome			 K K
+overflow			 K K
+overhead			 N N
+overhear			 N N
+overlap			 K K
+overlook			 K K
+overnight			 K K
+overpass			 K K
+overseas			 K K
+overtake			 N N
+overthrow			 N N
+overtime			 K K
+overturn			 K K
+overwhelm			 K K
+overwhelming			 K K
+owe			 U N
+owing			 U N
+owl			 U U
+own			 K K
+owner			 K K
+ownership			 K K
+ox			 K K
+oxide			 K K
+oxygen			 K K
+ozone			 U U
+pace			 K K
+pack			 K K
+package			 K K
+packet			 U N
+pact			 U U
+pad			 K K
+paddle			 U U
+page			 K K
+pail			 U U
+pain			 U N
+painful			 K K
+paint			 U N
+painter			 U N
+painting			 K K
+pair			 U N
+palace			 K K
+pale			 U U
+palm			 K K
+pamphlet			 U N
+pan			 K K
+panda			 K K
+panel			 K K
+panic			 K K
+panorama			 U U
+pant			 U U
+pants			 U U
+paper			 K K
+paperback			 N N
+parachute			 U U
+parade			 U U
+paradigm			 U U
+paradox			 U N
+paragraph			 U U
+parallel			 K K
+paralyze			 U U
+parameter			 K K
+parasite			 U U
+parcel			 U U
+pardon			 U N
+parent			 U U
+park			 K K
+parliament			 U U
+part			 K K
+partial			 K K
+participant			 K K
+participate			 K K
+particle			 U N
+particular			 K K
+partly			 U N
+partner			 U N
+party			 K K
+pass			 K K
+passage			 K K
+passenger			 K K
+passer-by			 U N
+passion			 K K
+passive			 K K
+passport			 K K
+past			 K K
+paste			 K K
+pastime			 K K
+pasture			 U U
+pat			 U N
+patch			 K K
+patent			 K K
+path			 K K
+pathetic			 U N
+patience			 U N
+patient			 U N
+patriotic			 U N
+patrol			 U U
+patron			 U U
+pattern			 K K
+pause			 K K
+pave			 K K
+pavement			 K K
+paw			 U U
+pay			 K K
+payment			 K K
+pea			 U U
+peace			 K K
+peaceful			 K K
+peach			 N N
+peak			 N N
+peanut			 K K
+pear			 K K
+NULL			 K K
+pearl			 U N
+peasant			 U U
+pebble			 U U
+peculiar			 U N
+pedal			 U U
+pedestrian			 U U
+peel			 U U
+peep			 U U
+peer			 K K
+pen			 K K
+penalty			 U N
+pencil			 K K
+pendulum			 U U
+penetrate			 K K
+peninsula			 K K
+penny			 K K
+pension			 U N
+people			 K K
+pepper			 U U
+per			 U U
+perceive			 U N
+percent			 K K
+percentage			 K K
+perfect			 K K
+perfection			 N N
+perform			 K K
+performance			 K K
+perfume			 U U
+perhaps			 K K
+period			 N N
+periodical			 N N
+perish			 U U
+permanent			 U U
+permeate			 U U
+permission			 K K
+permit			 K K
+perpetual			 U U
+perplex			 U U
+persecute			 U U
+persevere			 U U
+persist			 U N
+person			 K K
+personal			 K K
+personality			 K K
+personnel			 U U
+perspective			 N N
+persuade			 U N
+persuasion			 U N
+pessimistic			 U U
+pest			 U N
+pet			 K K
+petition			 U U
+petrol			 K K
+petroleum			 K K
+petty			 U U
+pharmacy			 U U
+phase			 K K
+phenomenon			 K K
+philosopher			 K K
+philosophy			 K K
+phone			 K K
+photo			 K K
+phrase			 N N
+physical			 K K
+physician			 K K
+physicist			 K K
+physics			 K K
+physiological			 K K
+piano			 K K
+pick			 K K
+pickup			 K K
+picnic			 U U
+picture			 K K
+pie			 K K
+piece			 N N
+pierce			 K K
+pig			 K K
+pigeon			 U U
+pile			 K K
+pilgrim			 U U
+pill			 U N
+pillar			 U U
+pillow			 K K
+pilot			 U U
+pin			 U U
+pinch			 U U
+pine			 U U
+pink			 K K
+pint			 U U
+pioneer			 U N
+pipe			 K K
+pirate			 U N
+pistol			 U U
+piston			 U U
+pit			 U U
+pitch			 U U
+pity			 K K
+place			 U N
+plague			 U N
+plain			 U N
+plan			 K K
+plane			 K K
+planet			 U N
+plant			 K K
+plantation			 U U
+plaster			 N N
+plastic			 N N
+plate			 K K
+plateau			 K K
+platform			 K K
+plausible			 U N
+play			 K K
+playground			 K K
+plea			 U U
+plead			 U N
+pleasant			 N N
+please			 K K
+pleasure			 K K
+pledge			 U U
+plentiful			 U N
+plenty			 K K
+plight			 K K
+plot			 U N
+plough			 U U
+plug			 U N
+plumber			 U U
+plunge			 U U
+plural			 U U
+plus			 K K
+pneumonia			 U U
+pocket			 K K
+poem			 K K
+poet			 K K
+poetry			 U U
+point			 K K
+poison			 K K
+poisonous			 K K
+poke			 K K
+polar			 K K
+pole			 U N
+police			 K K
+policeman			 K K
+policy			 K K
+polish			 N N
+polite			 K K
+political			 K K
+politician			 K K
+politics			 K K
+poll			 N N
+pollute			 U N
+pollution			 U N
+pond			 U U
+ponder			 U N
+pool			 K K
+poor			 K K
+pop			 K K
+pope			 U U
+popular			 K K
+population			 K K
+porcelain			 U U
+porch			 U U
+pork			 U U
+port			 K K
+portable			 U N
+porter			 U U
+portion			 U U
+portrait			 U U
+portray			 U U
+pose			 K K
+position			 K K
+positive			 K K
+possess			 U N
+possession			 U N
+possibility			 U U
+possible			 K K
+possibly			 K K
+post			 K K
+postage			 U U
+postcard			 U N
+poster			 K K
+postman			 K K
+postpone			 K K
+posture			 U U
+pot			 K K
+potato			 K K
+potential			 N N
+poultry			 U U
+pound			 U U
+pour			 N N
+poverty			 U N
+powder			 U N
+power			 K K
+powerful			 K K
+practical			 K K
+practically			 K K
+practice			 K K
+practise			 N N
+practitioner			 N N
+praise			 K K
+pray			 K K
+prayer			 K K
+preach			 U U
+precaution			 U U
+precede			 N N
+precedent			 K K
+preceding			 K K
+precious			 N N
+precise			 N N
+precision			 N N
+preclude			 U N
+predecessor			 N N
+predict			 K K
+predominant			 K K
+preface			 K K
+prefer			 K K
+preferable			 U U
+preference			 U N
+pregnant			 K K
+prejudice			 U U
+preliminary			 U U
+premier			 U N
+premise			 U U
+premium			 U U
+preparation			 K K
+prepare			 K K
+preposition			 U U
+prescribe			 U U
+prescription			 U U
+presence			 U U
+present			 K K
+presently			 K K
+preserve			 U U
+preside			 U U
+president			 K K
+press			 K K
+pressure			 K K
+prestige			 U U
+presumably			 K K
+presume			 U U
+pretend			 K K
+pretext			 N N
+pretty			 K K
+prevail			 K K
+prevalent			 U U
+prevent			 K K
+previous			 K K
+prey			 N N
+price			 K K
+prick			 U U
+pride			 N N
+NULL			 K K
+priest			 U U
+primary			 N N
+prime			 N N
+primitive			 U U
+prince			 K K
+princess			 K K
+principal			 N N
+principle			 N N
+print			 K K
+prior			 K K
+priority			 K K
+prison			 K K
+prisoner			 K K
+privacy			 K K
+private			 K K
+privilege			 U U
+prize			 K K
+probability			 K K
+probable			 K K
+probe			 U N
+problem			 K K
+procedure			 U N
+proceed			 K K
+proceeding			 K K
+process			 K K
+procession			 K K
+proclaim			 K K
+produce			 K K
+product			 K K
+production			 K K
+productive			 K K
+productivity			 K K
+profession			 K K
+professional			 K K
+professor			 K K
+proficiency			 U U
+profile			 K K
+profit			 K K
+profitable			 K K
+profound			 K K
+programme			 U N
+progress			 K K
+progressive			 N N
+prohibit			 K K
+project			 K K
+projector			 K K
+prolong			 U N
+prominent			 N N
+promise			 K K
+promising			 K K
+promote			 K K
+prompt			 N N
+prone			 N N
+pronoun			 U N
+pronounce			 U N
+pronunciation			 U U
+proof			 K K
+propaganda			 U U
+propel			 U U
+proper			 K K
+property			 K K
+prophet			 U U
+proportion			 N N
+proposal			 N N
+propose			 U U
+proposition			 U U
+prose			 N N
+prosecute			 U U
+prospect			 N N
+prospective			 N N
+prosper			 U U
+prosperity			 N N
+prosperous			 N N
+protect			 K K
+protein			 U N
+protest			 K K
+prototype			 K K
+proud			 U N
+prove			 U N
+provide			 K K
+provided			 K K
+province			 K K
+provision			 U U
+provoke			 K K
+prudent			 K K
+psychiatry			 N N
+psychology			 N N
+pub			 K K
+public			 K K
+publication			 K K
+publicity			 K K
+publish			 K K
+puff			 U N
+pull			 K K
+pulse			 N N
+pump			 K K
+punch			 K K
+punctual			 N N
+punish			 K K
+pupil			 N N
+puppet			 U U
+purchase			 K K
+pure			 K K
+purify			 K K
+purple			 U N
+purpose			 K K
+purse			 N N
+pursue			 U N
+pursuit			 K K
+push			 K K
+put			 K K
+puzzle			 N N
+pyramid			 K K
+qualification			 N N
+qualify			 N N
+qualitative			 N N
+quality			 N N
+quantify			 N N
+quantitative			 N N
+quantity			 N N
+quarrel			 U U
+quart			 N N
+quarter			 K K
+quarterly			 K K
+quartz			 N N
+queen			 K K
+queer			 U N
+quench			 U U
+quest			 N N
+question			 K K
+questionnaire			 U U
+queue			 K K
+quick			 K K
+quiet			 K K
+quilt			 U U
+quit			 K K
+quite			 K K
+quiver			 U U
+quiz			 U N
+quota			 U U
+quote			 K K
+rabbit			 K K
+race			 K K
+racial			 K K
+rack			 U U
+racket			 U U
+radar			 U U
+radiant			 U N
+radiate			 U N
+radical			 U U
+radio			 K K
+radioactive			 K K
+radius			 K K
+rag			 U U
+rage			 K K
+raid			 U U
+rail			 U N
+railroad			 U N
+rain			 K K
+rainbow			 K K
+raise			 K K
+rake			 U U
+rally			 N N
+random			 K K
+range			 K K
+rank			 K K
+rap			 U U
+rape			 N N
+rapid			 K K
+rare			 K K
+rarely			 K K
+rash			 U U
+rat			 U N
+rate			 K K
+rather			 K K
+ratio			 K K
+rational			 K K
+raw			 K K
+ray			 U N
+razor			 U N
+reach			 K K
+react			 U N
+read			 K K
+reader			 K K
+readily			 N N
+reading			 K K
+ready			 K K
+real			 K K
+realise			 K K
+realistic			 N N
+reality			 K K
+really			 K K
+realm			 K K
+reap			 N N
+rear			 K K
+reason			 K K
+reasonable			 K K
+reassure			 U U
+rebel			 U N
+rebellion			 U N
+recall			 K K
+recede			 N N
+receipt			 K K
+receive			 K K
+recent			 K K
+reception			 N N
+recipe			 U N
+recipient			 U U
+reciprocal			 U N
+recite			 U U
+reckless			 U U
+reckon			 K K
+reclaim			 K K
+recognition			 K K
+recognize			 K K
+recollect			 U N
+recommend			 K K
+reconcile			 U U
+record			 K K
+recorder			 K K
+recover			 K K
+recovery			 K K
+recreation			 U U
+recruit			 U U
+rectangle			 K K
+rectify			 U U
+recur			 U U
+recycle			 K K
+red			 K K
+reduce			 U N
+reduction			 U N
+redundant			 U N
+reed			 U U
+reel			 U U
+refer			 U N
+reference			 K K
+refine			 N N
+reflect			 K K
+reflection			 K K
+reform			 K K
+refrain			 U N
+refresh			 K K
+refreshment			 N N
+refuge			 U N
+refugee			 K K
+refund			 U U
+refusal			 U U
+refuse			 K K
+refute			 U U
+regard			 K K
+NULL			 K K
+regarding			 K K
+regardless			 K K
+regime			 K K
+region			 K K
+register			 K K
+regret			 K K
+regular			 K K
+regulate			 K K
+regulation			 K K
+rehearsal			 U U
+reign			 K K
+rein			 U N
+reinforce			 U N
+reject			 N N
+rejoice			 U U
+relate			 K K
+relation			 K K
+relationship			 K K
+relative			 K K
+relativity			 K K
+relax			 K K
+relay			 K K
+release			 N N
+relevant			 N N
+reliable			 K K
+reliance			 K K
+relief			 K K
+relieve			 K K
+religion			 U N
+religious			 U N
+relish			 U U
+reluctant			 U U
+rely			 K K
+remain			 K K
+remainder			 K K
+remains			 K K
+remark			 K K
+remarkable			 K K
+remedy			 U U
+remember			 K K
+remind			 K K
+remnant			 N N
+remote			 K K
+removal			 U N
+remove			 K K
+renaissance			 U U
+render			 K K
+renew			 U N
+renovate			 U U
+rent			 U N
+repair			 K K
+repay			 U N
+repeat			 K K
+repeatedly			 K K
+repel			 U U
+repertoire			 U U
+repetition			 U U
+replace			 K K
+replacement			 K K
+reply			 K K
+report			 K K
+reporter			 K K
+represent			 K K
+representative			 K K
+repression			 K K
+reproach			 U U
+reproduce			 N N
+reptile			 N N
+republic			 N N
+republican			 N N
+reputation			 N N
+request			 K K
+require			 K K
+requirement			 K K
+rescue			 K K
+research			 K K
+resemblance			 U U
+resemble			 U U
+resent			 U U
+reservation			 U U
+reserve			 N N
+reservoir			 N N
+residence			 U N
+resident			 K K
+resign			 U N
+resist			 U N
+resistance			 U N
+resistant			 U N
+resolute			 N N
+resolution			 N N
+resolve			 N N
+resort			 N N
+resource			 K K
+respect			 K K
+respective			 K K
+respond			 K K
+response			 K K
+responsibility			 K K
+responsible			 K K
+rest			 K K
+restaurant			 K K
+restless			 U N
+restore			 K K
+restrain			 K K
+restraint			 K K
+restrict			 U U
+result			 K K
+resultant			 K K
+resume			 K K
+retail			 K K
+retain			 N N
+retention			 U U
+retire			 K K
+retort			 U N
+retreat			 N N
+retrieve			 N N
+retrospect			 U U
+return			 K K
+reveal			 K K
+revelation			 K K
+revenge			 U U
+revenue			 K K
+reverse			 K K
+review			 K K
+revise			 N N
+revive			 N N
+revolt			 U U
+revolution			 K K
+revolutionary			 K K
+revolve			 N N
+reward			 K K
+rhythm			 N N
+rib			 U N
+ribbon			 U U
+rice			 K K
+rich			 K K
+rid			 U U
+riddle			 U U
+ride			 K K
+ridge			 U N
+ridiculous			 K K
+rifle			 U U
+right			 K K
+rigid			 U U
+rigorous			 U U
+rim			 K K
+ring			 K K
+riot			 U U
+rip			 N N
+ripe			 K K
+rise			 K K
+risk			 K K
+ritual			 U U
+rival			 U U
+river			 K K
+road			 K K
+roar			 K K
+roast			 U N
+rob			 K K
+robe			 K K
+robot			 K K
+robust			 K K
+rock			 K K
+rocket			 K K
+rod			 U U
+role			 K K
+roll			 K K
+romance			 K K
+romantic			 K K
+roof			 K K
+room			 K K
+root			 K K
+rope			 U N
+rose			 K K
+rot			 K K
+rotary			 U U
+rotate			 K K
+rotten			 K K
+rough			 U N
+round			 K K
+roundabout			 K K
+rouse			 K K
+route			 K K
+routine			 K K
+row			 K K
+royal			 K K
+royalty			 N N
+rub			 U N
+rubber			 U U
+rubbish			 U N
+ruby			 K K
+rude			 U N
+rug			 K K
+ruin			 U N
+rule			 K K
+ruler			 K K
+rumor			 K K
+run			 K K
+rural			 U U
+rush			 K K
+rust			 U U
+ruthless			 U U
+sack			 U U
+sacred			 U N
+sacrifice			 N N
+sad			 K K
+saddle			 U U
+safe			 K K
+safeguard			 N N
+safety			 K K
+sail			 U N
+sailor			 K K
+saint			 N N
+sake			 U U
+salad			 U U
+salary			 K K
+sale			 N N
+salesman			 K K
+salt			 N N
+salute			 U U
+salvation			 U U
+same			 K K
+sample			 K K
+sanction			 U U
+sand			 K K
+sandwich			 K K
+sane			 U U
+sarcastic			 U U
+satellite			 K K
+satire			 U U
+satisfaction			 K K
+satisfactory			 K K
+satisfy			 K K
+saturate			 K K
+Saturday			 K K
+sauce			 U U
+saucer			 U U
+sausage			 U U
+savage			 U U
+save			 K K
+saving			 K K
+saw			 K K
+say			 K K
+scale			 K K
+scan			 K K
+scandal			 K K
+scar			 U U
+scarce			 K K
+scarcely			 U U
+scare			 K K
+NULL			 K K
+scarf			 U U
+scatter			 U N
+scene			 N N
+scenery			 N N
+scent			 U U
+schedule			 K K
+scheme			 U N
+scholar			 K K
+scholarship			 K K
+school			 K K
+science			 K K
+scientific			 K K
+scientist			 K K
+scissors			 U U
+scold			 U U
+scope			 K K
+score			 K K
+scorn			 U U
+scout			 U U
+scramble			 U U
+scrap			 U U
+scrape			 U N
+scratch			 U U
+scream			 K K
+screen			 K K
+screw			 U N
+script			 K K
+scrutiny			 U U
+sculpture			 U U
+sea			 K K
+seal			 K K
+seam			 K K
+search			 K K
+seaside			 K K
+season			 K K
+seat			 K K
+second			 K K
+secondary			 K K
+secret			 K K
+secretary			 K K
+section			 K K
+sector			 K K
+secure			 K K
+security			 K K
+see			 K K
+seed			 K K
+seek			 K K
+seem			 K K
+seemingly			 K K
+segment			 K K
+segregate			 U U
+seize			 K K
+seldom			 K K
+select			 K K
+selection			 K K
+self			 K K
+selfish			 K K
+sell			 K K
+semester			 U N
+semiconductor			 U N
+seminar			 U N
+senate			 K K
+senator			 U N
+send			 K K
+senior			 K K
+sensation			 N N
+sense			 K K
+sensible			 K K
+sensitive			 K K
+sentence			 K K
+sentiment			 U N
+separate			 K K
+September			 K K
+sequence			 K K
+serial			 N N
+series			 N N
+serious			 N N
+servant			 K K
+serve			 K K
+service			 K K
+session			 K K
+set			 K K
+setback			 U N
+setting			 K K
+settle			 K K
+settlement			 K K
+seven			 K K
+several			 K K
+severe			 U U
+sew			 U N
+sex			 K K
+shabby			 N N
+shade			 K K
+shadow			 K K
+shady			 U U
+shaft			 U U
+shake			 K K
+shall			 U N
+shallow			 K K
+sham			 U U
+shame			 U N
+shampoo			 U U
+shape			 K K
+share			 K K
+shark			 U U
+sharp			 U N
+shatter			 U N
+shave			 N N
+she			 K K
+shear			 N N
+shed			 U U
+sheep			 K K
+sheer			 U U
+sheet			 N N
+shelf			 K K
+shell			 K K
+shelter			 K K
+shepherd			 U N
+shield			 N N
+shift			 K K
+shilling			 U U
+shine			 U N
+ship			 K K
+shipment			 K K
+shirt			 U U
+shiver			 N N
+shock			 K K
+shoe			 K K
+shoot			 K K
+shop			 K K
+shopkeeper			 K K
+shore			 U N
+short			 U U
+shortage			 K K
+shortcoming			 K K
+shorthand			 K K
+shortly			 K K
+shot			 K K
+should			 K K
+shoulder			 U N
+shout			 U N
+shove			 U U
+show			 K K
+shower			 U U
+shrewd			 U U
+shrink			 K K
+shrug			 U U
+shut			 K K
+shutter			 K K
+shuttle			 K K
+shy			 U U
+sick			 K K
+side			 K K
+sideways			 K K
+siege			 U U
+sigh			 K K
+sight			 U N
+sightseeing			 K K
+sign			 K K
+signal			 K K
+signature			 U N
+significance			 K K
+significant			 K K
+signify			 K K
+silence			 K K
+silent			 K K
+silicon			 K K
+silk			 K K
+silly			 U U
+silver			 K K
+similar			 K K
+simple			 K K
+simplicity			 K K
+simplify			 K K
+simply			 K K
+simulate			 K K
+simultaneous			 K K
+sin			 U U
+since			 K K
+sincere			 N N
+sing			 K K
+single			 K K
+singular			 K K
+sink			 U U
+sip			 K K
+sir			 K K
+siren			 U U
+sister			 K K
+sit			 K K
+site			 K K
+situated			 U N
+situation			 K K
+six			 K K
+size			 K K
+skate			 U U
+skeleton			 K K
+skeptical			 U U
+sketch			 U U
+ski			 U U
+skill			 U N
+skilled			 U N
+skillful			 U N
+skim			 U U
+skin			 K K
+skip			 K K
+skirt			 K K
+skull			 U U
+sky			 K K
+skyscraper			 K K
+slack			 U N
+slam			 U N
+slap			 U N
+slaughter			 N N
+slave			 K K
+sleep			 K K
+sleeve			 U U
+slender			 K K
+slice			 K K
+slide			 U N
+slight			 U U
+slim			 U U
+slip			 U U
+slipper			 U U
+slippery			 U U
+slit			 U U
+slogan			 U N
+slope			 U N
+slot			 K K
+slow			 K K
+slum			 U U
+sly			 U U
+small			 K K
+smart			 K K
+smash			 U N
+smell			 U N
+smile			 K K
+smog			 K K
+smoke			 K K
+smooth			 K K
+smuggle			 U U
+snack			 K K
+snake			 K K
+snap			 U U
+snatch			 U N
+sneak			 U U
+sneeze			 U U
+sniff			 U U
+snow			 K K
+snowstorm			 K K
+so			 K K
+NULL			 K K
+soak			 U N
+soap			 N N
+soar			 K K
+sob			 K K
+sober			 K K
+so-called			 K K
+soccer			 K K
+sociable			 N N
+social			 N N
+socialism			 K K
+society			 K K
+sociology			 K K
+sock			 K K
+soda			 K K
+sofa			 K K
+soft			 K K
+software			 K K
+soil			 U U
+solar			 U U
+soldier			 K K
+sole			 K K
+solemn			 U U
+solid			 K K
+solidarity			 K K
+solitary			 K K
+solo			 K K
+soluble			 N N
+solution			 K K
+solve			 U N
+some			 K K
+somebody			 K K
+somehow			 K K
+someone			 K K
+something			 K K
+sometime			 K K
+sometimes			 K K
+somewhat			 K K
+somewhere			 K K
+son			 K K
+song			 K K
+soon			 K K
+sophisticated			 K K
+sophomore			 K K
+sore			 K K
+sorrow			 U N
+sorry			 K K
+sort			 K K
+soul			 N N
+sound			 K K
+soup			 K K
+sour			 K K
+source			 K K
+south			 K K
+southeast			 K K
+southern			 K K
+southwest			 K K
+sovereign			 K K
+sow			 U U
+space			 K K
+spacecraft			 K K
+spaceship			 K K
+spacious			 N N
+spade			 U U
+span			 K K
+spare			 K K
+spark			 N N
+sparkle			 N N
+speak			 U N
+speaker			 K K
+spear			 N N
+special			 K K
+specialist			 K K
+speciality			 N N
+specialize			 K K
+species			 K K
+specific			 K K
+specification			 K K
+specify			 N N
+specimen			 U U
+spectacle			 U N
+spectacular			 U U
+spectator			 U U
+spectrum			 U U
+speculate			 K K
+speech			 K K
+speed			 K K
+spell			 K K
+spelling			 K K
+spend			 K K
+sphere			 K K
+spicy			 U U
+spider			 K K
+spill			 U U
+spin			 K K
+spine			 U U
+spiral			 U U
+spirit			 K K
+spiritual			 U U
+spit			 U U
+spite			 U N
+splash			 U U
+splendid			 U U
+split			 K K
+spoil			 U N
+spokesman			 K K
+sponge			 U N
+sponsor			 K K
+spontaneous			 U U
+spoon			 U N
+sport			 K K
+sportsman			 K K
+spot			 K K
+spouse			 U U
+spray			 U U
+spread			 K K
+spring			 K K
+sprinkle			 U U
+sprout			 U U
+spur			 U U
+spy			 K K
+square			 K K
+squeeze			 K K
+squirrel			 U U
+stab			 U N
+stability			 U N
+stable			 K K
+stack			 K K
+stadium			 U U
+staff			 K K
+stage			 U N
+stagger			 U U
+stain			 U U
+stair			 K K
+staircase			 U U
+stake			 U U
+stale			 U U
+stalk			 K K
+stall			 U U
+stamp			 U U
+stand			 K K
+standard			 K K
+standpoint			 K K
+staple			 U U
+star			 K K
+stare			 U N
+start			 K K
+startle			 U N
+starve			 K K
+state			 K K
+statement			 K K
+statesman			 U N
+static			 K K
+station			 K K
+stationary			 U U
+stationery			 U U
+statistical			 U N
+statue			 K K
+status			 K K
+statute			 U U
+stay			 K K
+steady			 U U
+steak			 U U
+steal			 K K
+steam			 U N
+steamer			 U N
+steel			 K K
+steep			 U U
+steer			 U N
+stem			 U U
+step			 K K
+stereo			 K K
+stereotype			 K K
+stern			 U U
+steward			 U U
+stick			 K K
+sticky			 K K
+stiff			 U U
+still			 K K
+stimulate			 K K
+sting			 U N
+stir			 U N
+stitch			 U U
+stock			 K K
+stocking			 K K
+stomach			 U N
+stone			 K K
+stool			 U U
+stoop			 U U
+stop			 K K
+storage			 K K
+store			 K K
+storey			 K K
+storm			 K K
+story			 K K
+stove			 U N
+straight			 K K
+straightforward			 K K
+strain			 U N
+strange			 K K
+stranger			 K K
+strap			 U N
+strategy			 K K
+straw			 U N
+strawberry			 U U
+stream			 K K
+streamline			 K K
+street			 K K
+strength			 K K
+strengthen			 K K
+strenuous			 U U
+stress			 U N
+stretch			 U N
+strict			 U N
+stride			 U U
+strife			 U U
+strike			 K K
+striking			 U U
+string			 U N
+strip			 K K
+stripe			 K K
+strive			 U U
+stroke			 U U
+stroll			 U N
+strong			 K K
+structure			 K K
+struggle			 U N
+stubborn			 U U
+student			 K K
+studio			 K K
+study			 K K
+stuff			 K K
+stumble			 K K
+stun			 U U
+stupid			 K K
+sturdy			 U U
+style			 K K
+subject			 K K
+subjective			 U U
+submarine			 U N
+submerge			 U N
+submit			 K K
+subordinate			 U U
+subscribe			 N N
+subsequent			 U U
+subsidy			 U U
+substance			 U U
+substantial			 U N
+substitute			 U U
+subtle			 U N
+subtract			 U U
+NULL			 K K
+suburb			 U U
+subway			 K K
+succeed			 K K
+success			 K K
+successful			 K K
+succession			 U U
+successive			 U U
+successor			 K K
+such			 K K
+suck			 K K
+sudden			 U N
+sue			 U U
+suffer			 K K
+suffice			 U U
+sufficient			 K K
+sugar			 K K
+suggest			 K K
+suggestion			 K K
+suicide			 K K
+suit			 K K
+suitable			 K K
+suite			 U U
+sulfur			 U U
+sum			 K K
+summarize			 K K
+summary			 K K
+summer			 K K
+summit			 K K
+summon			 U U
+sun			 K K
+Sunday			 K K
+sunrise			 K K
+sunset			 K K
+sunshine			 K K
+super			 K K
+superb			 U U
+superficial			 U U
+superfluous			 U U
+superior			 U U
+superiority			 U U
+supermarket			 U N
+supersonic			 U U
+superstition			 U U
+supervise			 K K
+supper			 K K
+supplement			 U N
+supply			 K K
+support			 K K
+suppose			 K K
+suppress			 U N
+supreme			 U U
+sure			 K K
+surface			 K K
+surge			 U U
+surgeon			 U N
+surgery			 U N
+surname			 K K
+surpass			 U U
+surplus			 K K
+surprise			 K K
+surrender			 U N
+surround			 K K
+surroundings			 K K
+survey			 U N
+survival			 K K
+survive			 K K
+susceptible			 U U
+suspect			 K K
+suspend			 K K
+suspicion			 U N
+suspicious			 U N
+sustain			 K K
+swallow			 U N
+swamp			 U U
+swan			 K K
+swarm			 U U
+sway			 U U
+swear			 K K
+sweat			 U U
+sweater			 U U
+sweep			 N N
+sweet			 N N
+swell			 U N
+swift			 K K
+swim			 U N
+swing			 U N
+switch			 U U
+sword			 K K
+symbol			 K K
+symmetry			 K K
+sympathetic			 N N
+sympathize			 N N
+sympathy			 N N
+symphony			 U U
+symposium			 U U
+symptom			 U U
+syndrome			 U U
+synthesis			 K K
+synthetic			 K K
+system			 K K
+systematic			 K K
+table			 K K
+tablet			 U U
+tackle			 U U
+tactic			 K K
+tag			 K K
+tail			 K K
+tailor			 K K
+take			 K K
+tale			 K K
+talent			 K K
+talk			 K K
+tall			 K K
+tame			 U U
+tan			 U U
+tangle			 K K
+tank			 K K
+tanker			 K K
+tap			 K K
+tape			 K K
+tar			 U U
+target			 K K
+tariff			 U U
+task			 K K
+taste			 K K
+tax			 K K
+taxi			 K K
+tea			 K K
+teach			 K K
+teacher			 K K
+team			 K K
+tear			 U N
+tease			 K K
+technical			 K K
+technician			 K K
+technique			 K K
+technology			 K K
+tedious			 U U
+teenager			 K K
+telegram			 K K
+telegraph			 K K
+telephone			 K K
+telescope			 K K
+tell			 K K
+temper			 K K
+temperament			 U U
+temperature			 U N
+temple			 K K
+tempo			 K K
+temporary			 K K
+tempt			 K K
+temptation			 K K
+ten			 K K
+tenant			 K K
+tend			 K K
+tendency			 U U
+tender			 K K
+tennis			 U U
+tense			 U N
+tension			 K K
+tent			 K K
+tentative			 U U
+term			 K K
+terminal			 K K
+terminate			 K K
+terrible			 K K
+terrific			 K K
+terrify			 K K
+territory			 K K
+terror			 K K
+test			 K K
+testify			 K K
+testimony			 K K
+text			 K K
+textbook			 K K
+textile			 K K
+texture			 K K
+than			 K K
+thank			 K K
+Thanksgiving			 K K
+that			 K K
+the			 K K
+theater			 K K
+theft			 K K
+their			 K K
+theirs			 K K
+them			 K K
+theme			 K K
+themselves			 K K
+then			 K K
+theoretical			 U U
+theory			 K K
+therapy			 U N
+there			 K K
+thereafter			 K K
+thereby			 K K
+therefore			 K K
+thermal			 U N
+thermometer			 U U
+these			 K K
+thesis			 U U
+they			 K K
+thick			 K K
+thief			 K K
+thigh			 U U
+thin			 K K
+thing			 K K
+think			 K K
+third			 K K
+thirst			 K K
+thirsty			 K K
+thirteen			 U U
+thirty			 K K
+this			 K K
+thorn			 N N
+thorough			 N N
+those			 K K
+though			 K K
+thought			 K K
+thoughtful			 K K
+thousand			 K K
+thread			 K K
+threat			 K K
+threaten			 K K
+three			 K K
+threshold			 K K
+thrift			 U N
+thrill			 U U
+thrive			 N N
+throat			 K K
+throne			 K K
+through			 K K
+throughout			 K K
+throw			 K K
+thrust			 U N
+thumb			 K K
+thunder			 K K
+Thursday			 K K
+thus			 K K
+tick			 K K
+ticket			 K K
+tide			 K K
+tidy			 K K
+tie			 K K
+tiger			 K K
+tight			 U N
+tile			 U U
+till			 K K
+tilt			 U N
+timber			 N N
+NULL			 K K
+time			 K K
+timely			 K K
+timid			 U U
+tin			 K K
+tiny			 K K
+tip			 K K
+tire			 U N
+tired			 U N
+tiresome			 U N
+tissue			 K K
+title			 K K
+to			 K K
+toast			 U N
+tobacco			 K K
+today			 K K
+toe			 K K
+together			 K K
+toilet			 K K
+token			 K K
+tolerance			 K K
+tolerant			 K K
+tolerate			 K K
+toll			 K K
+tomato			 K K
+tomb			 U U
+tomorrow			 K K
+ton			 K K
+tone			 K K
+tongue			 U N
+tonight			 K K
+too			 K K
+tool			 K K
+tooth			 K K
+top			 K K
+topic			 K K
+torch			 U U
+torment			 N N
+torrent			 K K
+torture			 N N
+toss			 U N
+total			 K K
+touch			 K K
+tough			 U N
+tour			 K K
+tourist			 K K
+tow			 N N
+toward			 U U
+towel			 U N
+tower			 K K
+town			 K K
+toxic			 K K
+toy			 K K
+trace			 K K
+track			 N N
+tractor			 K K
+trade			 K K
+trademark			 K K
+tradition			 K K
+traffic			 K K
+tragedy			 K K
+tragic			 U N
+trail			 N N
+train			 K K
+training			 K K
+trait			 K K
+traitor			 U U
+tram			 U U
+tramp			 U U
+transaction			 K K
+transcend			 U U
+transfer			 K K
+transform			 K K
+transient			 K K
+transistor			 U U
+transition			 U U
+translate			 K K
+translation			 K K
+transmission			 U U
+transmit			 U N
+transparent			 K K
+transplant			 K K
+transport			 K K
+trap			 K K
+trash			 K K
+travel			 K K
+tray			 U U
+treason			 U U
+treasure			 U N
+treat			 U N
+treaty			 U N
+tree			 K K
+tremble			 K K
+tremendous			 K K
+trench			 U U
+trend			 K K
+trial			 U U
+triangle			 K K
+tribe			 U U
+tribute			 K K
+trick			 U N
+trifle			 U U
+trigger			 K K
+trim			 U N
+trip			 K K
+triple			 K K
+triumph			 N N
+trivial			 U U
+trolley			 U U
+troop			 N N
+tropic			 U U
+tropical			 U U
+trouble			 K K
+troublesome			 K K
+trousers			 K K
+truck			 U U
+true			 K K
+trumpet			 N N
+trunk			 U N
+trust			 K K
+truth			 K K
+try			 K K
+tub			 U U
+tube			 U U
+tuck			 U U
+Tuesday			 K K
+tug			 K K
+tuition			 K K
+tumble			 U N
+tumour			 U U
+tune			 K K
+tunnel			 K K
+turbine			 K K
+turbulent			 N N
+turkey			 K K
+turn			 K K
+turnover			 K K
+tutor			 U U
+TV			 K K
+twelve			 K K
+twenty			 K K
+twice			 K K
+twin			 U U
+twinkle			 U U
+twist			 U N
+two			 K K
+type			 K K
+typewriter			 U U
+typhoon			 U N
+typical			 K K
+typist			 U U
+ugly			 K K
+ultimate			 K K
+ultraviolet			 U U
+umbrella			 K K
+unanimous			 U U
+uncle			 K K
+uncover			 N N
+under			 N N
+underestimate			 K K
+undergo			 K K
+undergraduate			 K K
+underground			 K K
+underlie			 U U
+underline			 K K
+underlying			 K K
+undermine			 U N
+underneath			 U N
+understand			 K K
+understanding			 K K
+undertake			 U N
+undo			 N N
+undoubtedly			 K K
+uneasy			 U N
+unemployment			 K K
+unexpected			 K K
+unfold			 K K
+unfortunately			 K K
+uniform			 K K
+unify			 U U
+union			 K K
+unique			 K K
+unit			 K K
+unite			 K K
+unity			 U U
+universal			 K K
+universe			 K K
+university			 U N
+unless			 K K
+unlike			 K K
+unlikely			 K K
+unload			 K K
+until			 K K
+unusual			 K K
+up			 K K
+update			 K K
+upgrade			 U N
+uphold			 U U
+upon			 U N
+upper			 K K
+upright			 U U
+uproar			 U U
+upset			 K K
+upstairs			 K K
+up-to-date			 K K
+upward			 K K
+urban			 K K
+urge			 K K
+urgent			 U N
+us			 K K
+usage			 K K
+use			 K K
+used			 K K
+useful			 K K
+usual			 K K
+usually			 K K
+utilize			 U N
+utmost			 U N
+utter			 U N
+vacant			 U N
+vacation			 U N
+vacuum			 K K
+vague			 K K
+vain			 K K
+valid			 K K
+valley			 K K
+valuable			 K K
+value			 K K
+valve			 K K
+van			 U U
+vanish			 U N
+vanity			 U N
+vapour			 U U
+variable			 K K
+variation			 K K
+variety			 K K
+various			 K K
+vary			 K K
+vase			 U U
+vast			 K K
+vegetable			 U N
+vegetarian			 U U
+vegetation			 U U
+vehicle			 K K
+veil			 U U
+vein			 U U
+velocity			 U U
+velvet			 U U
+ventilate			 U U
+venture			 U N
+verb			 U U
+NULL			 K K
+verbal			 U U
+verdict			 U U
+verge			 U U
+verify			 K K
+versatile			 U U
+verse			 U U
+version			 U N
+versus			 K K
+vertical			 K K
+very			 K K
+vessel			 U N
+vest			 U U
+veteran			 U U
+veto			 U U
+via			 K K
+vibrate			 N N
+vice			 U U
+vicinity			 U N
+vicious			 U U
+victim			 K K
+victory			 K K
+video			 K K
+view			 K K
+viewpoint			 K K
+vigorous			 U N
+village			 K K
+vinegar			 U U
+violate			 N N
+violence			 N N
+violent			 N N
+violet			 N N
+violin			 K K
+virgin			 U U
+virtual			 N N
+virtue			 U U
+virus			 U U
+visa			 K K
+visible			 K K
+vision			 K K
+visit			 K K
+visitor			 K K
+visual			 K K
+vital			 U N
+vitamin			 K K
+vivid			 K K
+vocabulary			 K K
+vocal			 U U
+vocation			 U N
+voice			 K K
+void			 K K
+volcano			 U U
+volleyball			 K K
+volt			 U U
+voltage			 U U
+volume			 K K
+voluntary			 K K
+volunteer			 K K
+vote			 K K
+vowel			 U U
+voyage			 K K
+vulgar			 U U
+vulnerable			 U U
+wage			 K K
+wagon			 K K
+waist			 U N
+wait			 K K
+waiter			 K K
+waitress			 K K
+wake			 K K
+waken			 K K
+walk			 K K
+wall			 K K
+wallet			 K K
+wander			 U N
+want			 K K
+war			 K K
+ward			 U U
+wardrobe			 U U
+warehouse			 U N
+warfare			 U U
+warm			 K K
+warmth			 U U
+warn			 K K
+warrant			 K K
+wash			 K K
+waste			 K K
+watch			 K K
+watch			 K K
+water			 K K
+waterfall			 K K
+waterproof			 U U
+watt			 U U
+wave			 K K
+wax			 U U
+way			 K K
+we			 K K
+weak			 U N
+wealth			 K K
+wealthy			 K K
+weapon			 K K
+wear			 K K
+weary			 U U
+weather			 K K
+weave			 K K
+web			 K K
+wedding			 K K
+wedge			 U U
+Wednesday			 K K
+weed			 U U
+week			 K K
+weekday			 K K
+weekend			 K K
+weekly			 K K
+weep			 U U
+weigh			 U N
+weight			 K K
+weird			 U N
+welcome			 K K
+weld			 U U
+welfare			 K K
+well			 U N
+well-known			 K K
+west			 K K
+western			 K K
+wet			 K K
+whale			 U U
+what			 K K
+whatever			 K K
+whatsoever			 K K
+wheat			 U N
+wheel			 K K
+when			 K K
+whenever			 K K
+where			 K K
+whereas			 U U
+wherever			 K K
+whether			 K K
+which			 K K
+whichever			 K K
+while			 K K
+whip			 U U
+whirl			 U N
+whisky			 U U
+whisper			 U U
+whistle			 U N
+white			 K K
+who			 K K
+whoever			 K K
+whole			 K K
+wholesome			 U U
+wholly			 U U
+whom			 K K
+whose			 K K
+why			 K K
+wicked			 N N
+wide			 K K
+widespread			 K K
+widow			 K K
+width			 K K
+wife			 K K
+wild			 K K
+will			 K K
+willing			 K K
+win			 K K
+wind			 K K
+window			 K K
+wine			 K K
+wing			 K K
+wink			 U U
+winter			 K K
+wipe			 U U
+wire			 U U
+wisdom			 K K
+wise			 K K
+wish			 K K
+wit			 K K
+witch			 K K
+with			 K K
+withdraw			 K K
+withhold			 K K
+within			 K K
+without			 U N
+withstand			 U U
+witness			 K K
+wolf			 K K
+woman			 K K
+wonder			 U N
+wonderful			 K K
+wood			 K K
+wooden			 K K
+wool			 U U
+word			 U N
+work			 K K
+worker			 K K
+workshop			 K K
+world			 K K
+worldwide			 K K
+worm			 K K
+worry			 K K
+worse			 K K
+worship			 K K
+worst			 K K
+worth			 K K
+worthwhile			 K K
+worthy			 K K
+would			 K K
+wound			 K K
+wrap			 K K
+wreath			 U U
+wreck			 K K
+wrench			 K K
+wretched			 U U
+wrinkle			 K K
+wrist			 K K
+write			 K K
+writing			 K K
+wrong			 K K
+X-ray			 K K
+yard			 K K
+yawn			 U U
+year			 K K
+yearly			 K K
+yell			 K K
+yellow			 K K
+yes			 K K
+yesterday			 K K
+yet			 K K
+yield			 K K
+you			 K K
+young			 K K
+youngster			 K K
+your			 K K
+yours			 K K
+yourself			 K K
+youth			 K K
+zeal			 U U
+zebra			 U U
+zero			 K K
+zigzag			 U U
+zinc			 U U
+zip			 K K
+zone			 K K
+zoo			 K K
+zoom			 U U
