@@ -5253,51 +5253,52 @@ worker 复数：workers
 workshop 复数：workshops 
 world 复数：worlds
 worldwide 
-worm
-worry
-worse
-worship
-worst
-worth
-worthwhile
-worthy
-would
-wound
-wrap
-wreath
-wreck
-wrench
-wretched
-wrinkle
-wrist
-write
-writing
-wrong
-X-ray
-yard
-yawn
-year
-yearly
-yell
-yellow
-yes
-yesterday
-yet
-yield
-you
-young
-youngster
-your
-yours
-yourself
-youth
-zeal
-zebra
-zero
-zigzag
-zinc
-zip
-zone
-zoo
-zoom
+worm 复数：worms 过去式：wormed 过去分词：wormed 现在分词：worming 第三人称单数：worms 
+worry 过去式：worried 过去分词：worried 现在分词：worrying 第三人称单数：worries 
+worse 
+worship 复数：warships 
+worst 过去式：worsted 过去分词：worsted 现在分词：worsting 第三人称单数：worsts 
+worth 
+worthwhile 
+worthy 复数：worthies 比较级：worthier 最高级：worthiest 
+would 
+wound 复数：wounds 过去式：wounded 过去分词：wounded 现在分词：wounding 第三人称单数：wounds 
+wrap 复数：wraps 过去式：wrapped 过去分词：wrapped 现在分词：wrapping 第三人称单数：wraps
+wreath 复数：wreaths 
+wreck 复数：wrecks 过去式：wrecked 过去分词：wrecked 现在分词：wrecking 第三人称单数：wrecks 
+wrench 复数：wrenches 过去式：wrenched 过去分词：wrenched 现在分词：wrenching 第三人称单数：wrenches 
+wretched 
+wrinkle 复数：wrinkles 过去式：wrinkled 过去分词：wrinkled 现在分词：wrinkling 第三人称单数：wrinkles 
+wrist 复数：wrists 
+write 过去式：wrote 过去分词：written 现在分词：writing 第三人称单数：writes 
+writing 复数：writings 
+wrong 复数：wrongs 过去式：wronged 过去分词：wronged 现在分词：wronging 第三人称单数：wrongs 比较级：wronger 最高级：wrongest 
+X-ray 复数：X-rays 过去式：X-rayed 过去分词：X-rayed 现在分词：X-raying 第三人称单数：X-rays 
+yard 复数：yards 
+yawn 复数：yawns 过去式：yawned 过去分词：yawned 现在分词：yawning 第三人称单数：yawns 
+year 复数：years 
+yearly 复数：yearlies 
+yell 复数：yells 过去式：yelled 过去分词：yelled 现在分词：yelling 第三人称单数：yells 
+yellow 复数：yellows第三人称单数：yellows过去式：yellowed过去分词：yellowed现在分词：yellowing
+yes 复数：yeses 
+yesterday 复数：yesterdays
+yet 
+yield 复数：yields 过去式：yielded 过去分词：yielded 现在分词：yielding 第三人称单数：yields 
+you 
+young 复数：youngs 比较级：younger 最高级：youngest 
+youngster 复数：youngsters 
+your 
+yours 
+yourself 复数：yourselves 
+youth 复数：youths 
+zeal 
+zebra 复数：zebras 
+zero 复数：zeroes 过去式：zeroed 过去分词：zeroed 现在分词：zeroing 第三人称单数：zeroes 
+zigzag 复数：zigzags 过去式：zigzagged 过去分词：zigzagged 现在分词：zigzagging 第三人称单数：zigzags 
+zinc 复数：zincs 过去式：zinced 过去分词：zinced 现在分词：zincing 第三人称单数：zincs 
+zip 复数：zips 过去式：zipped 过去分词：zipped 现在分词：zipping 第三人称单数：zips 
+zone 复数：zones 过去式：zoned 过去分词：zoned 现在分词：zoning 第三人称单数：zones 
+zoo 复数：zoos 
+zoom 复数：zooms 过去式：zoomed 过去分词：zooming 现在分词：zoned 第三人称单数：zooms 
+
 
