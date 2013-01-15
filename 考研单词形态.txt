@@ -5478,6 +5478,504 @@ zinc ¸´Êı£ºzincs ¹ıÈ¥Ê½£ºzinced ¹ıÈ¥·Ö´Ê£ºzinced ÏÖÔÚ·Ö´Ê£ºzincing µÚÈıÈË³Æµ¥Êı£
 zip ¸´Êı£ºzips ¹ıÈ¥Ê½£ºzipped ¹ıÈ¥·Ö´Ê£ºzipped ÏÖÔÚ·Ö´Ê£ºzipping µÚÈıÈË³Æµ¥Êı£ºzips 
 zone ¸´Êı£ºzones ¹ıÈ¥Ê½£ºzoned ¹ıÈ¥·Ö´Ê£ºzoned ÏÖÔÚ·Ö´Ê£ºzoning µÚÈıÈË³Æµ¥Êı£ºzones 
 zoo ¸´Êı£ºzoos 
-zoom ¸´Êı£ºzooms ¹ıÈ¥Ê½£ºzoomed ¹ıÈ¥·Ö´Ê£ºzooming ÏÖÔÚ·Ö´Ê£ºzoned µÚÈıÈË³Æµ¥Êı£ºzooms 
+zoom ¸´Êı£ºzooms ¹ıÈ¥Ê½£ºzoomed ¹ıÈ¥·Ö´Ê£ºzooming ÏÖÔÚ·Ö´Ê£ºzoned µÚÈıÈË³Æµ¥Êı£ºzooms
+according-to
+album ¸´Êı£ºalbums 
+aluminum
+amuse ¹ıÈ¥Ê½£ºamused ¹ıÈ¥·Ö´Ê£ºamused ÏÖÔÚ·Ö´Ê£ºamusing µÚÈıÈË³Æµ¥Êı£ºamuses 
+approach ¸´Êı£ºapproaches ¹ıÈ¥Ê½£ºapproached ¹ıÈ¥·Ö´Ê£ºapproached ÏÖÔÚ·Ö´Ê£ºapproaching µÚÈıÈË³Æµ¥Êı£ºapproaches 
+appropriate ¹ıÈ¥Ê½£ºappropriated ¹ıÈ¥·Ö´Ê£ºappropriated ÏÖÔÚ·Ö´Ê£ºappropriating µÚÈıÈË³Æµ¥Êı£ºappropriates 
+ascend µÚÈıÈË³Æµ¥Êı£ºascends¹ıÈ¥Ê½£ºascended¹ıÈ¥·Ö´Ê£ºascendedÏÖÔÚ·Ö´Ê£ºascending
+assistant ¸´Êı£ºassistants 
+associate ¸´Êı£ºassociates ¹ıÈ¥Ê½£ºassociated ¹ıÈ¥·Ö´Ê£ºassociated ÏÖÔÚ·Ö´Ê£ºassociating µÚÈıÈË³Æµ¥Êı£ºassociates 
+association ¸´Êı£ºassociations 
+assume ¹ıÈ¥Ê½£ºassumed ¹ıÈ¥·Ö´Ê£ºassumed ÏÖÔÚ·Ö´Ê£ºassuming µÚÈıÈË³Æµ¥Êı£ºassumes 
+assumption ¸´Êı£ºassumptions 
+assurance ¸´Êı£ºassurances 
+astronomy
+at
+attendance ¸´Êı£ºattendances 
+authentic
+away
+baby ¸´Êı£ºbabies ¹ıÈ¥Ê½£ºbabied ¹ıÈ¥·Ö´Ê£ºbabied ÏÖÔÚ·Ö´Ê£ºbabying µÚÈıÈË³Æµ¥Êı£ºbabies ±È½Ï¼¶£ºbabier ×î¸ß¼¶£ºbabiest 
+beneath 
+beside
+besides
+between
+bible
+bizarre
+black ¸´Êı£ºblacks ¹ıÈ¥Ê½£ºblacked ¹ıÈ¥·Ö´Ê£ºblacked ÏÖÔÚ·Ö´Ê£ºblacking µÚÈıÈË³Æµ¥Êı£ºblacks ±È½Ï¼¶£ºblacker ×î¸ß¼¶£ºblackest 
+boy ¸´Êı£ºboys 
+bride ¸´Êı£ºbrides 
+bridge ¸´Êı£ºbridges ¹ıÈ¥Ê½£ºbridged ¹ıÈ¥·Ö´Ê£ºbridged ÏÖÔÚ·Ö´Ê£ºbridging µÚÈıÈË³Æµ¥Êı£ºbridges 
+broad ¸´Êı£ºbroads ±È½Ï¼¶£ºbroader ×î¸ß¼¶£ºbroadest 
+brochure ¸´Êı£ºbrochures 
+by
+cage ¸´Êı£ºcages ¹ıÈ¥Ê½£ºcaged ¹ıÈ¥·Ö´Ê£ºcaged ÏÖÔÚ·Ö´Ê£ºcaging µÚÈıÈË³Æµ¥Êı£ºcages 
+cake ¸´Êı£ºcakes ¹ıÈ¥Ê½£ºcaked ¹ıÈ¥·Ö´Ê£ºcaked ÏÖÔÚ·Ö´Ê£ºcaking µÚÈıÈË³Æµ¥Êı£ºcakes 
+cause ¸´Êı£ºcauses ¹ıÈ¥Ê½£ºcaused ¹ıÈ¥·Ö´Ê£ºcaused ÏÖÔÚ·Ö´Ê£ºcausing µÚÈıÈË³Æµ¥Êı£ºcauses 
+cautious
+cemetery ¸´Êı£ºcemeteries 
+chap ¸´Êı£ºchaps ¹ıÈ¥Ê½£ºchapped ¹ıÈ¥·Ö´Ê£ºchapped ÏÖÔÚ·Ö´Ê£ºchapping µÚÈıÈË³Æµ¥Êı£ºchaps 
+chef ¸´Êı£ºchefs 
+chemist ¸´Êı£ºchemists 
+clarity
+clasp ¸´Êı£ºclasps ¹ıÈ¥Ê½£ºclasped ¹ıÈ¥·Ö´Ê£ºclasped ÏÖÔÚ·Ö´Ê£ºclasping µÚÈıÈË³Æµ¥Êı£ºclasps 
+clear ¹ıÈ¥Ê½£ºcleared ¹ıÈ¥·Ö´Ê£ºcleared ÏÖÔÚ·Ö´Ê£ºclearing µÚÈıÈË³Æµ¥Êı£ºclears ±È½Ï¼¶£ºclearer ×î¸ß¼¶£ºclearest 
+clergy ¸´Êı£ºclergies 
+coat ¸´Êı£ºcoats ¹ıÈ¥Ê½£ºcoated ¹ıÈ¥·Ö´Ê£ºcoated ÏÖÔÚ·Ö´Ê£ºcoating µÚÈıÈË³Æµ¥Êı£ºcoats 
+cohesive
+coincidence ¸´Êı£ºcoincidences 
+collection ¸´Êı£ºcollections 
+communism
+comparative ¸´Êı£ºcomparatives 
+compartment ¸´Êı£ºcompartments 
+compass ¸´Êı£ºcompasses 
+compassion
+comprise ¹ıÈ¥Ê½£ºcomprised ¹ıÈ¥·Ö´Ê£ºcomprised ÏÖÔÚ·Ö´Ê£ºcomprising µÚÈıÈË³Æµ¥Êı£ºcomprises 
+congratulation ¸´Êı£ºcongratulations 
+consecutive
+container ¸´Êı£ºcontainers 
+court ¸´Êı£ºcourts ¹ıÈ¥Ê½£ºcourted ¹ıÈ¥·Ö´Ê£ºcourted ÏÖÔÚ·Ö´Ê£ºcourting µÚÈıÈË³Æµ¥Êı£ºcourts 
+cream ¸´Êı£ºcreams ¹ıÈ¥Ê½£ºcreamed ¹ıÈ¥·Ö´Ê£ºcreamed ÏÖÔÚ·Ö´Ê£ºcreaming µÚÈıÈË³Æµ¥Êı£ºcreams 
+cry ¹ıÈ¥Ê½£ºcried ¹ıÈ¥·Ö´Ê£ºcried ÏÖÔÚ·Ö´Ê£ºcrying µÚÈıÈË³Æµ¥Êı£ºcries 
+democracy ¸´Êı£ºdemocracies 
+dense ±È½Ï¼¶£ºdenser ×î¸ß¼¶£ºdensest
+density ¸´Êı£ºdensities 
+depress ¹ıÈ¥Ê½£ºdepressed ¹ıÈ¥·Ö´Ê£ºdepressed ÏÖÔÚ·Ö´Ê£ºdepressing µÚÈıÈË³Æµ¥Êı£ºdepresses 
+descendant ¸´Êı£ºdescendants 
+despise ¹ıÈ¥Ê½£ºdespised ¹ıÈ¥·Ö´Ê£ºdespised ÏÖÔÚ·Ö´Ê£ºdespising µÚÈıÈË³Æµ¥Êı£ºdespises 
+discrepancy ¸´Êı£ºdiscrepancies 
+discriminate ¹ıÈ¥Ê½£ºdiscriminated ¹ıÈ¥·Ö´Ê£ºdiscriminated ÏÖÔÚ·Ö´Ê£ºdiscriminating µÚÈıÈË³Æµ¥Êı£ºdiscriminates 
+discuss ¹ıÈ¥Ê½£ºdiscussed ¹ıÈ¥·Ö´Ê£ºdiscussed ÏÖÔÚ·Ö´Ê£ºdiscussing µÚÈıÈË³Æµ¥Êı£ºdiscusess 
+disease ¸´Êı£ºdiseases 
+disgrace ¸´Êı£ºdisgraces ¹ıÈ¥Ê½£ºdisgraced ¹ıÈ¥·Ö´Ê£ºdisgraced ÏÖÔÚ·Ö´Ê£ºdisgracing µÚÈıÈË³Æµ¥Êı£ºdisgraces 
+disguise ¸´Êı£ºdisguises ¹ıÈ¥Ê½£ºdisguised ¹ıÈ¥·Ö´Ê£ºdisguised ÏÖÔÚ·Ö´Ê£ºdisguising µÚÈıÈË³Æµ¥Êı£ºdisguises 
+disgust ¸´Êı£ºdisgusts ¹ıÈ¥Ê½£ºdisgusted ¹ıÈ¥·Ö´Ê£ºdisgusted ÏÖÔÚ·Ö´Ê£ºdisgusting µÚÈıÈË³Æµ¥Êı£ºdisgusts 
+dish ¸´Êı£ºdishes ¹ıÈ¥Ê½£ºdished ¹ıÈ¥·Ö´Ê£ºdished ÏÖÔÚ·Ö´Ê£ºdishing µÚÈıÈË³Æµ¥Êı£ºdishes 
+dislike ¸´Êı£ºdislikes ¹ıÈ¥Ê½£ºdisliked ¹ıÈ¥·Ö´Ê£ºdisliked ÏÖÔÚ·Ö´Ê£ºdisliking µÚÈıÈË³Æµ¥Êı£ºdislikes 
+dismay ¸´Êı£ºdismaysµÚÈıÈË³Æµ¥Êı£ºdismays¹ıÈ¥Ê½£ºdismayed¹ıÈ¥·Ö´Ê£ºdismayedÏÖÔÚ·Ö´Ê£ºdismaying
+dismiss ¹ıÈ¥Ê½£ºdismissed ¹ıÈ¥·Ö´Ê£ºdismissed ÏÖÔÚ·Ö´Ê£ºdismissing µÚÈıÈË³Æµ¥Êı£ºdismisss 
+disorder ¸´Êı£ºdisorders 
+disperse ¹ıÈ¥Ê½£ºdispersed ¹ıÈ¥·Ö´Ê£ºdispersed ÏÖÔÚ·Ö´Ê£ºdispersing µÚÈıÈË³Æµ¥Êı£ºdisperses 
+displace ¹ıÈ¥Ê½£ºdisplaced ¹ıÈ¥·Ö´Ê£ºdisplaced ÏÖÔÚ·Ö´Ê£ºdisplacing µÚÈıÈË³Æµ¥Êı£ºdisplaces 
+display ¸´Êı£ºdisplays ¹ıÈ¥Ê½£ºdisplayed ¹ıÈ¥·Ö´Ê£ºdisplayed ÏÖÔÚ·Ö´Ê£ºdisplaying µÚÈıÈË³Æµ¥Êı£ºdisplays 
+disposal ¸´Êı£ºdisposals 
+dispose ¹ıÈ¥Ê½£ºdisposed ¹ıÈ¥·Ö´Ê£ºdisposed ÏÖÔÚ·Ö´Ê£ºdisposing µÚÈıÈË³Æµ¥Êı£ºdisposes 
+disposition ¸´Êı£ºdispositions 
+dispute ¸´Êı£ºdisputes ¹ıÈ¥Ê½£ºdisputed ¹ıÈ¥·Ö´Ê£ºdisputed ÏÖÔÚ·Ö´Ê£ºdisputing µÚÈıÈË³Æµ¥Êı£ºdisputes 
+disregard ¹ıÈ¥Ê½£ºdisregarded ¹ıÈ¥·Ö´Ê£ºdisregarded ÏÖÔÚ·Ö´Ê£ºdisregarding µÚÈıÈË³Æµ¥Êı£ºdisregards 
+disrupt ¹ıÈ¥Ê½£ºdisrupted ¹ıÈ¥·Ö´Ê£ºdisrupted ÏÖÔÚ·Ö´Ê£ºdisrupting µÚÈıÈË³Æµ¥Êı£ºdisrupts 
+dissipate ¹ıÈ¥Ê½£ºdissipated ¹ıÈ¥·Ö´Ê£ºdissipated ÏÖÔÚ·Ö´Ê£ºdissipating µÚÈıÈË³Æµ¥Êı£ºdissipates 
+dissolve ¹ıÈ¥Ê½£ºdissolved ¹ıÈ¥·Ö´Ê£ºdissolved ÏÖÔÚ·Ö´Ê£ºdissolving µÚÈıÈË³Æµ¥Êı£ºdissolves 
+distance ¸´Êı£ºdistances ¹ıÈ¥Ê½£ºdistanced ¹ıÈ¥·Ö´Ê£ºdistanced ÏÖÔÚ·Ö´Ê£ºdistancing µÚÈıÈË³Æµ¥Êı£ºdistances 
+distant
+distill
+distinct
+distinction ¸´Êı£ºdistinctions 
+distinguish ¹ıÈ¥Ê½£ºdistinguished ¹ıÈ¥·Ö´Ê£ºdistinguished ÏÖÔÚ·Ö´Ê£ºdistinguishing µÚÈıÈË³Æµ¥Êı£ºdistinguishes 
+distort ¹ıÈ¥Ê½£ºdistorted ¹ıÈ¥·Ö´Ê£ºdistorted ÏÖÔÚ·Ö´Ê£ºdistorting µÚÈıÈË³Æµ¥Êı£ºdistorts 
+distract ¹ıÈ¥Ê½£ºdistracted ¹ıÈ¥·Ö´Ê£ºdistracted ÏÖÔÚ·Ö´Ê£ºdistracting µÚÈıÈË³Æµ¥Êı£ºdistracts 
+distress ¸´Êı£ºdistresses ¹ıÈ¥Ê½£ºdistressed ¹ıÈ¥·Ö´Ê£ºdistressed ÏÖÔÚ·Ö´Ê£ºdistressing µÚÈıÈË³Æµ¥Êı£ºdistresses 
+distribute ¹ıÈ¥Ê½£ºdistributed ¹ıÈ¥·Ö´Ê£ºdistributed ÏÖÔÚ·Ö´Ê£ºdistributing µÚÈıÈË³Æµ¥Êı£ºdistributes 
+district ¸´Êı£ºdistricts 
+disturb ¹ıÈ¥Ê½£ºdisturbed ¹ıÈ¥·Ö´Ê£ºdisturbed ÏÖÔÚ·Ö´Ê£ºdisturbing µÚÈıÈË³Æµ¥Êı£ºdisturbs 
+disturbance ¸´Êı£ºdisturbances 
+ditch ¸´Êı£ºditches ¹ıÈ¥Ê½£ºditched ¹ıÈ¥·Ö´Ê£ºditched ÏÖÔÚ·Ö´Ê£ºditching µÚÈıÈË³Æµ¥Êı£ºditches 
+dive ¹ıÈ¥Ê½£ºdived dove ¹ıÈ¥·Ö´Ê£ºdived ÏÖÔÚ·Ö´Ê£ºdiving µÚÈıÈË³Æµ¥Êı£ºdives 
+diverse
+diversion ¸´Êı£ºdiversions 
+divert ¹ıÈ¥Ê½£ºdiverted ¹ıÈ¥·Ö´Ê£ºdiverted ÏÖÔÚ·Ö´Ê£ºdiverting µÚÈıÈË³Æµ¥Êı£ºdiverts 
+divide ¹ıÈ¥Ê½£ºdivided ¹ıÈ¥·Ö´Ê£ºdivided ÏÖÔÚ·Ö´Ê£ºdividing µÚÈıÈË³Æµ¥Êı£ºdivides 
+dividend ¸´Êı£ºdividends 
+divine ¸´Êı£ºdivines ¹ıÈ¥Ê½£ºdivined ¹ıÈ¥·Ö´Ê£ºdivined ÏÖÔÚ·Ö´Ê£ºdivining µÚÈıÈË³Æµ¥Êı£ºdivines 
+division ¸´Êı£ºdivisions 
+divorce ¸´Êı£ºdivorces ¹ıÈ¥Ê½£ºdivorced ¹ıÈ¥·Ö´Ê£ºdivorced ÏÖÔÚ·Ö´Ê£ºdivorcing µÚÈıÈË³Æµ¥Êı£ºdivorces 
+dizzy ¹ıÈ¥Ê½£ºdizzied ¹ıÈ¥·Ö´Ê£ºdizzied ÏÖÔÚ·Ö´Ê£ºdizzying µÚÈıÈË³Æµ¥Êı£ºdizzies ±È½Ï¼¶£ºdizzier ×î¸ß¼¶£ºdizziest 
+do ¹ıÈ¥Ê½£ºdid ¹ıÈ¥·Ö´Ê£ºdone ÏÖÔÚ·Ö´Ê£ºdoing µÚÈıÈË³Æµ¥Êı£ºdoes 
+dock ¸´Êı£ºdocks ¹ıÈ¥Ê½£ºdocked ¹ıÈ¥·Ö´Ê£ºdocked ÏÖÔÚ·Ö´Ê£ºdocking µÚÈıÈË³Æµ¥Êı£ºdocks 
+doctor ¸´Êı£ºdoctors ¹ıÈ¥Ê½£ºdoctored ¹ıÈ¥·Ö´Ê£ºdoctored ÏÖÔÚ·Ö´Ê£ºdoctoring µÚÈıÈË³Æµ¥Êı£ºdoctors 
+doctorate ¸´Êı£ºdoctorates 
+document ¸´Êı£ºdocuments ¹ıÈ¥Ê½£ºdocumented ¹ıÈ¥·Ö´Ê£ºdocumented ÏÖÔÚ·Ö´Ê£ºdocumenting µÚÈıÈË³Æµ¥Êı£ºdocuments 
+documentary ¸´Êı£ºdocumentaries 
+dog ¸´Êı£ºdogs ¹ıÈ¥Ê½£ºdogged ¹ıÈ¥·Ö´Ê£ºdogged ÏÖÔÚ·Ö´Ê£ºdogging µÚÈıÈË³Æµ¥Êı£ºdogs 
+doll ¸´Êı£ºdolls ¹ıÈ¥Ê½£ºdolled ¹ıÈ¥·Ö´Ê£ºdolled ÏÖÔÚ·Ö´Ê£ºdolling µÚÈıÈË³Æµ¥Êı£ºdolls 
+dollar ¸´Êı£ºdollars 
+domain ¸´Êı£ºdomains 
+doorway ¸´Êı£ºdoorways 
+dull ¹ıÈ¥Ê½£ºdulled ¹ıÈ¥·Ö´Ê£ºdulled ÏÖÔÚ·Ö´Ê£ºdulling µÚÈıÈË³Æµ¥Êı£ºdulls ±È½Ï¼¶£ºduller ×î¸ß¼¶£ºdullest 
+earthquake ¸´Êı£ºearthquakes 
+editorial ¸´Êı£ºeditorials 
+environment ¸´Êı£ºenvironments 
+escort ¸´Êı£ºescorts ¹ıÈ¥Ê½£ºescorted ¹ıÈ¥·Ö´Ê£ºescorted ÏÖÔÚ·Ö´Ê£ºescorting µÚÈıÈË³Æµ¥Êı£ºescorts 
+example ¸´Êı£ºexamples 
+exceed ¹ıÈ¥Ê½£ºexceeded ¹ıÈ¥·Ö´Ê£ºexceeded ÏÖÔÚ·Ö´Ê£ºexceeding µÚÈıÈË³Æµ¥Êı£ºexceeds 
+exceedingly
+excel ¹ıÈ¥Ê½£ºexcelled ¹ıÈ¥·Ö´Ê£ºexcelled ÏÖÔÚ·Ö´Ê£ºexcelling µÚÈıÈË³Æµ¥Êı£ºexcels 
+excellent
+except ¹ıÈ¥Ê½£ºexcepted ¹ıÈ¥·Ö´Ê£ºexcepted ÏÖÔÚ·Ö´Ê£ºexcepting µÚÈıÈË³Æµ¥Êı£ºexcepts 
+exception ¸´Êı£ºexceptions 
+exceptional
+excerpt ¸´Êı£ºexcerpts 
+excess ¸´Êı£ºexcesses 
+excessive
+exchange ¸´Êı£ºexchanges ¹ıÈ¥Ê½£ºexchanged ¹ıÈ¥·Ö´Ê£ºexchanged ÏÖÔÚ·Ö´Ê£ºexchanging µÚÈıÈË³Æµ¥Êı£ºexchanges
+excite ¹ıÈ¥Ê½£ºexcited ¹ıÈ¥·Ö´Ê£ºexcited ÏÖÔÚ·Ö´Ê£ºexciting µÚÈıÈË³Æµ¥Êı£ºexcites 
+excitement ¸´Êı£ºexcitements 
+exciting
+exclaim ¹ıÈ¥Ê½£ºexclaimed ¹ıÈ¥·Ö´Ê£ºexclaimed ÏÖÔÚ·Ö´Ê£ºexclaiming µÚÈıÈË³Æµ¥Êı£ºexclaims 
+exclude ¹ıÈ¥Ê½£ºexcluded ¹ıÈ¥·Ö´Ê£ºexcluded ÏÖÔÚ·Ö´Ê£ºexcluding µÚÈıÈË³Æµ¥Êı£ºexcludes 
+exclusive ¸´Êı£ºexclusives 
+excursion ¸´Êı£ºexcursions 
+excuse ¸´Êı£ºexcuses ¹ıÈ¥Ê½£ºexcused ¹ıÈ¥·Ö´Ê£ºexcused ÏÖÔÚ·Ö´Ê£ºexcusing µÚÈıÈË³Æµ¥Êı£ºexcuses 
+execute ¹ıÈ¥Ê½£ºexecuted ¹ıÈ¥·Ö´Ê£ºexecuted ÏÖÔÚ·Ö´Ê£ºexecuting µÚÈıÈË³Æµ¥Êı£ºexecutes 
+executive ¸´Êı£ºexecutives 
+exemplify ¹ıÈ¥Ê½£ºexemplified ¹ıÈ¥·Ö´Ê£ºexemplified ÏÖÔÚ·Ö´Ê£ºexemplifying µÚÈıÈË³Æµ¥Êı£ºexemplifies 
+exempt ¹ıÈ¥Ê½£ºexempted ¹ıÈ¥·Ö´Ê£ºexempted ÏÖÔÚ·Ö´Ê£ºexempting µÚÈıÈË³Æµ¥Êı£ºexempts 
+exercise ¸´Êı£ºexercises ¹ıÈ¥Ê½£ºexercised ¹ıÈ¥·Ö´Ê£ºexercised ÏÖÔÚ·Ö´Ê£ºexercising µÚÈıÈË³Æµ¥Êı£ºexercises 
+exert ¹ıÈ¥Ê½£ºexerted ¹ıÈ¥·Ö´Ê£ºexerted ÏÖÔÚ·Ö´Ê£ºexerting µÚÈıÈË³Æµ¥Êı£ºexerts 
+exhaust ¹ıÈ¥Ê½£ºexhausted ¹ıÈ¥·Ö´Ê£ºexhausted ÏÖÔÚ·Ö´Ê£ºexhausting µÚÈıÈË³Æµ¥Êı£ºexhausts 
+exhibit ¹ıÈ¥Ê½£ºexhibited ¹ıÈ¥·Ö´Ê£ºexhibited ÏÖÔÚ·Ö´Ê£ºexhibiting µÚÈıÈË³Æµ¥Êı£ºexhibits 
+exhibition ¸´Êı£ºexhibitions 
+exile ¸´Êı£ºexiles ¹ıÈ¥Ê½£ºexiled ¹ıÈ¥·Ö´Ê£ºexiled ÏÖÔÚ·Ö´Ê£ºexiling µÚÈıÈË³Æµ¥Êı£ºexiles 
+exist ¹ıÈ¥Ê½£ºexisted ¹ıÈ¥·Ö´Ê£ºexisted ÏÖÔÚ·Ö´Ê£ºexisting µÚÈıÈË³Æµ¥Êı£ºexists 
+existence ¸´Êı£ºexistences 
+exit ¸´Êı£ºexits ¹ıÈ¥Ê½£ºexited ¹ıÈ¥·Ö´Ê£ºexited ÏÖÔÚ·Ö´Ê£ºexiting µÚÈıÈË³Æµ¥Êı£ºexits 
+exotic
+expand ¹ıÈ¥Ê½£ºexpanded ¹ıÈ¥·Ö´Ê£ºexpanded ÏÖÔÚ·Ö´Ê£ºexpanding µÚÈıÈË³Æµ¥Êı£ºexpands 
+expansion ¸´Êı£ºexpansions 
+expect ¹ıÈ¥Ê½£ºexpected ¹ıÈ¥·Ö´Ê£ºexpected ÏÖÔÚ·Ö´Ê£ºexpecting µÚÈıÈË³Æµ¥Êı£ºexpects 
+expectation ¸´Êı£ºexpectations 
+expedition ¸´Êı£ºexpeditions 
+expel ¹ıÈ¥Ê½£ºexpelled ¹ıÈ¥·Ö´Ê£ºexpelled ÏÖÔÚ·Ö´Ê£ºexpelling µÚÈıÈË³Æµ¥Êı£ºexpels 
+expend ¹ıÈ¥Ê½£ºexpended ¹ıÈ¥·Ö´Ê£ºexpended ÏÖÔÚ·Ö´Ê£ºexpending µÚÈıÈË³Æµ¥Êı£ºexpends 
+expenditure
+expense ¸´Êı£ºexpenditures 
+expensive ±È½Ï¼¶£ºmore expensive ×î¸ß¼¶£ºmost expensive 
+experience ¸´Êı£ºexperiences ¹ıÈ¥Ê½£ºexperienced ¹ıÈ¥·Ö´Ê£ºexperienced ÏÖÔÚ·Ö´Ê£ºexperiencing µÚÈıÈË³Æµ¥Êı£ºexperiences 
+experiment ¸´Êı£ºexperiments ¹ıÈ¥Ê½£ºexperimented ¹ıÈ¥·Ö´Ê£ºexperimented ÏÖÔÚ·Ö´Ê£ºexperimenting µÚÈıÈË³Æµ¥Êı£ºexperiments 
+experimental
+expert ¸´Êı£ºexperts ¹ıÈ¥Ê½£ºexpertsed ¹ıÈ¥·Ö´Ê£ºexperted ÏÖÔÚ·Ö´Ê£ºexperting µÚÈıÈË³Æµ¥Êı£ºexperts 
+expertise
+expire ¹ıÈ¥Ê½£ºexpired ¹ıÈ¥·Ö´Ê£ºexpired ÏÖÔÚ·Ö´Ê£ºexpiring µÚÈıÈË³Æµ¥Êı£ºexpires 
+explain ¹ıÈ¥Ê½£ºexplained ¹ıÈ¥·Ö´Ê£ºexplained ÏÖÔÚ·Ö´Ê£ºexplaining µÚÈıÈË³Æµ¥Êı£ºexplains 
+explanation ¸´Êı£ºexplanations 
+explicit
+explode ¹ıÈ¥Ê½£ºexploded ¹ıÈ¥·Ö´Ê£ºexploded ÏÖÔÚ·Ö´Ê£ºexploding µÚÈıÈË³Æµ¥Êı£ºexplodes 
+exploit ¹ıÈ¥Ê½£ºexploited ¹ıÈ¥·Ö´Ê£ºexploited ÏÖÔÚ·Ö´Ê£ºexploiting µÚÈıÈË³Æµ¥Êı£ºexploits 
+explore ¹ıÈ¥Ê½£ºexplored ¹ıÈ¥·Ö´Ê£ºexplored ÏÖÔÚ·Ö´Ê£ºexploring µÚÈıÈË³Æµ¥Êı£ºexplores 
+explosion ¸´Êı£ºexplosions 
+explosive ¸´Êı£ºexplosives 
+export ¸´Êı£ºexports ¹ıÈ¥Ê½£ºexported ¹ıÈ¥·Ö´Ê£ºexported ÏÖÔÚ·Ö´Ê£ºexporting µÚÈıÈË³Æµ¥Êı£ºexports 
+expose ¹ıÈ¥Ê½£ºexposed ¹ıÈ¥·Ö´Ê£ºexposed ÏÖÔÚ·Ö´Ê£ºexposing µÚÈıÈË³Æµ¥Êı£ºexposes 
+exposure ¸´Êı£ºexposures 
+express ¸´Êı£ºexpresses ¹ıÈ¥Ê½£ºexpressed ¹ıÈ¥·Ö´Ê£ºexpressed ÏÖÔÚ·Ö´Ê£ºexpressing µÚÈıÈË³Æµ¥Êı£ºexpresss 
+expression ¸´Êı£ºexpressions 
+exquisite ¸´Êı£ºexquisites ±È½Ï¼¶£ºmore exquisite ×î¸ß¼¶£ºmost exquisite 
+extend ¹ıÈ¥Ê½£ºextended ¹ıÈ¥·Ö´Ê£ºextended ÏÖÔÚ·Ö´Ê£ºextending µÚÈıÈË³Æµ¥Êı£ºextends 
+extension ¸´Êı£ºextensions
+extensive 
+extent ¸´Êı£ºextents 
+exterior ¸´Êı£ºexteriors 
+external ¸´Êı£ºexternals 
+extinct
+extinguish ¹ıÈ¥Ê½£ºextinguished ¹ıÈ¥·Ö´Ê£ºextinguished ÏÖÔÚ·Ö´Ê£ºextinguishing µÚÈıÈË³Æµ¥Êı£ºextinguishes 
+extra ¸´Êı£ºextras 
+farewell ¸´Êı£ºfarewells 
+farther
+finish ¹ıÈ¥Ê½£ºfinished ¹ıÈ¥·Ö´Ê£ºfinished ÏÖÔÚ·Ö´Ê£ºfinishing µÚÈıÈË³Æµ¥Êı£ºfinishes 
+flourish ¹ıÈ¥Ê½£ºflourished ¹ıÈ¥·Ö´Ê£ºflourished ÏÖÔÚ·Ö´Ê£ºflourishing µÚÈıÈË³Æµ¥Êı£ºflourishes 
+fragile
+funeral ¸´Êı£ºfunerals 
+funny ¸´Êı£ºfunnies ±È½Ï¼¶£ºfunnier ×î¸ß¼¶£ºfunniest 
+fur ¸´Êı£ºfurs 
+furious ±È½Ï¼¶£ºmore furious ×î¸ß¼¶£ºmost furious 
+furnace ¸´Êı£ºfurnaces 
+furnish ¹ıÈ¥Ê½£ºfurnished ¹ıÈ¥·Ö´Ê£ºfurnished ÏÖÔÚ·Ö´Ê£ºfurnishing µÚÈıÈË³Æµ¥Êı£ºfurnishes 
+furniture
+further ¹ıÈ¥Ê½£ºfurthered ¹ıÈ¥·Ö´Ê£ºfurthered ÏÖÔÚ·Ö´Ê£ºfurthering µÚÈıÈË³Æµ¥Êı£ºfurthers 
+furthermore
+fuse ¸´Êı£ºfuses ¹ıÈ¥Ê½£ºfused ¹ıÈ¥·Ö´Ê£ºfused ÏÖÔÚ·Ö´Ê£ºfusing µÚÈıÈË³Æµ¥Êı£ºfuses 
+fuss ¸´Êı£ºfusses ¹ıÈ¥Ê½£ºfussed ¹ıÈ¥·Ö´Ê£ºfussed ÏÖÔÚ·Ö´Ê£ºfussing µÚÈıÈË³Æµ¥Êı£ºfusses 
+futile
+future ¸´Êı£ºfutures 
+gallery ¸´Êı£ºgalleries 
+grow ¹ıÈ¥Ê½£ºgrew ¹ıÈ¥·Ö´Ê£ºgrown ÏÖÔÚ·Ö´Ê£ºgrowing µÚÈıÈË³Æµ¥Êı£ºgrows 
+gulf ¸´Êı£ºgulves 
+hatred ¸´Êı£ºhatreds 
+he
+healthy ±È½Ï¼¶£ºhealthier ×î¸ß¼¶£ºhealthiest 
+hemisphere ¸´Êı£ºhemispheres 
+her
+hi
+hit ¸´Êı£ºhits ¹ıÈ¥Ê½£ºhit ¹ıÈ¥·Ö´Ê£ºhit ÏÖÔÚ·Ö´Ê£ºhitting µÚÈıÈË³Æµ¥Êı£ºhits 
+ideal ¸´Êı£ºideals 
+identical
+identification ¸´Êı£ºidentifications 
+identify ¹ıÈ¥Ê½£ºidentified ¹ıÈ¥·Ö´Ê£ºidentified ÏÖÔÚ·Ö´Ê£ºidentifying µÚÈıÈË³Æµ¥Êı£ºidentifies 
+identity ¸´Êı£ºidentities 
+ideology ¸´Êı£ºideologies 
+idiom ¸´Êı£ºidioms
+idiot ¸´Êı£ºidiots 
+idle ¹ıÈ¥Ê½£ºidled ¹ıÈ¥·Ö´Ê£ºidled ÏÖÔÚ·Ö´Ê£ºidling µÚÈıÈË³Æµ¥Êı£ºidles ±È½Ï¼¶£ºidler ×î¸ß¼¶£ºidlest 
+if ¸´Êı£ºifs 
+ignite ¹ıÈ¥Ê½£ºignited ¹ıÈ¥·Ö´Ê£ºignited ÏÖÔÚ·Ö´Ê£ºigniting µÚÈıÈË³Æµ¥Êı£ºignites 
+ignorance 
+ignorant ±È½Ï¼¶£ºmore ignorant ×î¸ß¼¶£ºmost ignorant 
+ignore ¹ıÈ¥Ê½£ºignored ¹ıÈ¥·Ö´Ê£ºignored ÏÖÔÚ·Ö´Ê£ºignoring µÚÈıÈË³Æµ¥Êı£ºignores 
+ill ±È½Ï¼¶£ºworse ×î¸ß¼¶£ºworst 
+illegal ¸´Êı£ºillegals 
+illiterate ¸´Êı£ºilliterates 
+illness ¸´Êı£ºillnesses 
+illuminate ¹ıÈ¥Ê½£ºilluminated ¹ıÈ¥·Ö´Ê£ºilluminated ÏÖÔÚ·Ö´Ê£ºilluminating µÚÈıÈË³Æµ¥Êı£ºilluminates 
+illusion ¸´Êı£ºillusions 
+illustrate ¹ıÈ¥Ê½£ºillustrated ¹ıÈ¥·Ö´Ê£ºillustrated ÏÖÔÚ·Ö´Ê£ºillustrating µÚÈıÈË³Æµ¥Êı£ºillustrates 
+illustration ¸´Êı£ºillustrations 
+image ¸´Êı£ºimages ¹ıÈ¥Ê½£ºimaged ¹ıÈ¥·Ö´Ê£ºimaged ÏÖÔÚ·Ö´Ê£ºimaging µÚÈıÈË³Æµ¥Êı£ºimages 
+imaginary
+imagination ¸´Êı£ºimaginations 
+imaginative
+imagine ¹ıÈ¥Ê½£ºimagined ¹ıÈ¥·Ö´Ê£ºimagined ÏÖÔÚ·Ö´Ê£ºimagining µÚÈıÈË³Æµ¥Êı£ºimagines 
+imitate ¹ıÈ¥Ê½£ºimitated ¹ıÈ¥·Ö´Ê£ºimitated ÏÖÔÚ·Ö´Ê£ºimitating µÚÈıÈË³Æµ¥Êı£ºimitates 
+imitation imitation
+immediate 
+immense
+immerse ¹ıÈ¥Ê½£ºimmersed ¹ıÈ¥·Ö´Ê£ºimmersed ÏÖÔÚ·Ö´Ê£ºimmersing µÚÈıÈË³Æµ¥Êı£ºimmerses 
+immigrant ¸´Êı£ºimmigrants 
+immune
+impact ¸´Êı£ºimpacts ¹ıÈ¥Ê½£ºimpacted ¹ıÈ¥·Ö´Ê£ºimpacted ÏÖÔÚ·Ö´Ê£ºimpacting µÚÈıÈË³Æµ¥Êı£ºimpacts 
+impair ¹ıÈ¥Ê½£ºimpaired ¹ıÈ¥·Ö´Ê£ºimpaired ÏÖÔÚ·Ö´Ê£ºimpairing µÚÈıÈË³Æµ¥Êı£ºimpairs 
+impart ¹ıÈ¥Ê½£ºimparted ¹ıÈ¥·Ö´Ê£ºimparted ÏÖÔÚ·Ö´Ê£ºimparting µÚÈıÈË³Æµ¥Êı£ºimparts 
+impatient 
+imperative ¸´Êı£ºimperatives 
+imperial ¸´Êı£ºimperials 
+impetus
+implement ¸´Êı£ºimplements ¹ıÈ¥Ê½£ºimplemented ¹ıÈ¥·Ö´Ê£ºimplemented ÏÖÔÚ·Ö´Ê£ºimplementing µÚÈıÈË³Æµ¥Êı£ºimplements 
+implication ¸´Êı£ºimplications 
+implicit
+imply ¹ıÈ¥Ê½£ºimplied ¹ıÈ¥·Ö´Ê£ºimplied ÏÖÔÚ·Ö´Ê£ºimplying µÚÈıÈË³Æµ¥Êı£ºimplies 
+import ¸´Êı£ºimports ¹ıÈ¥Ê½£ºimported ¹ıÈ¥·Ö´Ê£ºimported ÏÖÔÚ·Ö´Ê£ºimporting µÚÈıÈË³Æµ¥Êı£ºimports 
+importance ¸´Êı£ºimportances 
+important
+impose ¹ıÈ¥Ê½£ºimposed ¹ıÈ¥·Ö´Ê£ºimposed ÏÖÔÚ·Ö´Ê£ºimposing µÚÈıÈË³Æµ¥Êı£ºimposes 
+impossible ¸´Êı£ºimpossibles 
+impress ¹ıÈ¥Ê½£ºimpressed ¹ıÈ¥·Ö´Ê£ºimpressed ÏÖÔÚ·Ö´Ê£ºimpressing µÚÈıÈË³Æµ¥Êı£ºimpresses 
+impression ¸´Êı£ºimpressions 
+impressive
+improve µÚÈıÈË³Æµ¥Êı£ºimproves¹ıÈ¥Ê½£ºimproved¹ıÈ¥·Ö´Ê£ºimprovedÏÖÔÚ·Ö´Ê£ºimproving
+improvement ¸´Êı£ºimprovements 
+impulse ¸´Êı£ºimpulses
+in
+incentive ¸´Êı£ºincentives 
+inch ¸´Êı£ºinches ¹ıÈ¥Ê½£ºinched ¹ıÈ¥·Ö´Ê£ºinched ÏÖÔÚ·Ö´Ê£ºinching µÚÈıÈË³Æµ¥Êı£ºinches 
+incidence ¸´Êı£ºincidences 
+incident ¸´Êı£ºincidents 
+incidentally
+incline ¸´Êı£ºinclines ¹ıÈ¥Ê½£ºinclined ¹ıÈ¥·Ö´Ê£ºinclined ÏÖÔÚ·Ö´Ê£ºinclining µÚÈıÈË³Æµ¥Êı£ºinclines 
+include ¹ıÈ¥Ê½£ºincluded ¹ıÈ¥·Ö´Ê£ºincluded ÏÖÔÚ·Ö´Ê£ºincluding µÚÈıÈË³Æµ¥Êı£ºincludes 
+inclusive
+income ¸´Êı£ºincomes
+incorporate ¹ıÈ¥Ê½£ºincorporated ¹ıÈ¥·Ö´Ê£ºincorporated ÏÖÔÚ·Ö´Ê£ºincorporating µÚÈıÈË³Æµ¥Êı£ºincorporates 
+increase ¸´Êı£ºincreases ¹ıÈ¥Ê½£ºincreased ¹ıÈ¥·Ö´Ê£ºincreased ÏÖÔÚ·Ö´Ê£ºincreasing µÚÈıÈË³Æµ¥Êı£ºincreases 
+increasingly
+incredible ±È½Ï¼¶£ºmore incredible ×î¸ß¼¶£ºmost incredible 
+incur ¹ıÈ¥Ê½£ºincurred ¹ıÈ¥·Ö´Ê£ºincurred ÏÖÔÚ·Ö´Ê£ºincurring µÚÈıÈË³Æµ¥Êı£ºincurs 
+indeed
+independence
+independent ¸´Êı£ºindependents ±È½Ï¼¶£ºmore independent ×î¸ß¼¶£ºmost independent 
+index ¸´Êı£ºindexes indices ¹ıÈ¥Ê½£ºindexed ¹ıÈ¥·Ö´Ê£ºindexed ÏÖÔÚ·Ö´Ê£ºindexing µÚÈıÈË³Æµ¥Êı£ºindexes 
+indicate ¹ıÈ¥Ê½£ºindicated ¹ıÈ¥·Ö´Ê£ºindicated ÏÖÔÚ·Ö´Ê£ºindicating µÚÈıÈË³Æµ¥Êı£ºindicates 
+indication ¸´Êı£ºindications 
+indicative ¸´Êı£ºindicatives 
+indifferent
+indignant
+indignation
+indispensable ¸´Êı£ºindispensables 
+individual ¸´Êı£ºindividuals 
+indoor 
+induce ¹ıÈ¥Ê½£ºinduced ¹ıÈ¥·Ö´Ê£ºinduced ÏÖÔÚ·Ö´Ê£ºinducing µÚÈıÈË³Æµ¥Êı£ºinduces 
+indulge ¹ıÈ¥Ê½£ºindulged ¹ıÈ¥·Ö´Ê£ºindulged ÏÖÔÚ·Ö´Ê£ºindulging µÚÈıÈË³Æµ¥Êı£ºindulges 
+industrial
+industrialize ¹ıÈ¥Ê½£ºindustrialized ¹ıÈ¥·Ö´Ê£ºindustrialized ÏÖÔÚ·Ö´Ê£ºindustrializing µÚÈıÈË³Æµ¥Êı£ºindustrializes 
+industry ¸´Êı£ºindustries 
+inertia
+inevitable
+infant ¸´Êı£ºinfants 
+infect ¹ıÈ¥Ê½£ºinfected ¹ıÈ¥·Ö´Ê£ºinfected ÏÖÔÚ·Ö´Ê£ºinfecting µÚÈıÈË³Æµ¥Êı£ºinfects 
+infectious
+infer ¹ıÈ¥Ê½£ºinferred ¹ıÈ¥·Ö´Ê£ºinferred ÏÖÔÚ·Ö´Ê£ºinferring µÚÈıÈË³Æµ¥Êı£ºinfers 
+inference ¸´Êı£ºinferences 
+inferior ¸´Êı£ºinferiors 
+infinite
+inflation ¸´Êı£ºinflations 
+influence ¸´Êı£ºinfluences ¹ıÈ¥Ê½£ºinfluenced ¹ıÈ¥·Ö´Ê£ºinfluenced ÏÖÔÚ·Ö´Ê£ºinfluencing µÚÈıÈË³Æµ¥Êı£ºinfluences 
+influential
+inform ¹ıÈ¥Ê½£ºinformed ¹ıÈ¥·Ö´Ê£ºinformed ÏÖÔÚ·Ö´Ê£ºinforming µÚÈıÈË³Æµ¥Êı£ºinforms 
+information
+infrared
+infrastructure ¸´Êı£ºinfrastructures 
+ingenious
+ingredient ¸´Êı£ºingredients 
+inhabit ¹ıÈ¥Ê½£ºinhabited ¹ıÈ¥·Ö´Ê£ºinhabited ÏÖÔÚ·Ö´Ê£ºinhabiting µÚÈıÈË³Æµ¥Êı£ºinhabits 
+inhabitant ¸´Êı£ºinhabitants 
+inhale ¹ıÈ¥Ê½£ºinhaled ¹ıÈ¥·Ö´Ê£ºinhaled ÏÖÔÚ·Ö´Ê£ºinhaling µÚÈıÈË³Æµ¥Êı£ºinhales 
+inherent
+inherit ¹ıÈ¥Ê½£ºinherited ¹ıÈ¥·Ö´Ê£ºinherited ÏÖÔÚ·Ö´Ê£ºinheriting µÚÈıÈË³Æµ¥Êı£ºinherits 
+inhibit ¹ıÈ¥Ê½£ºinhibited ¹ıÈ¥·Ö´Ê£ºinhibited ÏÖÔÚ·Ö´Ê£ºinhibiting µÚÈıÈË³Æµ¥Êı£ºinhibits 
+initial ¸´Êı£ºinitials ¹ıÈ¥Ê½£ºinitialled initialled ¹ıÈ¥·Ö´Ê£ºinitialled initialled ÏÖÔÚ·Ö´Ê£ºinitialling initialling µÚÈıÈË³Æµ¥Êı£ºinitials 
+initiate ¹ıÈ¥Ê½£ºinitiated ¹ıÈ¥·Ö´Ê£ºinitiated ÏÖÔÚ·Ö´Ê£ºinitiating µÚÈıÈË³Æµ¥Êı£ºinitiates 
+initiative ¸´Êı£ºinitiatives 
+inject ¹ıÈ¥Ê½£ºinjected ¹ıÈ¥·Ö´Ê£ºinjected ÏÖÔÚ·Ö´Ê£ºinjecting µÚÈıÈË³Æµ¥Êı£ºinjects 
+injure ¹ıÈ¥Ê½£ºinjured ¹ıÈ¥·Ö´Ê£ºinjured ÏÖÔÚ·Ö´Ê£ºinjuring µÚÈıÈË³Æµ¥Êı£ºinjures 
+injury ¸´Êı£ºinjuries 
+ink ¹ıÈ¥Ê½£ºinked ¹ıÈ¥·Ö´Ê£ºinked ÏÖÔÚ·Ö´Ê£ºinking µÚÈıÈË³Æµ¥Êı£ºinks 
+inland
+inlet ¸´Êı£ºinlets ¹ıÈ¥Ê½£ºinlet ¹ıÈ¥·Ö´Ê£ºinlet ÏÖÔÚ·Ö´Ê£ºinletting µÚÈıÈË³Æµ¥Êı£ºinlets 
+inn ¸´Êı£ºinns 
+inner ¸´Êı£ºinners 
+innocent ¸´Êı£ºinnocents 
+innovation ¸´Êı£ºinnovations 
+innumerable
+input ¸´Êı£ºinputs ¹ıÈ¥Ê½£ºinputted ¹ıÈ¥·Ö´Ê£ºinputted ÏÖÔÚ·Ö´Ê£ºinputting µÚÈıÈË³Æµ¥Êı£ºinputs 
+inquiry ¸´Êı£ºinquiries 
+insect ¸´Êı£ºinsects 
+insert ¹ıÈ¥Ê½£ºinserted ¹ıÈ¥·Ö´Ê£ºinserted ÏÖÔÚ·Ö´Ê£ºinserting µÚÈıÈË³Æµ¥Êı£ºinserts 
+inside ¸´Êı£ºinsides 
+insight ¸´Êı£ºinsights 
+insist ¹ıÈ¥Ê½£ºinsisted ¹ıÈ¥·Ö´Ê£ºinsisted ÏÖÔÚ·Ö´Ê£ºinsisting µÚÈıÈË³Æµ¥Êı£ºinsists 
+inspect ¹ıÈ¥Ê½£ºinspected ¹ıÈ¥·Ö´Ê£ºinspected ÏÖÔÚ·Ö´Ê£ºinspecting µÚÈıÈË³Æµ¥Êı£ºinspects 
+inspiration ¸´Êı£ºinspirations 
+inspire ¹ıÈ¥Ê½£ºinspired ¹ıÈ¥·Ö´Ê£ºinspired ÏÖÔÚ·Ö´Ê£ºinspiring µÚÈıÈË³Æµ¥Êı£ºinspires 
+install ¹ıÈ¥Ê½£ºinstalled ¹ıÈ¥·Ö´Ê£ºinstalled ÏÖÔÚ·Ö´Ê£ºinstalling µÚÈıÈË³Æµ¥Êı£ºinstalls 
+installation ¸´Êı£ºinstallations 
+installment ¸´Êı£ºinstallments 
+instance ¸´Êı£ºinstances ¹ıÈ¥Ê½£ºinstanced ¹ıÈ¥·Ö´Ê£ºinstanced ÏÖÔÚ·Ö´Ê£ºinstancing µÚÈıÈË³Æµ¥Êı£ºinstances 
+instant
+instantaneous
+instead
+instinct ¸´Êı£ºinstincts 
+institute ¸´Êı£ºinstitutes ¹ıÈ¥Ê½£ºinstituted ¹ıÈ¥·Ö´Ê£ºinstituted ÏÖÔÚ·Ö´Ê£ºinstituting µÚÈıÈË³Æµ¥Êı£ºinstitutes 
+institution ¸´Êı£ºinstitutions 
+instruct ¹ıÈ¥Ê½£ºinstructed ¹ıÈ¥·Ö´Ê£ºinstructed ÏÖÔÚ·Ö´Ê£ºinstructing µÚÈıÈË³Æµ¥Êı£ºinstructs 
+instruction ¸´Êı£ºinstructions 
+instrument ¸´Êı£ºinstruments 
+instrumental
+insulate ¹ıÈ¥Ê½£ºinsulated ¹ıÈ¥·Ö´Ê£ºinsulated ÏÖÔÚ·Ö´Ê£ºinsulating µÚÈıÈË³Æµ¥Êı£ºinsulates 
+insult ¸´Êı£ºinsults ¹ıÈ¥Ê½£ºinsulted ¹ıÈ¥·Ö´Ê£ºinsulted ÏÖÔÚ·Ö´Ê£ºinsulting µÚÈıÈË³Æµ¥Êı£ºinsults 
+insurance
+insure ¹ıÈ¥Ê½£ºinsured ¹ıÈ¥·Ö´Ê£ºinsured ÏÖÔÚ·Ö´Ê£ºinsuring µÚÈıÈË³Æµ¥Êı£ºinsures 
+intact
+integral ¸´Êı£ºintegrals
+integrate ¹ıÈ¥Ê½£ºintegrated ¹ıÈ¥·Ö´Ê£ºintegrated ÏÖÔÚ·Ö´Ê£ºintegrating µÚÈıÈË³Æµ¥Êı£ºintegrates 
+integrity ¸´Êı£ºintegrities 
+intellectual ¸´Êı£ºintellectuals 
+intelligence
+intelligent
+intelligible
+intend ¹ıÈ¥Ê½£ºintended ¹ıÈ¥·Ö´Ê£ºintended ÏÖÔÚ·Ö´Ê£ºintending µÚÈıÈË³Æµ¥Êı£ºintends 
+intense ±È½Ï¼¶£ºintenser ×î¸ß¼¶£ºintensest 
+intensity ¸´Êı£ºintensities 
+intensive ¸´Êı£ºintensives
+intention ¸´Êı£ºintentions 
+interact ¹ıÈ¥Ê½£ºinteracted ¹ıÈ¥·Ö´Ê£ºinteracted ÏÖÔÚ·Ö´Ê£ºinteracting µÚÈıÈË³Æµ¥Êı£ºinteracts 
+intercourse ¸´Êı£ºintercourses 
+interest ¸´Êı£ºinterests ¹ıÈ¥Ê½£ºinterested ¹ıÈ¥·Ö´Ê£ºinterested ÏÖÔÚ·Ö´Ê£ºinteresting µÚÈıÈË³Æµ¥Êı£ºinterests 
+interesting
+interface ¸´Êı£ºinterfaces ¹ıÈ¥Ê½£ºinterfaced ¹ıÈ¥·Ö´Ê£ºinterfaced ÏÖÔÚ·Ö´Ê£ºinterfacing µÚÈıÈË³Æµ¥Êı£ºinterfaces 
+interfere ¹ıÈ¥Ê½£ºinterfered ¹ıÈ¥·Ö´Ê£ºinterfered ÏÖÔÚ·Ö´Ê£ºinterfering µÚÈıÈË³Æµ¥Êı£ºinterferes 
+interference ¸´Êı£ºinterferences 
+interim
+interior ¸´Êı£ºinteriors 
+intermediate ¸´Êı£ºintermediates 
+intermittent
+internal
+international ¸´Êı£ºinternationals
+internet
+interpret ¹ıÈ¥Ê½£ºinterpreted ¹ıÈ¥·Ö´Ê£ºinterpreted ÏÖÔÚ·Ö´Ê£ºinterpreting µÚÈıÈË³Æµ¥Êı£ºinterprets 
+interrupt ¹ıÈ¥Ê½£ºinterrupted ¹ıÈ¥·Ö´Ê£ºinterrupted ÏÖÔÚ·Ö´Ê£ºinterrupting µÚÈıÈË³Æµ¥Êı£ºinterrupts 
+intersection ¸´Êı£ºintersections 
+interval ¸´Êı£ºintervals 
+intervene µÚÈıÈË³Æµ¥Êı£ºintervenes¹ıÈ¥Ê½£ºintervened¹ıÈ¥·Ö´Ê£ºintervenedÏÖÔÚ·Ö´Ê£ºintervening
+interview ¸´Êı£ºinterviews ¹ıÈ¥Ê½£ºinterviewed ¹ıÈ¥·Ö´Ê£ºinterviewed ÏÖÔÚ·Ö´Ê£ºinterviewing µÚÈıÈË³Æµ¥Êı£ºinterviews 
+intimate ¸´Êı£ºintimates ¹ıÈ¥Ê½£ºintimated ¹ıÈ¥·Ö´Ê£ºintimated ÏÖÔÚ·Ö´Ê£ºintimating µÚÈıÈË³Æµ¥Êı£ºintimates ±È½Ï¼¶£ºmore intimate ×î¸ß¼¶£ºmost intimate 
+intimidate ¹ıÈ¥Ê½£ºintimidated ¹ıÈ¥·Ö´Ê£ºintimidated ÏÖÔÚ·Ö´Ê£ºintimidating µÚÈıÈË³Æµ¥Êı£ºintimidates 
+into
+intricate
+intrigue ¸´Êı£ºintrigues ¹ıÈ¥Ê½£ºintrigued ¹ıÈ¥·Ö´Ê£ºintrigued ÏÖÔÚ·Ö´Ê£ºintriguing µÚÈıÈË³Æµ¥Êı£ºintrigues 
+intrinsic
+introduce ¹ıÈ¥Ê½£ºintroduced ¹ıÈ¥·Ö´Ê£ºintroduced ÏÖÔÚ·Ö´Ê£ºintroducing µÚÈıÈË³Æµ¥Êı£ºintroduces 
+introduction ¸´Êı£ºintroductions 
+intrude ¹ıÈ¥Ê½£ºintruded ¹ıÈ¥·Ö´Ê£ºintruded ÏÖÔÚ·Ö´Ê£ºintruding µÚÈıÈË³Æµ¥Êı£ºintrudes 
+intuition ¸´Êı£ºintuitions 
+invade ¹ıÈ¥Ê½£ºinvaded ¹ıÈ¥·Ö´Ê£ºinvaded ÏÖÔÚ·Ö´Ê£ºinvading µÚÈıÈË³Æµ¥Êı£ºinvades 
+invalid ¸´Êı£ºinvalids ¹ıÈ¥Ê½£ºinvalided ¹ıÈ¥·Ö´Ê£ºinvalided ÏÖÔÚ·Ö´Ê£ºinvaliding µÚÈıÈË³Æµ¥Êı£ºinvalids 
+invaluable
+invariably
+invasion ¸´Êı£ºinvasions 
+invent ¹ıÈ¥Ê½£ºinvented ¹ıÈ¥·Ö´Ê£ºinvented ÏÖÔÚ·Ö´Ê£ºinventing µÚÈıÈË³Æµ¥Êı£ºinvents 
+invention ¸´Êı£ºinventions 
+inventory ¸´Êı£ºinventories ¹ıÈ¥Ê½£ºinventoried ¹ıÈ¥·Ö´Ê£ºinventoried ÏÖÔÚ·Ö´Ê£ºinventorying µÚÈıÈË³Æµ¥Êı£ºinventories 
+inverse ¹ıÈ¥Ê½£ºinversed ¹ıÈ¥·Ö´Ê£ºinversed ÏÖÔÚ·Ö´Ê£ºinversing µÚÈıÈË³Æµ¥Êı£ºinverses 
+invert ¹ıÈ¥Ê½£ºinverted ¹ıÈ¥·Ö´Ê£ºinverted ÏÖÔÚ·Ö´Ê£ºinverting µÚÈıÈË³Æµ¥Êı£ºinverts 
+invest ¹ıÈ¥Ê½£ºinvested ¹ıÈ¥·Ö´Ê£ºinvested ÏÖÔÚ·Ö´Ê£ºinvesting µÚÈıÈË³Æµ¥Êı£ºinvests 
+investigate ¹ıÈ¥Ê½£ºinvestigated ¹ıÈ¥·Ö´Ê£ºinvestigated ÏÖÔÚ·Ö´Ê£ºinvestigating µÚÈıÈË³Æµ¥Êı£ºinvestigates 
+investment ¸´Êı£ºinvestments 
+invisible ¸´Êı£ºinvisibles 
+invitation ¸´Êı£ºinvitations 
+invite ¹ıÈ¥Ê½£ºinvited ¹ıÈ¥·Ö´Ê£ºinvited ÏÖÔÚ·Ö´Ê£ºinviting µÚÈıÈË³Æµ¥Êı£ºinvites 
+involve ¹ıÈ¥Ê½£ºinvolved ¹ıÈ¥·Ö´Ê£ºinvolved ÏÖÔÚ·Ö´Ê£ºinvolving µÚÈıÈË³Æµ¥Êı£ºinvolves 
+inward
+iron ¸´Êı£ºirons ¹ıÈ¥Ê½£ºironed ¹ıÈ¥·Ö´Ê£ºironed ÏÖÔÚ·Ö´Ê£ºironing µÚÈıÈË³Æµ¥Êı£ºirons 
+irony ¸´Êı£ºironies 
+irrespective
+irrigate ¹ıÈ¥Ê½£ºirrigated ¹ıÈ¥·Ö´Ê£ºirrigated ÏÖÔÚ·Ö´Ê£ºirrigating µÚÈıÈË³Æµ¥Êı£ºirrigates 
+irritate ¹ıÈ¥Ê½£ºirritated ¹ıÈ¥·Ö´Ê£ºirritated ÏÖÔÚ·Ö´Ê£ºirritating µÚÈıÈË³Æµ¥Êı£ºirritates 
+island ¸´Êı£ºislands ¹ıÈ¥Ê½£ºislanded ¹ıÈ¥·Ö´Ê£ºislanded ÏÖÔÚ·Ö´Ê£ºislanding µÚÈıÈË³Æµ¥Êı£ºislands 
+isle ¸´Êı£ºisles ¹ıÈ¥Ê½£ºisled ¹ıÈ¥·Ö´Ê£ºisled ÏÖÔÚ·Ö´Ê£ºisling µÚÈıÈË³Æµ¥Êı£ºisles 
+isolate ¹ıÈ¥Ê½£ºisolated ¹ıÈ¥·Ö´Ê£ºisolated ÏÖÔÚ·Ö´Ê£ºisolating µÚÈıÈË³Æµ¥Êı£ºisolates 
+issue ¸´Êı£ºissues ¹ıÈ¥Ê½£ºissued ¹ıÈ¥·Ö´Ê£ºissued ÏÖÔÚ·Ö´Ê£ºissuing µÚÈıÈË³Æµ¥Êı£ºissues 
+it
+item ¸´Êı£ºitems
+its
+itself
+keen ¹ıÈ¥Ê½£ºkeened ¹ıÈ¥·Ö´Ê£ºkeened ÏÖÔÚ·Ö´Ê£ºkeening µÚÈıÈË³Æµ¥Êı£ºkeens ±È½Ï¼¶£ºkeener ×î¸ß¼¶£ºkeenest 
+keep ¸´Êı£ºkeeps ¹ıÈ¥Ê½£ºkept ¹ıÈ¥·Ö´Ê£ºkept ÏÖÔÚ·Ö´Ê£ºkeeping µÚÈıÈË³Æµ¥Êı£ºkeeps 
+kilometre ¸´Êı£ºkilometres 
+lightning ¹ıÈ¥Ê½£ºlightninged ¹ıÈ¥·Ö´Ê£ºlightninged ÏÖÔÚ·Ö´Ê£ºlightning µÚÈıÈË³Æµ¥Êı£ºlightings 
+mug ¸´Êı£ºmugs ¹ıÈ¥Ê½£ºmugged ¹ıÈ¥·Ö´Ê£ºmugged ÏÖÔÚ·Ö´Ê£ºmugging µÚÈıÈË³Æµ¥Êı£ºmugs 
+nobody ¸´Êı£ºnobodies 
+null
+onto
+or
+outrage ¹ıÈ¥Ê½£ºoutraged ¹ıÈ¥·Ö´Ê£ºoutraged ÏÖÔÚ·Ö´Ê£ºoutraging µÚÈıÈË³Æµ¥Êı£ºoutrages 
+panorama ¸´Êı£ºpanoramas 
+peninsula ¸´Êı£ºpeninsulas 
+perfect ¹ıÈ¥Ê½£ºperfected ¹ıÈ¥·Ö´Ê£ºperfected ÏÖÔÚ·Ö´Ê£ºperfecting µÚÈıÈË³Æµ¥Êı£ºperfects 
+perfection ¸´Êı£ºperfections 
+petty ±È½Ï¼¶£ºpettier ×î¸ß¼¶£ºpettiest 
+philosopher ¸´Êı£ºphilosophers 
+profile ¸´Êı£ºprofiles ¹ıÈ¥Ê½£ºprofiled ¹ıÈ¥·Ö´Ê£ºprofiled ÏÖÔÚ·Ö´Ê£ºprofiling µÚÈıÈË³Æµ¥Êı£ºprofiles 
+prosper ¹ıÈ¥Ê½£ºprospered ¹ıÈ¥·Ö´Ê£ºprospered ÏÖÔÚ·Ö´Ê£ºprospering µÚÈıÈË³Æµ¥Êı£ºprospers 
+rash ¸´Êı£ºrashes ±È½Ï¼¶£ºrasher ×î¸ß¼¶£ºrashest 
+ridiculous
+satisfaction ¸´Êı£ºsatisfactions 
+scarce ±È½Ï¼¶£ºscarcer ×î¸ß¼¶£ºscarcest 
+scatter ¹ıÈ¥Ê½£ºscattered ¹ıÈ¥·Ö´Ê£ºscattered ÏÖÔÚ·Ö´Ê£ºscattering µÚÈıÈË³Æµ¥Êı£ºscatters 
+screen ¸´Êı£ºscreens ¹ıÈ¥Ê½£ºscreened ¹ıÈ¥·Ö´Ê£ºscreened ÏÖÔÚ·Ö´Ê£ºscreening µÚÈıÈË³Æµ¥Êı£ºscreens 
+shoot ¸´Êı£ºshoots ¹ıÈ¥Ê½£ºshot ¹ıÈ¥·Ö´Ê£ºshot ÏÖÔÚ·Ö´Ê£ºshooting µÚÈıÈË³Æµ¥Êı£ºshoots 
+slow µÚÈıÈË³Æµ¥Êı£ºslows¹ıÈ¥Ê½£ºslowed¹ıÈ¥·Ö´Ê£ºslowedÏÖÔÚ·Ö´Ê£ºslowing±È½Ï¼¶£ºslower×î¸ß¼¶£ºslowest
+social ¸´Êı£ºsocials 
+solitary ¸´Êı£ºsolitaries 
+somebody ¸´Êı£ºsomebodies 
+standpoint ¸´Êı£ºstandpoints 
+statute ¸´Êı£ºstatutes 
+substitute ¸´Êı£ºsubstitutes ¹ıÈ¥Ê½£ºsubstituted ¹ıÈ¥·Ö´Ê£ºsubstituted ÏÖÔÚ·Ö´Ê£ºsubstituting µÚÈıÈË³Æµ¥Êı£ºsubstitutes 
+the
+tiger ¸´Êı£ºtigers 
+tolerance ¸´Êı£ºtolerances 
+true ¸´Êı£ºtrues ¹ıÈ¥Ê½£ºtrued ¹ıÈ¥·Ö´Ê£ºtrued ÏÖÔÚ·Ö´Ê£ºtruing µÚÈıÈË³Æµ¥Êı£ºtrues ±È½Ï¼¶£ºtruer ×î¸ß¼¶£ºtruest 
+tv
+worship ¸´Êı£ºworships ¹ıÈ¥Ê½£ºworshiped ¹ıÈ¥·Ö´Ê£ºworshiped ÏÖÔÚ·Ö´Ê£ºworshiping µÚÈıÈË³Æµ¥Êı£ºworships 
+zeal 
 
 
