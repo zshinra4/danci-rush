@@ -44,7 +44,7 @@ account 复数：accounts 过去式：accounted 过去分词：accounted 现在�
 accountant 复数：accountants 
 accumulate 过去式：accumulated 过去分词：accumulated 现在分词：accumulating 第三人称单数：accumulates 
 accuracy 复数：accuracies 
-accurate 比较级：more accurate 最高级：most accurate 
+accurate 比较级：more-accurate 最高级：most-accurate 
 accuse 过去式：accused 过去分词：accused 现在分词：accusing 第三人称单数：accuses 
 accustomed
 ache 复数：aches 过去式：ached 过去分词：ached 现在分词：aching 第三人称单数：aches 
@@ -61,7 +61,7 @@ across
 act 复数：acts 过去式：acted 过去分词：acted 现在分词：acting 第三人称单数：acts 
 action 复数：actions 
 activate 过去式：activated 过去分词：activated 现在分词：activating 第三人称单数：activates 
-active 比较级：more active 最高级：most active 
+active 比较级：more-active 最高级：most-active 
 activity 复数：activities 
 actor 复数：actors 
 actress 复数：actresses 
@@ -89,7 +89,7 @@ adopt 过去式：adopted 过去分词：adopted 现在分词：adopting 第三�
 adore 过去式：adored 过去分词：adored 现在分词：adoring 第三人称单数：adores 
 adult 复数：adults 
 advance 复数：advances 过去式：advanced 过去分词：advanced 现在分词：advancing 第三人称单数：advances 
-advanced 比较级：more advanced 最高级：most advanced 
+advanced 比较级：more-advanced 最高级：most-advanced 
 advantage 复数：advantages 过去式：advantaged 过去分词：advantaged 现在分词：advantaging 第三人称单数：advantages 
 advent
 adventure 复数：adventures 
@@ -121,7 +121,7 @@ agency 复数：agencies
 agenda 复数：agendas 
 agent 复数：agents 
 aggravate 过去式：aggravated 过去分词：aggravated 现在分词：aggravating 第三人称单数：aggravates 
-aggressive 比较级：more aggressive 最高级：most aggressive 
+aggressive 比较级：more-aggressive 最高级：most-aggressive 
 agitate 过去式：agitated 过去分词：agitated 现在分词：agitating 第三人称单数：agitates 
 ago
 agony 复数：agonies 
@@ -175,10 +175,10 @@ amaze 过去式：amazed 过去分词：amazed 现在分词：amazing 第三人�
 ambassador 复数：ambassadors 
 ambiguous
 ambition 复数：ambitions 
-ambitious 比较级：more ambitious 最高级：most ambitious 
+ambitious 比较级：more-ambitious 最高级：most-ambitious 
 ambulance 复数：ambulances 
 amend	过去式：amended 过去分词：amended 现在分词：amending 第三人称单数：amends 
-amiable	比较级：more amiable 最高级：most amiable 
+amiable	比较级：more-amiable 最高级：most-amiable 
 amount	复数：amounts 过去式：amounted 过去分词：amounted 现在分词：amounting 第三人称单数：amounts 
 ample	比较级：ampler 最高级：amplest
 amplifier 复数：amplifiers
@@ -207,11 +207,11 @@ annoy 过去式：annoyed 过去分词：annoyed 现在分词：annoying 第三�
 annual 复数：annuals 
 answer 过去式：answered 过去分词：answered 现在分词：answering 第三人称单数：answers 
 ant 复数：ants 
-antenna 复数：antennae antennas 
+antenna 复数：antennae/antennas 
 anticipate 过去式：anticipated 过去分词：anticipated 现在分词：anticipating 第三人称单数：anticipates 
 antique 复数：antiques 过去式：antiqued 过去分词：antiqued 现在分词：antiquing 第三人称单数：antiques 
 anxiety 复数：anxieties 
-anxious 比较级：more anxious 最高级：most anxious 
+anxious 比较级：more-anxious 最高级：most-anxious 
 any 
 anybody 
 anyhow 
@@ -229,7 +229,7 @@ apparent
 appeal 复数：appeals 过去式：appealed 过去分词：appealed 现在分词：appealing 第三人称单数：appeals 
 appear 过去式：appeared 过去分词：appeared 现在分词：appearing 第三人称单数：appears 
 appearance 复数：appearances 
-appendix 复数：appendices appendixes 
+appendix 复数：appendices/appendixes 
 appetite 复数：appetites 
 applaud 过去式：applauded 过去分词：applauded 现在分词：applauding 第三人称单数：applauds 
 applause 复数：apples 
@@ -270,7 +270,7 @@ article 复数：articles 过去式：articled 过去分词：articled 现在分
 articulate 过去式：articulated 过去分词：articulated 现在分词：articulating 第三人称单数：articulates 
 artificial 
 artist 复数：artists 
-artistic 比较级：more artistic 最高级：most artistic 
+artistic 比较级：more-artistic 最高级：most-artistic 
 as 
 ascend 过去式：ascended 过去分词：ascended 现在分词：ascending 第三人称单数：ascends 
 ascertain 过去式：ascertained 过去分词：ascertained 现在分词：ascertaining 第三人称单数：ascertains 
@@ -310,13 +310,13 @@ attention 复数：attentions
 attitude 复数：attitudes 
 attorney 复数：attorneys 
 attract 过去式：attracted 过去分词：attracted 现在分词：attracting 第三人称单数：attracts 
-attractive 比较级：more attractive 最高级：most attractive 
+attractive 比较级：more-attractive 最高级：most-attractive 
 attribute 复数：attributes 过去式：attributed 过去分词：attributed 现在分词：attributing 第三人称单数：attributes 
 auction 复数：auctions 过去式：auctioned 过去分词：auctioned 现在分词：auctioning 第三人称单数：auctions 
 audience 复数：audiences 
 audio 
 audit 复数：audits 过去式：audited 过去分词：audited 现在分词：auditing 第三人称单数：audits 
-auditorium 复数：auditoriums auditoria 
+auditorium 复数：auditoriums/auditoria 
 augment 复数：augments 过去式：augmented 过去分词：augmented 现在分词：augmenting 第三人称单数：augments 
 august 
 aunt 复数：aunts 
@@ -386,7 +386,7 @@ barely
 bargain 复数：bargains 过去式：bargained 过去分词：bargained 现在分词：bargaining 第三人称单数：bargains 
 bark 复数：barks 过去式：barked 过去分词：barked 现在分词：barking 第三人称单数：barks 
 barn 复数：barns 
-barrel 复数：barrels 过去式：barrelled barreled 过去分词：barrelled barreled 现在分词：barrelling barreling 第三人称单数：barrels 
+barrel 复数：barrels 过去式：barrelled/barreled 过去分词：barrelled/barreled 现在分词：barrelling/barreling 第三人称单数：barrels 
 barren 复数：barrens 
 barrier 复数：barriers 
 base 复数：bases 过去式：based 过去分词：based 现在分词：basing 第三人称单数：bases 
@@ -405,16 +405,16 @@ bathroom 复数：bathrooms
 battery 复数：batteries 
 battle 复数：battles 过去式：battled 过去分词：battled 现在分词：battling 第三人称单数：battles 
 bay 复数：bays 过去式：bayed 过去分词：bayed 现在分词：baying 第三人称单数：bays 
-be 过去式：was were 过去分词：been 现在分词：being 第三人称单数：is 
+be 过去式：was/were 过去分词：been 现在分词：being 第三人称单数：is 
 beach 复数：beaches 过去式：beached 过去分词：beached 现在分词：beaching 第三人称单数：beaches 
 beam 复数：beams 过去式：beamed 过去分词：beamed 现在分词：beaming 第三人称单数：beams 
 bean 复数：beans 
-bear 复数：bears 过去式：bore 过去分词：borne born 现在分词：bearing 第三人称单数：bears 
+bear 复数：bears 过去式：bore 过去分词：borne/born 现在分词：bearing 第三人称单数：bears 
 beard 复数：beards 
 bearing 复数：bearings 
 beast 复数：beasts 
 beat 过去式：beat 过去分词：beaten 现在分词：beating 第三人称单数：beats
-beautiful 比较级：more beautiful 最高级：most beautiful 
+beautiful 比较级：more-beautiful 最高级：most-beautiful 
 beauty 复数：beauties 
 because
 become  过去式：became 过去分词：become 现在分词：becoming 第三人称单数：becomes 
@@ -441,15 +441,15 @@ beloved 复数：beloveds
 below 
 belt 复数：belts 过去式：belted 过去分词：belted 现在分词：belting 第三人称单数：belts 
 bench 复数：benches 过去式：benched 过去分词：benched 现在分词：benching 第三人称单数：benches 
-bend 过去式：bent bended 过去分词：bent bended 现在分词：bending 第三人称单数：bends 
+bend 过去式：bent/bended 过去分词：bent/bended 现在分词：bending 第三人称单数：bends 
 beneath 
 beneficial 
-benefit 复数：benefits 过去式：benefited benefitted 过去分词：benefited benefitted 现在分词：benefiting benefitting 第三人称单数：benefits 
+benefit 复数：benefits 过去式：benefited/benefitted 过去分词：benefited/benefitted 现在分词：benefiting/benefitting 第三人称单数：benefits 
 benign 
 beside 
 besides 
 best 过去式：bested 过去分词：bested 现在分词：besting 第三人称单数：bests 
-bet 过去式：bet betted 过去分词：bet betted 现在分词：betting 第三人称单数：bets 
+bet 过去式：bet/betted 过去分词：bet/betted 现在分词：betting 第三人称单数：bets 
 betray 过去式：betrayed 过去分词：betrayed 现在分词：betraying 第三人称单数：betrays 
 better 复数：betters 过去式：bettered 过去分词：bettered 现在分词：bettering 第三人称单数：betters 
 between 
@@ -457,11 +457,11 @@ beverage 复数：beverages
 beware 过去式：bewared 过去分词：bewared 现在分词：bewaring 第三人称单数：bewares 
 bewilder 过去式：bewildered 过去分词：bewildered 现在分词：bewildering 第三人称单数：bewilders 
 beyond 
-bias 复数：biases 过去式：biased biassed 过去分词：biased biassed 现在分词：biasing biassing 第三人称单数：biases biasses 
+bias 复数：biases 过去式：biased/biassed 过去分词：biased/biassed 现在分词：biasing/biassing 第三人称单数：biases/biasses 
 bible 
 bibliography 复数：bibliographies 
 bicycle 复数：bicycles 过去式：bicycled 过去分词：bicycled 现在分词：bicyling 第三人称单数：bicycles 
-bid 过去式：bade bid 过去分词：bid bidden 现在分词：bidding 第三人称单数：bids 
+bid 过去式：bade/bid 过去分词：bid/bidden 现在分词：bidding 第三人称单数：bids 
 big 比较级：bigger 最高级：biggest 
 bill 复数：bills 过去式：billed 过去分词：billed 现在分词：billing 第三人称单数：bills 
 billion 复数：billions
@@ -487,8 +487,8 @@ blast 复数：blasts 过去式：blasted 过去分词：blasted 现在分词：
 blaze 复数：blazes 过去式：blazed 过去分词：blazed 现在分词：blazing 第三人称单数：blazes 
 bleak 比较级：bleaker 最高级：bleakest 
 bleed 复数：bleeds 过去式：bled 过去分词：bled 现在分词：bleeding 第三人称单数：bleeds 
-blend 过去式：blended blent 过去分词：blended blent 现在分词：blending 第三人称单数：blends 
-bless 过去式：blessed blest 过去分词：blessed blest 现在分词：blessing 第三人称单数：blesses 
+blend 过去式：blended/blent 过去分词：blended/blent 现在分词：blending 第三人称单数：blends 
+bless 过去式：blessed/blest 过去分词：blessed/blest 现在分词：blessing 第三人称单数：blesses 
 blind 复数：blinds 过去式：blinded 过去分词：blinded 现在分词：blinding 第三人称单数：blinds 
 block 复数：blocks 过去式：blocked 过去分词：blocked 现在分词：blocking 第三人称单数：blocks 
 blood 过去式：blooded 过去分词：blooded 现在分词：blooding 第三人称单数：bloods 
@@ -572,7 +572,7 @@ bring 过去式：brought 过去分词：brought 现在分词：bringing 第三�
 brisk 比较级：brisker 最高级：briskest 
 brittle 比较级：brittler 最高级：brittlest 
 broad 复数：broads 比较级：broader 最高级：broadest 
-broadcast 复数：broadcasts 过去式：broadcast broadcasted 过去分词：broadcast broadcasted 现在分词：broadcasting 第三人称单数：broadcasts 
+broadcast 复数：broadcasts 过去式：broadcast/broadcasted 过去分词：broadcast/broadcasted 现在分词：broadcasting 第三人称单数：broadcasts 
 brochure 复数：brochures 
 bronze 复数：bronzes 过去式：bronzed 过去分词：bronzed 现在分词：bronzing 第三人称单数：bronzes 
 brook 复数：brooks 过去式：brooked 过去分词：brooked 现在分词：brooking 第三人称单数：brooks 
@@ -605,7 +605,7 @@ burden 复数：burdens 过去式：burdened 过去分词：burdened 现在分�
 bureau 复数：bureaus 
 bureaucracy 复数：bureaucracies 
 burglar 复数：burglars 
-burn 复数：burns 过去式：burnt burned 过去分词：burnt burned 现在分词：burning 第三人称单数：burns 
+burn 复数：burns 过去式：burnt/burned 过去分词：burnt/burned 现在分词：burning 第三人称单数：burns 
 burst 过去式：burst 过去分词：burst 现在分词：bursting 第三人称单数：bursts 
 bury 过去式：buried 过去分词：buried 现在分词：burying 第三人称单数：buries 
 bus 复数：buses 过去式：bused 过去分词：bused 现在分词：bussing 第三人称单数：buses 
@@ -641,15 +641,15 @@ campaign 复数：campaigns
 campus 复数：campuses 
 can 复数：cans 过去式：could 过去分词：could 现在分词：canning 第三人称单数：cans 
 canal 复数：canals 
-cancel 过去式：cancelled canceled 过去分词：cancelled canceled 现在分词：cancelling 第三人称单数：cancels 
+cancel 过去式：cancelled/canceled 过去分词：cancelled/canceled 现在分词：cancelling 第三人称单数：cancels 
 cancer 
 candidate 复数：candidates 
 candle 复数：candles 
 candy 复数：candies
-cannon 复数：cannons cannon 过去式：cannoned 过去分词：cannoned 现在分词：cannoning 第三人称单数：cannons 
+cannon 复数：cannons/cannon 过去式：cannoned 过去分词：cannoned 现在分词：cannoning 第三人称单数：cannons 
 canoe 复数：canoes 过去式：canoed 过去分词：canoed 现在分词：canoeing 第三人称单数：canoes 
 canteen 复数：canteens 
-canvas 数：canvases 过去式：canvased 过去分词：canvased 现在分词：canvasing 第三人称单数：canvases 
+canvas 复数：canvases 过去式：canvased 过去分词：canvased 现在分词：canvasing 第三人称单数：canvases 
 cap 复数：caps 过去式：capped 过去分词：capped 现在分词：capping 第三人称单数：caps 
 capable 
 capacity 复数：capacities 
@@ -685,8 +685,8 @@ cashier 复数：cashiers 过去式：cashiered 过去分词：cashiered 现在�
 cassette 复数：cassettes 
 cast 过去式：cast 过去分词：cast 现在分词：casting 第三人称单数：casts 
 castle 复数：castles 
-casual 复数：casuals 比较级：more casual 最高级：most casual 
-casualty n. 伤亡（人数）；事故，横祸；受害者，死伤者；损坏 
+casual 复数：casuals 比较级：more-casual 最高级：most-casual 
+casualty 复数：casualties
 cat 复数：cats 过去式：catted 过去分词：catted 现在分词：catting 第三人称单数：cats 
 catalog 复数：catalogs 过去式：cataloged 过去分词：cataloged 现在分词：cataloging 第三人称单数：catalog
 catastrophe 复数：catastrophes 
@@ -716,7 +716,7 @@ centre 复数：centres 过去式：centred 过去分词：centred 现在分词�
 century 复数：centuries 
 cereal 复数：cereals 
 ceremony 复数：ceremonies 
-certain 比较级：more certain 最高级：most certain 
+certain 比较级：more-certain 最高级：most-certain 
 certainly 
 certainty 复数：certainties 
 certificate 复数：certificates 过去式：certificated 过去分词：certificated 现在分词：certificating 第三人称单数：certificates 
@@ -732,7 +732,7 @@ champion 复数：champions 过去式：championed 过去分词：championed 现
 chance 复数：chances 过去式：chanced 过去分词：chanced 现在分词：chancing 第三人称单数：chances 
 chancellor 复数：chancellors 
 change 复数：changes 过去式：changed 过去分词：changed 现在分词：changing 第三人称单数：changes 
-channel 复数：channels 过去式：channelled channeled 过去分词：channelled channeled 现在分词：channelling channeling 第三人称单数：channels 
+channel 复数：channels 过去式：channelled/channeled 过去分词：channelled/channeled 现在分词：channelling/channeling 第三人称单数：channels 
 chaos 
 chap 
 chapter 复数：chapters 
@@ -797,7 +797,7 @@ civilian 复数：civilians
 civilization 复数：civilizations 
 civilize 过去式：civilized 过去分词：civilized 现在分词：civilizing 第三人称单数：civilizes 
 claim 复数：claims 过去式：claimed 过去分词：claimed 现在分词：claiming 第三人称单数：claims 
-clap 复数：claps 过去式：clapped clapt 过去分词：clapped clapt 现在分词：clapping 第三人称单数：claps 
+clap 复数：claps 过去式：clapped/clapt 过去分词：clapped/clapt 现在分词：clapping 第三人称单数：claps 
 clarify 过去式：clarified 过去分词：clarified 现在分词：clarifying 第三人称单数：clarifies 
 clash 复数：clashes 过去式：clashed 过去分词：clashed 现在分词：clashing 第三人称单数：clashes 
 clasp 复数：clasps 过去式：clasped 过去分词：clasped 现在分词：clasping 第三人称单数：clasps 
@@ -823,7 +823,7 @@ climax 过去式：climaxed 过去分词：climaxed 现在分词：climaxing 第
 climb 过去式：climbed 过去分词：climbed 现在分词：climbing 第三人称单数：climbs 
 cling 过去式：clung 过去分词：clung 现在分词：clinging 第三人称单数：clings 
 clinic 复数：clinics 
-clip 复数：clips 过去式：clipped 过去分词：clipped clipt 现在分词：clipping 第三人称单数：clips 
+clip 复数：clips 过去式：clipped 过去分词：clipped/clipt 现在分词：clipping 第三人称单数：clips 
 cloak 复数：cloaks 过去式：cloaked 过去分词：cloaked 现在分词：cloaking 第三人称单数：cloaks 
 clock 复数：clocks 过去式：clocked 过去分词：clocked 现在分词：clocking 第三人称单数：clocks 
 clockwise 
@@ -879,7 +879,7 @@ combine 过去式：combined 过去分词：combined 现在分词：combining �
 come 过去式：came 过去分词：come 现在分词：coming 第三人称单数：comes 
 comedy 复数：comedies 
 comfort 复数：comforts 过去式：comforted 过去分词：comforted 现在分词：comforting 第三人称单数：comforts 
-comfortable 比较级：more comfortable 最高级：most comfortable 
+comfortable 比较级：more-comfortable 最高级：most-comfortable 
 comic 复数：comics 
 command 复数：commands 过去式：commanded 过去分词：commanded 现在分词：commanding 第三人称单数：commands 
 commemorate 过去式：commemorated 过去分词：commemorated 现在分词：commemorating 第三人称单数：commemorates 
@@ -920,7 +920,7 @@ complain 过去式：complained 过去分词：complained 现在分词：complai
 complaint 复数：complaints 
 complement 复数：complements 过去式：complemented 过去分词：complemented 现在分词：complementing 第三人称单数：complements 
 complete 过去式：completed 过去分词：completed 现在分词：completing 第三人称单数：completes 
-complex 复数：complexes 比较级：more complex 最高级：most complex 
+complex 复数：complexes 比较级：more-complex 最高级：most-complex 
 complicate 过去式：complicated 过去分词：complicated 现在分词：complicating 第三人称单数：complicates 
 complicated 
 complication 复数：complications 
@@ -963,7 +963,7 @@ confer 过去式：conferred 过去分词：conferred 现在分词：conferring 
 conference 复数：conferences 
 confess 过去式：confessed 过去分词：confessed 现在分词：confessing 第三人称单数：confesses 
 confidence 复数：confidences 
-confident 复数：confidents 比较级：more confident 最高级：most confident 
+confident 复数：confidents 比较级：more-confident 最高级：most-confident 
 confidential
 confine 过去式：confined 过去分词：confined 现在分词：confining 第三人称单数：confines 
 confirm 过去式：confirmed 过去分词：confirmed 现在分词：confirming 第三人称单数：confirms 
@@ -990,13 +990,13 @@ consent 过去式：consented 过去分词：consented 现在分词：consenting
 consequence 复数：consequences 
 consequently
 conservation 复数：conservations 
-conservative 复数：conservatives 比较级：more conservative 最高级：most conservative 
+conservative 复数：conservatives 比较级：more-conservative 最高级：most-conservative 
 consider 过去式：considered 过去分词：considered 现在分词：considering 第三人称单数：considers 
-considerable 比较级：more considerable 最高级：most considerable 
+considerable 比较级：more-considerable 最高级：most-considerable 
 considerate
 consideration 复数：considerations 
 consist 过去式：consisted 过去分词：consisted 现在分词：consisting 第三人称单数：consists 
-consistent 比较级：more consistent 最高级：most consistent 
+consistent 比较级：more-consistent 最高级：most-consistent 
 console 复数：consoles 
 consolidate 过去式：consolidated 过去分词：consolidated 现在分词：consolidating 第三人称单数：consolidates 
 conspicuous 
@@ -1123,7 +1123,7 @@ creep 过去式：crept 过去分词：crept 现在分词：creeping 第三人�
 crew 复数：crews 过去式：crewed 过去分词：crewed 现在分词：crewing 第三人称单数：crews 
 cricket 复数：crickets 
 crime 复数：crimes 过去式：crimed 过去分词：crimed 现在分词：criming 第三人称单数：crimes 
-criminal 复数：criminals 比较级：more criminal 最高级：most criminal 
+criminal 复数：criminals 比较级：more-criminal 最高级：most-criminal 
 cripple 复数：cripples 过去式：crippled 过去分词：crippled 现在分词：crippling 第三人称单数：cripples 
 crisis 复数：crises 
 crisp 复数：crisps 过去式：crisped 过去分词：crisped 现在分词：crisping 第三人称单数：crisps 比较级：crisper 最高级：crispest 
@@ -1134,10 +1134,10 @@ criticism 复数：criticisms
 criticize 过去式：criticized 过去分词：criticized 现在分词：criticizing 第三人称单数：criticizes 
 crop 复数：crops 过去式：cropped 过去分词：cropped 现在分词：cropping 第三人称单数：crops 
 cross 复数：crosses 过去式：crossed 过去分词：crossed 现在分词：crossing 第三人称单数：crosses 比较级：crosser 最高级：crossest 
-crow 复数：crows 过去式：crowed crew 过去分词：crowed 现在分词：crowing 第三人称单数：crows 
+crow 复数：crows 过去式：crowed/crew 过去分词：crowed 现在分词：crowing 第三人称单数：crows 
 crowd 复数：crowds 过去式：crowded 过去分词：crowded 现在分词：crowding 第三人称单数：crowds 
 crown 复数：crowns 过去式：crowned 过去分词：crowned 现在分词：crowning 第三人称单数：crowns 
-crucial 比较级：more crucial 最高级：most crucial 
+crucial 比较级：more-crucial 最高级：most-crucial 
 crude 比较级：cruder 最高级：crudest 
 cruel 比较级：crueller 最高级：cruellest 
 cruise 第三人称单数：cruises过去式：cruised过去分词：cruised现在分词：cruising
@@ -1160,7 +1160,7 @@ curious
 curl 复数：curls 过去式：curled 过去分词：curled 现在分词：curling 第三人称单数：curls 
 currency 复数：currencies 
 current 复数：currents 
-curriculum 复数：curricula curriculums 
+curriculum 复数：curricula/curriculums 
 curse 复数：curses 过去式：cursed 过去分词：cursed 现在分词：cursing 第三人称单数：curses 
 curtain 复数：curtains 
 curve 复数：curves 过去式：curved 过去分词：curved 现在分词：curving 第三人称单数：curves 
@@ -1180,7 +1180,7 @@ damn 复数：damns 过去式：damned 过去分词：damned 现在分词：damn
 damp 过去式：damped 过去分词：damped 现在分词：damping 第三人称单数：damps 比较级：damper 最高级：dampest 
 dance 复数：dances 过去式：danced 过去分词：danced 现在分词：dancing 第三人称单数：dances 
 danger 复数：dangers 
-dangerous 比较级：more dangerous 最高级：most dangerous 
+dangerous 比较级：more-dangerous 最高级：most-dangerous 
 dare 第三人称单数：dares过去式：dared过去分词：dared现在分词：daring
 dark 比较级：darker 最高级：darkest 
 darling 复数：darlings 
@@ -1208,7 +1208,7 @@ debt 复数：debts
 decade 复数：decades
 decay 过去式：decayed 过去分词：decayed 现在分词：decaying 第三人称单数：decays 
 deceit 复数：deceits 
-deceive 去式：deceived 过去分词：deceived 现在分词：deceiving 第三人称单数：deceives 
+deceive 过去式：deceived 过去分词：deceived 现在分词：deceiving 第三人称单数：deceives 
 December 复数：Decembers 
 decent
 decide 过去式：decided 过去分词：decided 现在分词：deciding 第三人称单数：decides 
@@ -1350,7 +1350,7 @@ diploma 复数：diplomas
 diplomatic
 direct 过去式：directed 过去分词：directed 现在分词：directing 第三人称单数：directs 
 direction 复数：directions 
-directly 比较级：more directly 最高级：most directly 
+directly 比较级：more-directly 最高级：most-directly 
 director 复数：directors 
 directory 复数：directories 
 dirt 复数：dirts 
@@ -1409,7 +1409,7 @@ district 复数：districts
 disturb 过去式：disturbed 过去分词：disturbed 现在分词：disturbing 第三人称单数：disturbs 
 disturbance 复数：disturbances 
 ditch 复数：ditches 过去式：ditched 过去分词：ditched 现在分词：ditching 第三人称单数：ditches 
-dive 过去式：dived dove 过去分词：dived 现在分词：diving 第三人称单数：dives 
+dive 过去式：dived/dove 过去分词：dived 现在分词：diving 第三人称单数：dives 
 diverse 
 diversion 复数：diversions 
 divert 过去式：diverted 过去分词：diverted 现在分词：diverting 第三人称单数：diverts 
@@ -1461,7 +1461,7 @@ drawback 复数：drawbacks
 drawer 复数：drawers 
 drawing 复数：drawings
 dread 复数：dreads 过去式：dreaded 过去分词：dreaded 现在分词：dreading 第三人称单数：dreads 
-dream 复数：dreams第三人称单数：dreams过去式：dreamed  dreamt过去分词：dreamed  dreamt现在分词：dreaming
+dream 复数：dreams第三人称单数：dreams 过去式：dreamed/dreamt 过去分词：dreamed/dreamt 现在分词：dreaming
 dress 复数：dresses 过去式：dressed 过去分词：dressed 现在分词：dressing 第三人称单数：dresses 
 drift 复数：drifts 过去式：drifted 过去分词：drifted 现在分词：drifting 第三人称单数：drifts 
 drill 复数：drills第三人称单数：drills过去式：drilled过去分词：drilled现在分词：drilling
@@ -1476,7 +1476,7 @@ drown 过去式：drowned 过去分词：drowned 现在分词：drowning 第三�
 drug 复数：drugs 过去式：drugged 过去分词：drugged 现在分词：drugging 第三人称单数：drugs 
 drum 过去式：drummed 过去分词：drummed 现在分词：drumming 第三人称单数：drums 
 drunk 复数：drunks 
-dry 复数：dries 过去式：dried 过去分词：dried 现在分词：drying 第三人称单数：dries 比较级：drier dryer 最高级：driest 
+dry 复数：dries 过去式：dried 过去分词：dried 现在分词：drying 第三人称单数：dries 比较级：drier/dryer 最高级：driest 
 dubious 
 duck 复数：ducks 过去式：ducked 过去分词：ducked 现在分词：ducking 第三人称单数：ducks 
 due 复数：dues 
@@ -1484,14 +1484,14 @@ dull 过去式：dulled 过去分词：dulled 现在分词：dulling 第三人�
 dumb 比较级：dumber 最高级：dumbest 
 dump 过去式：dumped 过去分词：dumped 现在分词：dumping 第三人称单数：dumps 
 duplicate 复数：duplicates 过去式：duplicated 过去分词：duplicated 现在分词：duplicating 第三人称单数：duplicates 
-durable 复数：durables 比较级：more durable 最高级：most durable 
+durable 复数：durables 比较级：more-durable 最高级：most-durable 
 duration 复数：durations 
 during 
 dusk 过去式：dusked 过去分词：dusked 现在分词：dusking 第三人称单数：dusks 
 dust 复数：dusts 过去式：dusted 过去分词：dusted 现在分词：dusting 第三人称单数：dusts 
 duty 复数：duties 
-dwarf 复数：dwarves dwarfs 过去式：dwarfed 过去分词：dwarfed 现在分词：dwarfing 第三人称单数：dwarfs 
-dwell 过去式：dwelt dwelled 过去分词：dwelt dwelled 现在分词：dwelling 第三人称单数：dwells 
+dwarf 复数：dwarves/dwarfs 过去式：dwarfed 过去分词：dwarfed 现在分词：dwarfing 第三人称单数：dwarfs 
+dwell 过去式：dwelt/dwelled 过去分词：dwelt/dwelled 现在分词：dwelling 第三人称单数：dwells 
 dwelling 复数：dwellings 
 dye 复数：dyes 过去式：dyed 过去分词：dyed 现在分词：dyeing 第三人称单数：dyes 
 dynamic 复数：dynamics 
@@ -1529,7 +1529,7 @@ editorial 复数：editorials
 educate 过去式：educated 过去分词：educated 现在分词：educating 第三人称单数：educates 
 education 
 effect 复数：effects 过去式：effected 过去分词：effected 现在分词：effecting 第三人称单数：effects 
-effective 复数：effectives 比较级：more effective 最高级：most effective 
+effective 复数：effectives 比较级：more-effective 最高级：most-effective 
 efficiency 复数：efficiencies 
 efficient
 effort 复数：efforts 
@@ -1563,7 +1563,7 @@ eleven 复数：elevens
 eligible 复数：eligibles 
 eliminate 过去式：eliminated 过去分词：eliminated 现在分词：eliminating 第三人称单数：eliminates 
 elite 复数：elites 
-eloquent 比较级：more eloquent 最高级：most eloquent 
+eloquent 比较级：more-eloquent 最高级：most-eloquent 
 else 
 elsewhere 
 e-mail 复数：e-mails 过去式：e-mailed 过去分词：e-mailed 现在分词：e-mailing 第三人称单数：e-mails 
@@ -1640,7 +1640,7 @@ envy 复数：envies 过去式：envied 过去分词：envied 现在分词：env
 epidemic 复数：epidemics 
 episode 复数：episodes 
 epoch 复数：epoches
-equal 复数：equals 过去式：equalled equaled 过去分词：equalled equaled 现在分词：equalling equaling 第三人称单数：equals 
+equal 复数：equals 过去式：equalled/equaled 过去分词：equalled/equaled 现在分词：equalling/equaling 第三人称单数：equals 
 equality 复数：equalities 
 equation 复数：equations 
 equator 复数：equators 
@@ -1686,11 +1686,11 @@ everything
 everywhere 
 evidence 复数：evidences 过去式：evidenced 过去分词：evidenced 现在分词：evidencing 第三人称单数：evidences 
 evident 
-evil 复数：evils 比较级：eviler eviller 最高级：evilest evillest 
+evil 复数：evils 比较级：eviler/eviller 最高级：evilest/evillest 
 evoke 过去式：evoked 过去分词：evoked 现在分词：evoking 第三人称单数：evokes 
 evolution 复数：evolutions 
 evolve 过去式：evolved 过去分词：evolved 现在分词：evolving 第三人称单数：evolves 
-exact 过去式：exacted 过去分词：exacted 现在分词：exacting 第三人称单数：exacts 比较级：exacter more exact 最高级：exactest most exact 
+exact 过去式：exacted 过去分词：exacted 现在分词：exacting 第三人称单数：exacts 比较级：exacter/more-exact 最高级：exactest/most-exact 
 exaggerate 过去式：exaggerated 过去分词：exaggerated 现在分词：exaggerating 第三人称单数：exaggerates 
 exam 复数：exams 
 examine 过去式：examined 过去分词：examined 现在分词：examining 第三人称单数：examines 
@@ -1738,7 +1738,7 @@ expel 过去式：expelled 过去分词：expelled 现在分词：expelling 第�
 expend 过去式：expended 过去分词：expended 现在分词：expending 第三人称单数：expends 
 expenditure 复数：expenditures 
 expense 复数：expenses 过去式：expensed 过去分词：expensed 现在分词：expensing 第三人称单数：expenses 
-expensive 比较级：more expensive 最高级：most expensive 
+expensive 比较级：more-expensive 最高级：most-expensive 
 experience 复数：experiences 过去式：experienced 过去分词：experienced 现在分词：experiencing 第三人称单数：experiences 
 experiment 复数：experiments 过去式：experimented 过去分词：experimented 现在分词：experimenting 第三人称单数：experiments 
 experimental 
@@ -1758,7 +1758,7 @@ expose 过去式：exposed 过去分词：exposed 现在分词：exposing 第三
 exposure 复数：exposures 
 express 复数：expresses 过去式：expressed 过去分词：expressed 现在分词：expressing 第三人称单数：expresss 
 expression 复数：expressions 
-exquisite 复数：exquisites 比较级：more exquisite 最高级：most exquisite 
+exquisite 复数：exquisites 比较级：more-exquisite 最高级：most-exquisite 
 extend 过去式：extended 过去分词：extended 现在分词：extending 第三人称单数：extends 
 extension 复数：extensions 
 extensive 
@@ -1772,7 +1772,7 @@ extract 复数：extracts 过去式：extracted 过去分词：extracted 现在�
 extraordinary 
 extravagant 
 extreme 复数：extremes 
-eye 复数：eyes 过去式：eyed 过去分词：eyed 现在分词：eyeing eying 第三人称单数：eyes 
+eye 复数：eyes 过去式：eyed 过去分词：eyed 现在分词：eyeing/eying 第三人称单数：eyes 
 eyebrow 复数：eyebrows 
 eyesight 
 fable 复数：fables 过去式：fabled 过去分词：fabled 现在分词：fabling 第三人称单数：fables 
@@ -1791,7 +1791,7 @@ fail 过去式：failed 过去分词：failed 现在分词：failing 第三人�
 failure 复数：failures 
 faint 复数：faints 过去式：fainted 过去分词：fainted 现在分词：fainting 第三人称单数：faints 比较级：fainter 最高级：faintest 
 fair 复数：fairs 过去式：faired 过去分词：faired 现在分词：fairing 第三人称单数：fairs 比较级：fairer 最高级：fairest 
-fairly 比较级：more fairly 最高级：most fairly 
+fairly 比较级：more-fairly 最高级：most-fairly 
 fairy 复数：fairies 
 faith 
 faithful 复数：faithfuls 
@@ -1807,7 +1807,7 @@ fan 复数：fans 过去式：fanned 过去分词：fanned 现在分词：fannin
 fancy 复数：fancies 过去式：fancied 过去分词：fancied 现在分词：fancying 第三人称单数：fancies 比较级：fancier 最高级：fanciest 
 fantastic 
 fantasy 复数：fantasies 过去式：fantasied 过去分词：fantasied 现在分词：fantasying 第三人称单数：fantasies 
-far 比较级：farther further 最高级：farthest furthest 
+far 比较级：farther/further 最高级：farthest/furthest 
 fare 复数：fares 
 farewell 复数：farewells 
 farm 复数：farms 过去式：farmed 过去分词：farmed 现在分词：farming 第三人称单数：farms 
@@ -1827,7 +1827,7 @@ fault 复数：faults 过去式：faulted 过去分词：faulted 现在分词：
 faulty 比较级：faultier 最高级：faultiest 
 favor 复数：favors 过去式：favored 过去分词：favored 现在分词：favoring 第三人称单数：favors 
 favorable 
-favorite 复数：favorites 比较级：more favorite 最高级：most favorite 
+favorite 复数：favorites 比较级：more-favorite 最高级：most-favorite 
 fax 复数：faxes 过去式：faxed 过去分词：faxed 现在分词：faxing 第三人称单数：faxes 
 fear 过去式：feared 过去分词：feared 现在分词：fearing 第三人称单数：fears 
 fearful 
@@ -1886,13 +1886,13 @@ fireman 复数：firemen
 fireplace 复数：fireplaces 
 firm 复数：firms 过去式：firmed 过去分词：firmed 现在分词：firming 第三人称单数：firms 比较级：firmer 最高级：firmest 
 first 复数：firsts 
-fish 复数：fish fishes 过去式：fished 过去分词：fished 现在分词：fishing 第三人称单数：fishes 
+fish 复数：fish/fishes 过去式：fished 过去分词：fished 现在分词：fishing 第三人称单数：fishes 
 fisherman 复数：fishermen 
 fist 复数：fists 过去式：fisted 过去分词：fisted 现在分词：fisting 第三人称单数：fists 
 fit 复数：fits 过去式：fitted 过去分词：fitted 现在分词：fitting 第三人称单数：fits 比较级：fitter 最高级：fittest 
 fitting 复数：fittings 
 five 复数：fives 
-fix 复数：fixes 过去式：fixed fixt 过去分词：fixed fixt 现在分词：fixing 第三人称单数：fixes 
+fix 复数：fixes 过去式：fixed/fixt 过去分词：fixed/fixt 现在分词：fixing 第三人称单数：fixes 
 fixture 复数：fixtures 
 flag 复数：flags 
 flame 复数：flames 过去式：flamed 过去分词：flamed 现在分词：flaming 第三人称单数：flames 
@@ -1924,7 +1924,7 @@ fluid 复数：fluids
 flush 复数：flushes 过去式：flushed 过去分词：flushed 现在分词：flushing 第三人称单数：flushes 
 fly 复数：flies 过去式：flew 过去分词：flown 现在分词：flying 第三人称单数：flies 
 foam 复数：foams 过去式：foamed 过去分词：foamed 现在分词：foaming 第三人称单数：foams 
-focus 复数：foci focuses 过去式：focused 过去分词：focused 现在分词：focusing 第三人称单数：focuses 
+focus 复数：foci/focuses 过去式：focused 过去分词：focused 现在分词：focusing 第三人称单数：focuses 
 fog 过去式：fogged 过去分词：fogged 现在分词：fogging 第三人称单数：fogs 
 fold 过去式：folded 过去分词：folded 现在分词：folding 第三人称单数：folds 
 folk 复数：folks 
@@ -1934,14 +1934,14 @@ fond 比较级：fonder 最高级：fondest
 food 复数：foods 
 fool 复数：fools 过去式：fooled 过去分词：fooled 现在分词：fooling 第三人称单数：fools 
 foolish 
-foot 数：feet 过去式：footed 过去分词：footed 现在分词：footing 第三人称单数：foots 
+foot 复数：feet 过去式：footed 过去分词：footed 现在分词：footing 第三人称单数：foots 
 football 复数：footballs 
 footstep 复数：footsteps 
 for 
 forbid 过去式：forbade 过去分词：forbidden 现在分词：forbidding 第三人称单数：forbids 
 force 复数：forces 过去式：forced 过去分词：forced 现在分词：forcing 第三人称单数：forces 
 fore 
-forecast 复数：forecasts 过去式：forecast forecasted 过去分词：forecast forecasted 现在分词：forecasting 第三人称单数：forecasts 
+forecast 复数：forecasts 过去式：forecast/forecasted 过去分词：forecast/forecasted 现在分词：forecasting 第三人称单数：forecasts 
 forehead 复数：foreheads 
 foreign
 foreigner 复数：foreigners 
@@ -1967,7 +1967,7 @@ fortnight 复数：fortnights
 fortunate 复数：fortunates 
 fortune 复数：fortunes 过去式：fortuned 过去分词：fortuned 现在分词：fortuning 第三人称单数：fortunes 
 forty 复数：forties 
-forum 复数：forums fora 
+forum 复数：forums/fora 
 forward 复数：forwards 过去式：forwarded 过去分词：forwarded 现在分词：forwarding 第三人称单数：forwards 
 fossil 复数：fossils 
 foster 过去式：fostered 过去分词：fostered 现在分词：fostering 第三人称单数：fosters 
@@ -2021,11 +2021,11 @@ fume 过去式：fumed 过去分词：fumed 现在分词：fuming 第三人称�
 fun 过去式：funned 过去分词：funned 现在分词：funning 第三人称单数：funs 
 function 复数：functions 过去式：functioned 过去分词：functioned 现在分词：functioning 第三人称单数：functions 
 fund 复数：funds 
-fundamental 复数：fundamentals 比较级：more fundamental 最高级：most fundamental 
+fundamental 复数：fundamentals 比较级：more-fundamental 最高级：most-fundamental 
 funeral 复数：funerals 
 funny 复数：funnies 比较级：funnier 最高级：funniest 
 fur 复数：furs 
-furious 比较级：more furious 最高级：most furious 
+furious 比较级：more-furious 最高级：most-furious 
 furnace 复数：furnaces 
 furnish 过去式：furnished 过去分词：furnished 现在分词：furnishing 第三人称单数：furnishes 
 furniture  
@@ -2078,7 +2078,7 @@ geology
 geometry 复数：geometries
 germ 复数：germs
 gesture 复数：gestures第三人称单数：gestures过去式：gestured过去分词：gestured现在分词：gesturing
-get 第三人称单数：gets过去式：got过去分词：got  gotten现在分词：getting
+get 第三人称单数：gets 过去式：got 过去分词：got/gotten 现在分词：getting
 ghost 复数：ghosts
 giant 复数：giants
 gift 复数：gifts
@@ -2097,7 +2097,7 @@ glitter 第三人称单数：glitters过去式：glittered过去分词：glitter
 global 
 globe 复数：globes第三人称单数：globes过去式：globed过去分词：globed现在分词：globing
 gloomy 比较级：gloomier最高级：gloomiest
-glorious 比较级：more glorious最高级：most glorious
+glorious 比较级：more-glorious最高级：most-glorious
 glory 复数：glories第三人称单数：glories过去式：gloried过去分词：gloried现在分词：glorying
 glove 复数：gloves第三人称单数：gloves过去式：gloved过去分词：gloved现在分词：gloving
 glow 第三人称单数：glows过去式：glowed过去分词：glowed现在分词：glowing
@@ -2140,7 +2140,7 @@ grasp 第三人称单数：grasps过去式：grasped过去分词：grasped现在
 grass 复数：grasses第三人称单数：grasses过去式：grassed过去分词：grassed现在分词：grassing
 grateful 
 gratitude 
-grave 复数：graves第三人称单数：graves过去式：graved过去分词：graven  graved现在分词：graving
+grave 复数：graves 第三人称单数：graves 过去式：graved 过去分词：graven/graved 现在分词：graving
 gravity 
 graze 第三人称单数：grazes过去式：grazed过去分词：grazed现在分词：grazing
 grease 复数：greases第三人称单数：greases过去式：greased过去分词：greased现在分词：greasing
@@ -2156,7 +2156,7 @@ grieve 第三人称单数：grieves过去式：grieved过去分词：grieved现�
 grim 比较级：grimmer最高级：grimmest
 grin 复数：grins第三人称单数：grins过去式：grined过去分词：grined现在分词：grining
 grind 复数：grinds第三人称单数：grinds过去式：ground过去分词：ground现在分词：grinding
-grip 复数：grips第三人称单数：grips过去式：gripped gript过去分词：gripped现在分词：gripping
+grip 复数：grips 第三人称单数：grips 过去式：gripped/gript 过去分词：gripped 现在分词：gripping
 groan 复数：groans第三人称单数：groans过去式：groaned过去分词：groaned现在分词：groaning
 grocer 复数：grocers
 grope 第三人称单数：gropes过去式：groped过去分词：groped现在分词：groping
@@ -2181,7 +2181,7 @@ gum 第三人称单数：gums过去式：gummed过去分词：gummed现在分词
 gun 复数：guns第三人称单数：guns过去式：gunned过去分词：gunned现在分词：gunning
 gut 复数：guts第三人称单数：guts过去式：gutted过去分词：gutted现在分词：gutting
 guy 复数：guys第三人称单数：guys过去式：guyed过去分词：guyed现在分词：guying
-gymnasium 复数：gymnasia gymnasiums
+gymnasium 复数：gymnasia/gymnasiums
 habit 复数：habits第三人称单数：habits过去式：habited过去分词：habited现在分词：habiting
 habitat 复数：habitats 
 hail 过去式：hailed 过去分词：hailed 现在分词：hailing 第三人称单数：hails 
@@ -2197,12 +2197,12 @@ hand 复数：hands 过去式：handed 过去分词：handed 现在分词：hand
 handbook 复数：handbooks 
 handful 复数：handfuls 
 handicap 复数：handicaps 过去式：handicapped 过去分词：handicapped 现在分词：handicapping 第三人称单数：handicaps 
-handkerchief 复数：handkerchieves handkerchiefs 
+handkerchief 复数：handkerchieves/handkerchiefs 
 handle 复数：handles 过去式：handled 过去分词：handled 现在分词：handling 第三人称单数：handles 
 handsome 比较级：handsomer 最高级：handsomest 
 handwriting 复数：handwritings 
 handy 比较级：handier 最高级：handiest 
-hang 过去式：hung hanged 过去分词：hung hanged 现在分词：hanging 第三人称单数：hangs 
+hang 过去式：hung/hanged 过去分词：hung/hanged 现在分词：hanging 第三人称单数：hangs 
 happen 过去式：happened 过去分词：happened 现在分词：happening 第三人称单数：happens 
 happy 比较级：happier 最高级：happiest 
 harassment 
@@ -2244,7 +2244,7 @@ hear 过去式：heard 过去分词：heard 现在分词：hearing 第三人称�
 hearing 复数：hearings 
 heart 复数：hearts 过去式：hearted 过去分词：hearted 现在分词：hearting 第三人称单数：hearts 
 heat 复数：heats 过去式：heated 过去分词：heated 现在分词：heating 第三人称单数：heats 
-heave 过去式：heaved hove 过去分词：heaved hove 现在分词：heaving 第三人称单数：heaves 
+heave 过去式：heaved/hove 过去分词：heaved/hove 现在分词：heaving 第三人称单数：heaves 
 heaven 复数：heavens 
 heavy 复数：heavies 比较级：heavier 最高级：heaviest 
 hedge 复数：hedges 
@@ -2294,14 +2294,14 @@ hip 复数：hips 过去式：hipped 过去分词：hipped 现在分词：hippin
 hire 复数：hires 过去式：hired 过去分词：hired 现在分词：hiring 第三人称单数：hires 
 his 
 historian 复数：historians 
-historic 比较级：more historic 最高级：most historic 
+historic 比较级：more-historic 最高级：most-historic 
 historical  
 history 复数：histories 
 hit 复数：hits 过去式：hit 过去分词：hit 现在分词：hitting 第三人称单数：hits 
 hitherto 
 hobby 复数：hobbies 
 hoist 过去式：hoisted 过去分词：hoisted 现在分词：hoisting 第三人称单数：hoists 
-hold 过去式：held 过去分词：held holden 现在分词：holding 第三人称单数：holds 
+hold 过去式：held 过去分词：held/holden 现在分词：holding 第三人称单数：holds 
 holder 复数：holders 
 hole 复数：holes 过去式：holed 过去分词：holed 现在分词：holing 第三人称单数：holes 
 holiday 复数：holidays 过去式：holidayed 过去分词：holidayed 现在分词：holidaying 第三人称单数：holidays 
@@ -2325,7 +2325,7 @@ horrible
 horror 复数：horrors 
 horse 复数：horses 过去式：horsed 过去分词：horsed 现在分词：horsing 第三人称单数：horses 
 horsepower 复数：horsepowers 
-hose 复数：hose hoses hosen 过去式：hosed 过去分词：hosed 现在分词：hosing 第三人称单数：hoses 
+hose 复数：hose/hoses/hosen 过去式：hosed 过去分词：hosed 现在分词：hosing 第三人称单数：hoses 
 hospital 复数：hospitals 
 hospitality 复数：hospitalities 
 host 复数：hosts 过去式：hosted 过去分词：hosted 现在分词：hosting 第三人称单数：hosts 
@@ -2387,7 +2387,7 @@ idle 过去式：idled 过去分词：idled 现在分词：idling 第三人称�
 if 复数：ifs 
 ignite 过去式：ignited 过去分词：ignited 现在分词：igniting 第三人称单数：ignites 
 ignorance 
-ignorant 比较级：more ignorant 最高级：most ignorant 
+ignorant 比较级：more-ignorant 最高级：most-ignorant 
 ignore 过去式：ignored 过去分词：ignored 现在分词：ignoring 第三人称单数：ignores 
 ill 比较级：worse 最高级：worst 
 illegal 复数：illegals 
@@ -2412,7 +2412,7 @@ immune
 impact 复数：impacts 过去式：impacted 过去分词：impacted 现在分词：impacting 第三人称单数：impacts 
 impair 过去式：impaired 过去分词：impaired 现在分词：impairing 第三人称单数：impairs 
 impart 过去式：imparted 过去分词：imparted 现在分词：imparting 第三人称单数：imparts 
-impatient 比较级：more impatient 最高级：most impatient 
+impatient 比较级：more-impatient 最高级：most-impatient 
 imperative 复数：imperatives 
 imperial 复数：imperials 
 impetus 
@@ -2444,12 +2444,12 @@ income 复数：incomes
 incorporate 过去式：incorporated 过去分词：incorporated 现在分词：incorporating 第三人称单数：incorporates 
 increase 复数：increases 过去式：increased 过去分词：increased 现在分词：increasing 第三人称单数：increases 
 increasingly 
-incredible 比较级：more incredible 最高级：most incredible 
+incredible 比较级：more-incredible 最高级：most-incredible 
 incur 过去式：incurred 过去分词：incurred 现在分词：incurring 第三人称单数：incurs 
 indeed 
 independence 
-independent 复数：independents 比较级：more independent 最高级：most independent 
-index 复数：indexes indices 过去式：indexed 过去分词：indexed 现在分词：indexing 第三人称单数：indexes 
+independent 复数：independents 比较级：more-independent 最高级：most-independent 
+index 复数：indexes/indices 过去式：indexed 过去分词：indexed 现在分词：indexing 第三人称单数：indexes 
 indicate 过去式：indicated 过去分词：indicated 现在分词：indicating 第三人称单数：indicates 
 indication 复数：indications 
 indicative 复数：indicatives 
@@ -2489,7 +2489,7 @@ inhale 过去式：inhaled 过去分词：inhaled 现在分词：inhaling 第三
 inherent 
 inherit 过去式：inherited 过去分词：inherited 现在分词：inheriting 第三人称单数：inherits 
 inhibit 过去式：inhibited 过去分词：inhibited 现在分词：inhibiting 第三人称单数：inhibits 
-initial 复数：initials 过去式：initialled initialled 过去分词：initialled initialled 现在分词：initialling initialling 第三人称单数：initials 
+initial 复数：initials 过去式：initialled/initialled 过去分词：initialled/initialled 现在分词：initialling/initialling 第三人称单数：initials 
 initiate 过去式：initiated 过去分词：initiated 现在分词：initiating 第三人称单数：initiates 
 initiative 复数：initiatives 
 inject 过去式：injected 过去分词：injected 现在分词：injecting 第三人称单数：injects 
@@ -2564,7 +2564,7 @@ intersection 复数：intersections
 interval 复数：intervals 
 intervene 过去式：intervened 过去分词：intervened 现在分词：intervening 第三人称单数：intervenes 
 interview 复数：interviews 过去式：interviewed 过去分词：interviewed 现在分词：interviewing 第三人称单数：interviews 
-intimate 复数：intimates 过去式：intimated 过去分词：intimated 现在分词：intimating 第三人称单数：intimates 比较级：more intimate 最高级：most intimate 
+intimate 复数：intimates 过去式：intimated 过去分词：intimated 现在分词：intimating 第三人称单数：intimates 比较级：more-intimate 最高级：most-intimate 
 intimidate 过去式：intimidated 过去分词：intimidated 现在分词：intimidating 第三人称单数：intimidates 
 into 
 intricate 
@@ -2667,7 +2667,7 @@ kit 复数：kits
 kitchen 复数：kitchens 
 kite 复数：kites 过去式：kited 过去分词：kited 现在分词：kiting 第三人称单数：kites 
 knee 复数：knees 过去式：kneed 过去分词：kneed 现在分词：kneeing 第三人称单数：knees 
-kneel 过去式：knelt kneeled 过去分词：knelt kneeled 现在分词：kneeling 第三人称单数：kneels 
+kneel 过去式：knelt/kneeled 过去分词：knelt/kneeled 现在分词：kneeling 第三人称单数：kneels 
 knife 复数：knives 过去式：knifed 过去分词：knifed 现在分词：knifing 第三人称单数：knives 
 knit 复数：knits 过去式：knitted 过去分词：knitted 现在分词：knitting 第三人称单数：knits 
 knob 复数：knobs 过去式：knobbed 过去分词：knobbed 现在分词：knobbing 第三人称单数：knobs 
@@ -2732,9 +2732,9 @@ leaf 复数：leaves 过去式：leafed 过去分词：leafed 现在分词：lea
 leaflet 复数：leaflets 过去式：leafleted 过去分词：leafleted 现在分词：leafleting 第三人称单数：leaflets 
 league 复数：leagues 过去式：leagued 过去分词：leagued 现在分词：leaguing 第三人称单数：leagues 
 leak 复数：leaks 过去式：leaked 过去分词：leaked 现在分词：leaking 第三人称单数：leaks 
-lean 过去式：leaned leant 过去分词：leaned leant 现在分词：leaning 第三人称单数：leans 
-leap 复数：leaps 过去式：leapt leaped 过去分词：leapt leaped 现在分词：leaping 第三人称单数：leaps 
-learn 过去式：learnt learned 过去分词：learnt learned 现在分词：learning 第三人称单数：learns 
+lean 过去式：leaned/leant 过去分词：leaned/leant 现在分词：leaning 第三人称单数：leans 
+leap 复数：leaps 过去式：leapt/leaped 过去分词：leapt/leaped 现在分词：leaping 第三人称单数：leaps 
+learn 过去式：learnt/learned 过去分词：learnt/learned 现在分词：learning 第三人称单数：learns 
 learned 
 learning 
 lease 复数：leases 过去式：leased 过去分词：leased 现在分词：leasing 第三人称单数：leases 
@@ -2759,12 +2759,12 @@ lesson 复数：lessons
 lest 
 let 过去式：let 过去分词：let 现在分词：letting 第三人称单数：lets 
 letter 复数：letters 过去式：lettered 过去分词：lettered 现在分词：lettering 第三人称单数：letters 
-level 复数：levels 过去式：leveled levelled 过去分词：leveled levelled 现在分词：leveling levelling 第三人称单数：levels 
+level 复数：levels 过去式：leveled/levelled 过去分词：leveled/levelled 现在分词：leveling/levelling 第三人称单数：levels 
 lever 复数：levers 
 levy 复数：levies 过去式：levied 过去分词：levied 现在分词：levying 第三人称单数：levies 
 liability 复数：liabilities 
 liable 
-liberal 复数：liberals 比较级：more liberal 最高级：most liberal 
+liberal 复数：liberals 比较级：more-liberal 最高级：most-liberal 
 liberate 过去式：liberated 过去分词：liberated 现在分词：liberating 第三人称单数：liberates 
 liberty 
 librarian 复数：librarians 
@@ -2772,15 +2772,15 @@ library 复数：libraries
 license 复数：licenses 过去式：licensed 过去分词：licensed 现在分词：licensing 第三人称单数：licenses 
 lick 过去式：licked 过去分词：licked 现在分词：licking 第三人称单数：licks 
 lid 复数：lids 过去式：lidded 过去分词：lidded 现在分词：lidding 第三人称单数：lids 
-lie 复数：lies 过去式：lay lied 过去分词：lain lied 现在分词：lying 第三人称单数：lies 
+lie 复数：lies 过去式：lay/lied 过去分词：lain/lied 现在分词：lying 第三人称单数：lies 
 life 复数：lives 
 lifetime 复数：lifetimes 
 lift 复数：lifts 过去式：lifted 过去分词：lifted 现在分词：lifting 第三人称单数：lifts 
-light 复数：lights 过去式：lit lighted 过去分词：lit lighted 现在分词：lighting 第三人称单数：lights 
+light 复数：lights 过去式：lit/lighted 过去分词：lit/lighted 现在分词：lighting 第三人称单数：lights 
 lightning 
 like 过去式：liked 过去分词：liked 现在分词：liking 第三人称单数：likes 
 likelihood 
-likely 比较级：more likely likelier 最高级：most likely likeliest 
+likely 比较级：more-likely/likelier 最高级：most-likely/likeliest 
 likewise 
 limb 复数：limbs 过去式：limbed 过去分词：limbed 现在分词：limbing 第三人称单数：limbs 
 limit 复数：limits 
@@ -2802,7 +2802,7 @@ list 复数：lists 过去式：listed 过去分词：listed 现在分词：list
 listen 过去式：listened 过去分词：listened 现在分词：listening 第三人称单数：listens 
 literacy 
 literally 
-literary 比较级：more literary 最高级：most literary 
+literary 比较级：more-literary 最高级：most-literary 
 literature 
 litre 复数：litres 
 litter 复数：litters 过去式：littered 过去分词：littered 现在分词：littering 第三人称单数：litters 
@@ -2850,7 +2850,7 @@ lovely 比较级：lovelier 最高级：loveliest
 lover 复数：lovers 
 low 复数：lows 过去式：lowed 过去分词：lowed 现在分词：lowing 第三人称单数：lows 比较级：lower 最高级：lowest 
 lower 过去式：lowered 过去分词：lowered 现在分词：lowering 第三人称单数：lowers 
-loyal 比较级：more loyal 最高级：most loyal 
+loyal 比较级：more-loyal 最高级：most-loyal 
 loyalty 复数：loyalties 
 lubricate 过去式：lubricated 过去分词：lubricated 现在分词：lubricating 第三人称单数：lubricates 
 luck 
@@ -2917,7 +2917,7 @@ married 过去式：married 过去分词：married 现在分词：marring 第三
 marry 过去式：married 过去分词：married 现在分词：marrying 第三人称单数：marries 
 marvelous 
 Marxist 复数：Marxists 
-masculine 比较级：more masculine 最高级：most masculine 
+masculine 比较级：more-masculine 最高级：most-masculine 
 mask 复数：masks 过去式：masked 过去分词：masked 现在分词：masking 第三人称单数：masks 
 mass 复数：masses 过去式：massed 过去分词：massed 现在分词：massing 第三人称单数：masses 
 massacre 复数：massacres 
@@ -2956,7 +2956,7 @@ medicine 复数：medicines 过去式：medicined 过去分词：medicined 现�
 medieval 
 meditate 过去式：meditated 过去分词：meditated 现在分词：meditating 第三人称单数：meditates 
 meditation 复数：meditations
-medium 复数：media mediums 
+medium 复数：media/mediums 
 meet 复数：meets 过去式：met 过去分词：met 现在分词：meeting 第三人称单数：meets 
 meeting 复数：meetings 
 melody 复数：melodies 
@@ -2999,7 +2999,7 @@ might
 migrate 过去式：migrated 过去分词：migrated 现在分词：migrating 第三人称单数：migrates 
 mild 比较级：milder 最高级：mildest 
 mile 复数：miles 
-militant 复数：militants 比较级：more militant 最高级：most militant 
+militant 复数：militants 比较级：more-militant 最高级：most-militant 
 military 复数：militaries 
 milk 过去式：milked 过去分词：milked 现在分词：milking 第三人称单数：milks 
 mill 复数：mills 过去式：milled 过去分词：milled 现在分词：milling 第三人称单数：mills 
@@ -3043,26 +3043,26 @@ mobile 复数：mobiles
 mobilize 过去式：mobilized 过去分词：mobilized 现在分词：mobilizing 第三人称单数：mobilizes 
 mock 复数：mocks 过去式：mocked 过去分词：mocked 现在分词：mocking 第三人称单数：mocks 
 mode 复数：modes 
-model 复数：models 过去式：modeled modelled 过去分词：modeled modelled 现在分词：modeling 第三人称单数：models 
+model 复数：models 过去式：modeled/modelled 过去分词：modeled/modelled 现在分词：modeling 第三人称单数：models 
 moderate 过去式：moderated 过去分词：moderated 现在分词：moderating 第三人称单数：moderates
-modern 复数：moderns 比较级：more modern 最高级：most modern 
-modernization 复数：modernizations modernisations 
-modest 比较级：more modest 最高级：most modest 
+modern 复数：moderns 比较级：more-modern 最高级：most-modern 
+modernization 复数：modernizations/modernisations 
+modest 比较级：more-modest 最高级：most-modest 
 modify 过去式：modified 过去分词：modified 现在分词：modifying 第三人称单数：modifies 
 module 复数：modules 
 moist 比较级：moister 最高级：moistest 
 moisture 
 molecule 复数：molecules 
 moment 复数：moments 
-momentum 复数：momentums momenta 
+momentum 复数：momentums/momenta 
 monarch 复数：monarchs 
 Monday 复数：Mondays
 monetary 
-money 复数：monies moneys 
+money 复数：monies/moneys 
 monitor 复数：monitors 过去式：monitored 过去分词：monitored 现在分词：monitoring 第三人称单数：monitors 
 monkey 复数：monkeys 过去式：monkeyed 过去分词：monkeyed 现在分词：monkeying 第三人称单数：monkeys 
 monopoly 复数：monopolies 
-monotonous 比较级：more monotonous 最高级：most monotonous 
+monotonous 比较级：more-monotonous 最高级：most-monotonous 
 monster 复数：monsters 
 month 复数：months 
 monthly 复数：monthlies
@@ -3077,7 +3077,7 @@ morning 复数：mornings
 mortal 复数：mortals 
 mortgage 复数：mortgages 过去式：mortgaged 过去分词：mortgaged 现在分词：mortgaging 第三人称单数：mortgages 
 mosaic 复数：mosaics 
-mosquito 复数：mosquitoes mosquitos 
+mosquito 复数：mosquitoes/mosquitos 
 moss 复数：mosses 
 most 
 mostly
@@ -3162,11 +3162,11 @@ neighborhood 复数：neighborhoods
 neither 
 nephew 复数：nephews 
 nerve 复数：nerves 过去式：nerved 过去分词：nerved 现在分词：nerving 第三人称单数：nerves 
-nervous 比较级：more nervous 最高级：most nervous 
+nervous 比较级：more-nervous 最高级：most-nervous 
 nest 复数：nests 过去式：nested 过去分词：nested 现在分词：nesting 第三人称单数：nests 
 net 复数：nets 过去式：netted 过去分词：netted 现在分词：netting 第三人称单数：nets 
 network 复数：networks 过去式：networked 过去分词：networked 现在分词：networking 第三人称单数：networks 
-neutral 复数：neutrals 比较级：more neutral 最高级：most neutral 
+neutral 复数：neutrals 比较级：more-neutral 最高级：most-neutral 
 never 
 nevertheless 
 new 比较级：newer 最高级：newest 
@@ -3231,7 +3231,7 @@ nuisance 复数：nuisances
 numb 过去式：numbed 过去分词：numbed 现在分词：numbing 第三人称单数：numbs 
 number 复数：numbers 过去式：numbered 过去分词：numbered 现在分词：numbering 第三人称单数：numbers 
 numerical 
-numerous 比较级：more numerous 最高级：most numerous 
+numerous 比较级：more-numerous 最高级：most-numerous 
 nurse 复数：nurses 过去式：nursed 过去分词：nursed 现在分词：nursing 第三人称单数：nurses 
 nursery 复数：nurseries 
 nurture 复数：nurtures 过去式：nurtured 过去分词：nurtured 现在分词：nurturing 第三人称单数：nurtures 
@@ -3274,17 +3274,17 @@ odor 复数：odors
 of 
 off 过去式：offed 过去分词：offed 现在分词：offing 第三人称单数：offs 
 offend 过去式：offended 过去分词：offended 现在分词：offending 第三人称单数：offends 
-offensive 复数：offensives 比较级：more offensive 最高级：most offensive 
+offensive 复数：offensives 比较级：more-offensive 最高级：most-offensive 
 offer 复数：offers 过去式：offered 过去分词：offered 现在分词：offering 第三人称单数：offers 
 office 复数：offices 
 officer 复数：officers 过去式：officered 过去分词：officered 现在分词：officering 第三人称单数：officers 
 official 复数：officials 
 offset 复数：offsets 过去式：offset 过去分词：offset 现在分词：offsetting 第三人称单数：offsets 
 offspring  复数：offsprings 
-often 比较级：more often 最高级：most often 
+often 比较级：more-often 最高级：most-often 
 oil 过去式：oiled 过去分词：oiled 现在分词：oiling 第三人称单数：oils 
 okay 过去式：okayed 过去分词：okayed 现在分词：okaying 第三人称单数：okays 
-old 比较级：older elderr 最高级：oldest eldest 
+old 比较级：older/elderr 最高级：oldest/eldest 
 omit 过去式：omitted 过去分词：omitted 现在分词：omitting 第三人称单数：omits 
 on 
 once 
@@ -3310,7 +3310,7 @@ oppress 过去式：oppressed 过去分词：oppressed 现在分词：oppressing
 opt 过去式：opted 过去分词：opted 现在分词：opting 第三人称单数：opts 
 optical 
 optimistic 
-optimum 复数：optima optimums 
+optimum 复数：optima/optimums 
 option 复数：options 过去式：optioned 过去分词：optioned 现在分词：optioning 第三人称单数：options 
 optional 
 or 
@@ -3359,7 +3359,7 @@ outrage 过去式：outranged 过去分词：outranged 现在分词：outranging
 outset 
 outside 复数：outsides 
 outskirts 
-outstanding 比较级：more outstanding 最高级：most outstanding 
+outstanding 比较级：more-outstanding 最高级：most-outstanding 
 outward 
 oval 复数：ovals 
 oven 复数：ovens 
@@ -3412,7 +3412,7 @@ palm 复数：palms第三人称单数：palms过去式：palmed过去分词：pa
 pamphlet 复数：pamphlets 
 pan 复数：pans 过去式：panned 过去分词：panned 现在分词：panning 第三人称单数：pans 
 panda 复数：pandas 
-panel 复数：panels 过去式：panelled paneled 过去分词：panelled paneled 现在分词：panelling paneling 第三人称单数：panels 
+panel 复数：panels 过去式：panelled/paneled 过去分词：panelled/paneled 现在分词：panelling/paneling 第三人称单数：panels 
 panic 复数：panics 过去式：panicked 过去分词：panicked 现在分词：panicking 第三人称单数：panics 
 panorama 复数：panoramas 
 pant 复数：pants 过去式：panted 过去分词：panted 现在分词：panting 第三人称单数：pants 
@@ -3428,7 +3428,7 @@ parallel 复数：parallels 过去式：parallelled 过去分词：parallelled �
 paralyze 过去式：paralyzed 过去分词：paralyzed 现在分词：paralyzing 第三人称单数：paralyzes 
 parameter 复数：parameters 
 parasite 复数：parasites 
-parcel 复数：parcels 过去式：parceled parcelled 过去分词：parceled parcelled 现在分词：parceling parcelling 第三人称单数：parcels 
+parcel 复数：parcels 过去式：parceled/parcelled 过去分词：parceled/parcelled 现在分词：parceling/parcelling 第三人称单数：parcels 
 pardon 过去式：pardoned 过去分词：pardoned 现在分词：pardoning 第三人称单数：pardons 
 parent 复数：parents 
 park 复数：parks第三人称单数：parks过去式：parked过去分词：parked现在分词：parking
@@ -3447,7 +3447,7 @@ passage 复数：passages
 passenger 复数：passengers 
 passer-by 复数：passers-by 
 passion 复数：passions 
-passive 复数：passives 比较级：more passive 最高级：most passive 
+passive 复数：passives 比较级：more-passive 最高级：most-passive 
 passport 复数：passports 
 past 复数：pasts 
 paste 复数：pastes 
@@ -3461,7 +3461,7 @@ pathetic
 patience 
 patient 复数：patients 
 patriotic 
-patrol 复数：patrols 过去式：patroled patrolled 过去分词：patroled patrolled 现在分词：patroling patrolling 第三人称单数：patrols 
+patrol 复数：patrols 过去式：patroled/patrolled 过去分词：patroled/patrolled 现在分词：patroling/patrolling 第三人称单数：patrols 
 patron 复数：patrons 
 pattern 复数：patterns 过去式：patterned 过去分词：patterned 现在分词：patterning 第三人称单数：patterns 
 pause 复数：pauses 过去式：paused 过去分词：paused 现在分词：pausing 第三人称单数：pauses 
@@ -3470,7 +3470,7 @@ pavement 复数：pavements
 paw 复数：paws 过去式：pawed 过去分词：pawed 现在分词：pawing 第三人称单数：paws 
 pay 过去式：paid 过去分词：paid 现在分词：paying 第三人称单数：pays 
 payment 复数：payments 
-pea 复数：peas pease 
+pea 复数：peas/pease 
 peace 复数：peaces 
 peaceful
 peach 复数：peaches 过去式：peached 过去分词：peached 现在分词：peaching 第三人称单数：peaches 
@@ -3481,19 +3481,19 @@ NULL
 pearl 复数：pearls 
 peasant 复数：peasants 
 pebble 复数：pebbles 过去式：pebbled 过去分词：pebbled 现在分词：pebbling 第三人称单数：pebbles 
-peculiar 比较级：more peculiar最高级：most peculiar
+peculiar 比较级：more-peculiar最高级：most-peculiar
 pedal 复数：pedals 过去式：pedaled 过去分词：pedaled 现在分词：pedaling 第三人称单数：pedals 
 pedestrian 复数：pedestrians 
 peel 复数：peels 过去式：peeled 过去分词：peeled 现在分词：peeling 第三人称单数：peels 
 peep 过去式：peeped 过去分词：peeped 现在分词：peeping 第三人称单数：peeps 
 peer 过去式：peered 过去分词：peered 现在分词：peering 第三人称单数：peers 
-pen 复数：pens 过去式：penned pent 过去分词：penned pent 现在分词：penning 第三人称单数：pens 
+pen 复数：pens 过去式：penned/pent 过去分词：penned/pent 现在分词：penning 第三人称单数：pens 
 penalty 复数：penalties 
-pencil 复数：pencils 过去式：penciled pencilled 过去分词：penciled pencilled 现在分词：penciling pencilling 第三人称单数：pencils 
+pencil 复数：pencils 过去式：penciled/pencilled 过去分词：penciled/pencilled 现在分词：penciling/pencilling 第三人称单数：pencils 
 pendulum 复数：pendulums 
 penetrate 过去式：penetrated 过去分词：penetrated 现在分词：penetrating 第三人称单数：penetrates 
 peninsula 复数：peninsulas 
-penny 复数：pennies pence 
+penny 复数：pennies/pence 
 pension 复数：pensions 
 people 复数：peoples 过去式：peopled 过去分词：peopled 现在分词：peopling 第三人称单数：peoples 
 pepper 复数：peppers 过去式：peppered 过去分词：peppered 现在分词：peppering 第三人称单数：peppers 
@@ -3526,7 +3526,7 @@ personnel 复数：personnels
 perspective 复数：perspectives 
 persuade 过去式：persuaded 过去分词：persuaded 现在分词：persuading 第三人称单数：persuades 
 persuasion 复数：persuasions 
-pessimistic 比较级：more pessimistic 最高级：most pessimistic 
+pessimistic 比较级：more-pessimistic 最高级：most-pessimistic 
 pest 复数：pests 
 pet 复数：pets 过去式：petted 过去分词：petted 现在分词：petting 第三人称单数：pets 
 petition 复数：petitions 过去式：petitioned 过去分词：petitioned 现在分词：petitioning 第三人称单数：petitions 
@@ -3535,7 +3535,7 @@ petroleum
 petty 复数：pretties 比较级：prettier 最高级：prettiest 
 pharmacy 复数：pharmacies 
 phase 复数：phases 过去式：phased 过去分词：phased 现在分词：phaseing 第三人称单数：phases 
-phenomenon 复数：phenomenons phenomena 
+phenomenon 复数：phenomenons/phenomena 
 philosopher 复数：philosophers 
 philosophy 
 phone 复数：phones 过去式：phoned 过去分词：phoned 现在分词：phoning 第三人称单数：phones 
@@ -3562,7 +3562,7 @@ pill 复数：pills 过去式：pilled 过去分词：pilled 现在分词：pill
 pillar 复数：pillars 
 pillow 复数：pillows 过去式：pillowed 过去分词：pillowed 现在分词：pillowing 第三人称单数：pillows 
 pilot 复数：pilots 过去式：piloted 过去分词：piloted 现在分词：piloting 第三人称单数：pilots 
-pin 复数：pins PINs 过去式：pinned 过去分词：pinned 现在分词：pinning 第三人称单数：pins 
+pin 复数：pins/PINs 过去式：pinned 过去分词：pinned 现在分词：pinning 第三人称单数：pins 
 pinch 过去式：pinched 过去分词：pinched 现在分词：pinching 第三人称单数：pinches 
 pine 复数：pines 过去式：pined 过去分词：pined 现在分词：pining 第三人称单数：pines 
 pink 复数：pinks 过去式：pinked 过去分词：pinked 现在分词：pinking 第三人称单数：pinks 比较级：pinker 最高级：pinkest 
@@ -3570,7 +3570,7 @@ pint 复数：pints
 pioneer 复数：pioneers 过去式：pioneered 过去分词：pioneered 现在分词：pioneering 第三人称单数：pioneers 
 pipe 复数：pipes 过去式：piped 过去分词：piped 现在分词：piping 第三人称单数：pipes 
 pirate 复数：pirates 
-pistol 复数：pistols 过去式：pistoled pistolled 过去分词：pistoled pistolled 现在分词：pistoling pistolling 第三人称单数：pistols 
+pistol 复数：pistols 过去式：pistoled/pistolled 过去分词：pistoled/pistolled 现在分词：pistoling/pistolling 第三人称单数：pistols 
 piston 复数：pistons 
 pit 复数：pits 过去式：pitted 过去分词：pitted 现在分词：pitting 第三人称单数：pits 
 pitch 复数：pitches 过去式：pitched 过去分词：pitched 现在分词：pitching 第三人称单数：pitches 
@@ -3593,7 +3593,7 @@ play 过去式：played 过去分词：played 现在分词：playing 第三人�
 playground 复数：playgrounds 
 plea 复数：pleas 
 plead 过去式：pleaded 过去分词：pleaded 现在分词：pleading 第三人称单数：pleads 
-pleasant 比较级：pleasanter more pleasant 最高级：pleasantest most pleasant 
+pleasant 比较级：pleasanter/more-pleasant 最高级：pleasantest/most-pleasant 
 please 过去式：pleased 过去分词：pleased 现在分词：pleasing 第三人称单数：pleases 
 pleasure 复数：pleasures 过去式：pleasured 过去分词：pleasured 现在分词：pleasuring 第三人称单数：pleasures
 pledge 复数：pledges 过去式：pledged 过去分词：pledged 现在分词：pledging 第三人称单数：pledges 
@@ -3606,7 +3606,7 @@ plug 复数：plugs 过去式：plugged 过去分词：plugged 现在分词：pl
 plumber 复数：plumbers 
 plunge 过去式：plunged 过去分词：plunged 现在分词：plunging 第三人称单数：plunges 
 plural 复数：plurals 
-plus 复数：pluses plusses 
+plus 复数：pluses/plusses 
 pneumonia 
 pocket 复数：pockets 过去式：pocketed 过去分词：pocketed 现在分词：pocketing 第三人称单数：pockets
 poem 复数：poems 
@@ -3617,7 +3617,7 @@ poison 复数：poisons 过去式：poisoned 过去分词：poisoned 现在分�
 poisonous 
 poke 过去式：poked 过去分词：poked 现在分词：poking 第三人称单数：pokes 
 polar 
-pole 复数：poles Poles 过去式：poled 过去分词：poled 现在分词：poling 第三人称单数：Poles 
+pole 复数：poles/Poles 过去式：poled 过去分词：poled 现在分词：poling 第三人称单数：Poles 
 police 过去式：policed 过去分词：policed 现在分词：policing 第三人称单数：polices 
 policeman 复数：policemen 
 policy 复数：policies 
@@ -3670,8 +3670,8 @@ pour 过去式：poured 过去分词：poured 现在分词：pouring 第三人�
 poverty 
 powder 复数：powders 
 power 复数：powers 过去式：powered 过去分词：powered 现在分词：powering 第三人称单数：powers 
-powerful 比较级：more powerful 最高级：most powerful 
-practical 比较级：more practical 最高级：most practical
+powerful 比较级：more-powerful 最高级：most-powerful 
+practical 比较级：more-practical 最高级：most-practical
 practically 
 practice 复数：practices 过去式：practiced 过去分词：practiced 现在分词：practicing 第三人称单数：practices 
 practise 过去式：practised 过去分词：practised 现在分词：practising 第三人称单数：practises 
@@ -3684,7 +3684,7 @@ precaution 复数：precautions
 precede 过去式：preceded 过去分词：preceded 现在分词：preceding 第三人称单数：precedes 
 precedent 复数：precedents 
 preceding 
-precious 比较级：more precious 最高级：most precious 
+precious 比较级：more-precious 最高级：most-precious 
 precise 
 precision 
 preclude 过去式：precluded 过去分词：precluded 现在分词：precluding 第三人称单数：precludes 
@@ -3706,7 +3706,7 @@ prepare 过去式：prepared 过去分词：prepared 现在分词：preparing �
 preposition 复数：prepositions 
 prescribe 过去式：prescribed 过去分词：prescribed 现在分词：prescribing 第三人称单数：prescribes 
 prescription 复数：prescriptions 
-presence presences
+presence 复数：presences
 present 复数：presents 过去式：presented 过去分词：presented 现在分词：presenting 第三人称单数：presents 
 presently 
 preserve 过去式：preserved 过去分词：preserved 现在分词：preserving 第三人称单数：preserves 
@@ -3732,7 +3732,7 @@ NULL
 priest 复数：priests 
 primary 复数：primaries
 prime 复数：primes 过去式：primed 过去分词：primed 现在分词：priming 第三人称单数：primes 
-primitive 复数：primitives 比较级：more primitive 最高级：most primitive 
+primitive 复数：primitives 比较级：more-primitive 最高级：most-primitive 
 prince 复数：princes 
 princess 复数：princesses 
 principal 复数：principals 
@@ -3772,7 +3772,7 @@ profound 比较级：profounder 最高级：profoundest
 programme 复数：programmes 过去式：programmed 过去分词：programmed 现在分词：programming 第三人称单数：programmes 
 progress 复数：progresses 过去式：progressed 过去分词：progressed 现在分词：progressing 第三人称单数：progresses 
 progressive 复数：progressives 
-prohibit 去式：prohibited 过去分词：prohibited 现在分词：prohibiting 第三人称单数：prohibits 
+prohibit 过去式：prohibited 过去分词：prohibited 现在分词：prohibiting 第三人称单数：prohibits 
 project 复数：projects 过去式：projected 过去分词：projected 现在分词：projecting 第三人称单数：projects
 projector 复数：projectors 
 prolong 过去式：prolonged 过去分词：prolonged 现在分词：prolonging 第三人称单数：prolongs 
@@ -3813,7 +3813,7 @@ provided
 province 复数：provinces 
 provision 复数：provisions 
 provoke 过去式：provoked 过去分词：provoked 现在分词：provoking 第三人称单数：provokes 
-prudent 比较级：more prudent 最高级：most prudent 
+prudent 比较级：more-prudent 最高级：most-prudent 
 psychiatry 
 psychology 复数：psychologies 
 pub 复数：pubs 
@@ -3849,7 +3849,7 @@ quality 复数：qualities
 quantify 过去式：quantified 过去分词：quantified 现在分词：quantifying 第三人称单数：quantifies 
 quantitative 
 quantity 复数：quantities 
-quarrel 数：quarrels 过去式：quarreled quarrelled 过去分词：quarreled quarrelled 现在分词：quarrelling quarreling 第三人称单数：quarrels 
+quarrel 复数：quarrels 过去式：quarreled/quarrelled 过去分词：quarreled/quarrelled 现在分词：quarrelling/quarreling 第三人称单数：quarrels 
 quart 复数：quarts 
 quarter 复数：quarters 过去式：quartered 过去分词：quartered 现在分词：quartering 第三人称单数：quarters 
 quarterly 复数：quarterlies 
@@ -3864,7 +3864,7 @@ queue 复数：queues 过去式：queued 过去分词：queued 现在分词：qu
 quick 比较级：quicker 最高级：quickest 
 quiet 过去式：quieted 过去分词：quieted 现在分词：quieting 第三人称单数：quiets 比较级：quieter 最高级：quietest 
 quilt 复数：quilts 
-quit 过去式：quitted quit 过去分词：quitted quit 现在分词：quitting 第三人称单数：quits 
+quit 过去式：quitted/quit 过去分词：quitted/quit 现在分词：quitting 第三人称单数：quits 
 quite
 quiver 过去式：quivered 过去分词：quivered 现在分词：quivering 第三人称单数：quivers 
 quiz 复数：quizzes 过去式：quizzed 过去分词：quizzed 现在分词：quizzing 第三人称单数：quizzes 
@@ -3899,13 +3899,13 @@ rap 复数：raps 过去式：rapped 过去分词：rapped 现在分词：rappin
 rape 复数：rapes 过去式：raped 过去分词：raped 现在分词：raping 第三人称单数：rapes 
 rapid 比较级：rapider 最高级：rapidest 
 rare 比较级：rarer 最高级：rarest 
-rarely 比较级：more rarely最高级：most rarely
+rarely 比较级：more-rarely 最高级：most-rarely
 rash 复数：rashes 比较级：rasher 最高级：rashest 
 rat 复数：rats 过去式：ratted 过去分词：ratted 现在分词：ratting 第三人称单数：rats 
 rate 复数：rates 过去式：rated 过去分词：rated 现在分词：rating 第三人称单数：rates 
 rather 
 ratio 复数：ratios 
-rational 复数：rationals比较级：more rational最高级：most rational
+rational 复数：rationals 比较级：more-rational 最高级：most-rational
 raw 比较级：rawer 最高级：rawest 
 ray 复数：rays 过去式：rayed 过去分词：rayed 现在分词：raying 第三人称单数：rays 
 razor 复数：razors 
@@ -3913,7 +3913,7 @@ reach 过去式：reached 过去分词：reached 现在分词：reaching 第三�
 react 过去式：reacted 过去分词：reacted 现在分词：reacting 第三人称单数：reacts 
 read 过去式：read 过去分词：read 现在分词：reading 第三人称单数：reads 
 reader 复数：readers
-readily 比较级：more readily最高级：most readily
+readily 比较级：more-readily 最高级：most-readily
 reading 复数：readings
 ready 复数：readies 过去式：readied 过去分词：readied 现在分词：readying 第三人称单数：readies 比较级：readier 最高级：readiest 
 real 复数：reals 
@@ -3925,7 +3925,7 @@ realm 复数：realms
 reap 过去式：reaped 过去分词：reaped 现在分词：reaping 第三人称单数：reaps 
 rear 复数：rears 过去式：reared 过去分词：reared 现在分词：rearing 第三人称单数：rears 
 reason 复数：reasons第三人称单数：reasons过去式：reasoned过去分词：reasoned现在分词：reasoning
-reasonable 比较级：more reasonable 最高级：most reasonable 
+reasonable 比较级：more-reasonable 最高级：most-reasonable 
 reassure 过去式：reassured 过去分词：reassured 现在分词：reassuring 第三人称单数：reassures 
 rebel 复数：rebels 过去式：rebelled 过去分词：rebelled 现在分词：rebelling 第三人称单数：rebels 
 rebellion 复数：rebellions 
@@ -4004,20 +4004,20 @@ relax 过去式：relaxed 过去分词：relaxed 现在分词：relaxing 第三�
 relay 过去式：relaid 过去分词：relaid 现在分词：relaying 第三人称单数：relays 
 release 过去式：released 过去分词：released 现在分词：releasing 第三人称单数：releases 
 relevant 
-reliable 比较级：more reliable 最高级：most reliable
+reliable 比较级：more-reliable 最高级：most-reliable
 reliance 复数：reliances
 relief 复数：reliefs 
 relieve 过去式：relieved 过去分词：relieved 现在分词：relieving 第三人称单数：relieves 
 religion 复数：religions 
 religious 复数：religious 
 relish 复数：relishes 过去式：relished 过去分词：relished 现在分词：relishing 第三人称单数：relishes 
-reluctant 比较级：more reluctant 最高级：most reluctant 
+reluctant 比较级：more-reluctant 最高级：most-reluctant 
 rely 第三人称单数：relies过去式：relied过去分词：relied现在分词：relying
 remain 过去式：remained 过去分词：remained 现在分词：remaining 第三人称单数：remains 
 remainder 复数：remainders 
 remains 
 remark 复数：remarks 过去式：remarked 过去分词：remarked 现在分词：remarking 第三人称单数：remarks 
-remarkable 比较级：more remarkable 最高级：most remarkable 
+remarkable 比较级：more-remarkable 最高级：most-remarkable 
 remedy 复数：remedies 过去式：remedied 过去分词：remedied 现在分词：remedying 第三人称单数：remedies 
 remember 过去式：remembered 过去分词：remembered 现在分词：remembering 第三人称单数：remembers 
 remind 过去式：reminded 过去分词：reminded 现在分词：reminding 第三人称单数：reminds 
@@ -4043,7 +4043,7 @@ reply 复数：replies 过去式：replied 过去分词：replied 现在分词�
 report 复数：reports 过去式：reported 过去分词：reported 现在分词：reporting 第三人称单数：reports 
 reporter 复数：reporters 
 represent 过去式：represented 过去分词：represented 现在分词：representing 第三人称单数：represents 
-representative 复数：representatives 比较级：more representative 最高级：most representative 
+representative 复数：representatives 比较级：more-representative 最高级：most-representative 
 repression 复数：repressions 
 reproach 复数：reproaches第三人称单数：reproaches过去式：reproached过去分词：reproached现在分词：reproaching
 reproduce 过去式：reproduced 过去分词：reproduced 现在分词：reproducing 第三人称单数：reproduces 
@@ -4078,7 +4078,7 @@ respective
 respond 过去式：responded 过去分词：responded 现在分词：responding 第三人称单数：responds 
 response 复数：responses 
 responsibility 复数：responsibilities 
-responsible 比较级：more responsible 最高级：most responsible 
+responsible 比较级：more-responsible 最高级：most-responsible 
 rest 复数：rests 过去式：rested 过去分词：rested 现在分词：resting 第三人称单数：rests 
 restaurant 复数：restaurants 
 restless 
@@ -4116,14 +4116,14 @@ rib 复数：ribs
 ribbon 复数：ribbons 
 rice 过去式：riced 过去分词：riced 现在分词：ricing 第三人称单数：rices
 rich 比较级：richer 最高级：richest 
-rid 过去式：rid ridded 过去分词：rid ridded 现在分词：ridding 第三人称单数：rids 
+rid 过去式：rid/ridded 过去分词：rid/ridded 现在分词：ridding 第三人称单数：rids 
 riddle 复数：riddles 过去式：riddled 过去分词：riddled 现在分词：riddling 第三人称单数：riddles 
 ride 过去式：rode 过去分词：ridden 现在分词：riding 第三人称单数：rides 
 ridge 复数：ridges 
 ridiculous 
 rifle 复数：rifles 
 right 复数：rights 过去式：righted 过去分词：righted 现在分词：righting 第三人称单数：rights 
-rigid 比较级：more rigid 最高级：most rigid 
+rigid 比较级：more-rigid 最高级：most-rigid 
 rigorous 
 rim 复数：rims 过去式：rimmed 过去分词：rimmed 现在分词：rimming 第三人称单数：rims 
 ring 复数：rings 过去式：rang 过去分词：rung 现在分词：ringing 第三人称单数：rings 
@@ -4141,14 +4141,14 @@ roast 复数：roasts 过去式：roasted 过去分词：roasted 现在分词：
 rob 过去式：robbed 过去分词：robbed 现在分词：robbing 第三人称单数：robs 
 robe 复数：robes 
 robot 复数：robots 
-robust 比较级：more robust 最高级：most robust 
+robust 比较级：more/robust 最高级：most/robust 
 rock 复数：rocks 过去式：rocked 过去分词：rocked 现在分词：rocking 第三人称单数：rocks 
 rocket 复数：rockets 过去式：rocketed 过去分词：rocketed 现在分词：rocketing 第三人称单数：rockets 
 rod 复数：rods 
 role 复数：roles 
 roll 复数：rolls 过去式：rolled 过去分词：rolled 现在分词：rolling 第三人称单数：rolls 
 romance 复数：romances 
-romantic 复数：romantics 比较级：more romantic 最高级：most romantic 
+romantic 复数：romantics 比较级：more-romantic 最高级：most-romantic 
 roof 复数：roofs 过去式：roofed 过去分词：roofed 现在分词：roofing 第三人称单数：roofs 
 room 复数：rooms 过去式：roomed 过去分词：roomed 现在分词：rooming 第三人称单数：rooms 
 root 复数：roots 过去式：rooted 过去分词：rooted 现在分词：rooting 第三人称单数：roots 
@@ -4190,7 +4190,7 @@ saddle 复数：saddles 过去式：saddled 过去分词：saddled 现在分词�
 safe 比较级：safer 最高级：safest 
 safeguard 复数：safeguards 过去式：safeguarded 过去分词：safeguarded 现在分词：safeguarding 第三人称单数：safeguards
 safety 
-sail 数：sails 过去式：sailed 过去分词：sailed 现在分词：sailing 第三人称单数：sails 
+sail 复数：sails 过去式：sailed 过去分词：sailed 现在分词：sailing 第三人称单数：sails 
 sailor 复数：sailors 
 saint 复数：saints
 sake 复数：sakes 
@@ -4207,11 +4207,11 @@ sanction 复数：sanctions 过去式：sanctioned 过去分词：sanctioned 现
 sand 复数：sands 过去式：sanded 过去分词：sanded 现在分词：sanding 第三人称单数：sands 
 sandwich 复数：sandwiches 过去式：sandwiched 过去分词：sandwiched 现在分词：sandwiching 第三人称单数：sandwiches 
 sane 比较级：saner 最高级：sanest 
-sarcastic 比较级：more sarcastic 最高级：most sarcastic 
+sarcastic 比较级：more-sarcastic 最高级：most-sarcastic 
 satellite 复数：satellites 
 satire 复数：satires 
 satisfaction 复数：satisfactions 
-satisfactory 比较级：more satisfactory 最高级：most satisfactory 
+satisfactory 比较级：more-satisfactory 最高级：most-satisfactory 
 satisfy 过去式：satisfied 过去分词：satisfied 现在分词：satisfying 第三人称单数：satisfies 
 saturate 第三人称单数：saturates过去式：saturated过去分词：saturated现在分词：saturating 
 Saturday 复数：Saturdays 
@@ -4221,7 +4221,7 @@ sausage 复数：sausages
 savage 复数：savages 过去式：savaged 过去分词：savaged 现在分词：savaging 第三人称单数：savages 
 save 第三人称单数：saves过去式：saved过去分词：saved现在分词：saving
 saving 复数：savings 
-saw 复数：saws 过去式：sawed 过去分词：sawn sawed 现在分词：sawing 第三人称单数：saws 
+saw 复数：saws 过去式：sawed 过去分词：sawn/sawed 现在分词：sawing 第三人称单数：saws 
 say 过去式：said 过去分词：said 现在分词：saying 第三人称单数：says 
 scale 复数：scales第三人称单数：scales过去式：scaled过去分词：scaled现在分词：scaling
 scan 复数：scans 过去式：scanned 过去分词：scanned 现在分词：scanning 第三人称单数：scans 
@@ -4242,7 +4242,7 @@ scholar 复数：scholars
 scholarship 复数：scholarships 
 school 复数：schools 过去式：schooled 过去分词：schooled 现在分词：schooling 第三人称单数：schools 
 science 复数：sciences 
-scientific 比较级：more scientific 最高级：most scientific 
+scientific 比较级：more-scientific 最高级：most-scientific 
 scientist 复数：scientists 
 scissors 复数：scissors
 scold 过去式：scolded 过去分词：scolded 现在分词：scolding 第三人称单数：scolds 
@@ -4298,7 +4298,7 @@ send 过去式：sent 过去分词：sent 现在分词：sending 第三人称单
 senior 复数：seniors
 sensation 复数：sensations 
 sense 过去式：sensed 过去分词：sensed 现在分词：sensing 第三人称单数：senses 
-sensible 比较级：more sensible 最高级：most sensible 
+sensible 比较级：more-sensible 最高级：most-sensible 
 sensitive 复数：sensitives 
 sentence 复数：sentences 过去式：sentenced 过去分词：sentenced 现在分词：sentencing 第三人称单数：sentences 
 sentiment 复数：sentiments 
@@ -4320,7 +4320,7 @@ settlement 复数：settlements
 seven 复数：sevens 
 several 
 severe 比较级：severer 最高级：severest 
-sew 第三人称单数：sews过去式：sewed过去分词：sewn  sewed现在分词：sewing
+sew 第三人称单数：sews过去式：sewed 过去分词：sewn/sewed 现在分词：sewing
 sex 复数：sexes 过去式：sexed 过去分词：sexed 现在分词：sexing 第三人称单数：sexes 
 shabby 比较级：shabbier 最高级：shabbiest 
 shade 复数：shades 过去式：shaded 过去分词：shaded 现在分词：shading 第三人称单数：shades 
@@ -4338,27 +4338,27 @@ share 复数：shares 过去式：shared 过去分词：shared 现在分词：sh
 shark 复数：sharks 过去式：sharked 过去分词：sharked 现在分词：sharking 第三人称单数：sharks 
 sharp 复数：sharps 过去式：sharped 过去分词：sharped 现在分词：sharping 第三人称单数：sharps 比较级：sharper 最高级：sharpest 
 shatter 复数：shatters第三人称单数：shatters过去式：shattered过去分词：shattered现在分词：shattering
-shave 过去式：shaved 过去分词：shaved shaven 现在分词：shaving 第三人称单数：shaves 
+shave 过去式：shaved 过去分词：shaved/shaven 现在分词：shaving 第三人称单数：shaves 
 she 
-shear 过去式：sheared shore 过去分词：sheared shorn 现在分词：shearing 第三人称单数：shears 
+shear 过去式：sheared/shore 过去分词：sheared/shorn 现在分词：shearing 第三人称单数：shears 
 shed 复数：sheds 过去式：shed 过去分词：shed 现在分词：shedding 第三人称单数：sheds 
 sheep 复数：sheep 
 sheer 过去式：sheered 过去分词：sheered 现在分词：sheering 第三人称单数：sheers 比较级：sheerer 最高级：sheerest 
 sheet 复数：sheets 
 shelf 复数：shelves 
-shell 数：shells 过去式：shelled 过去分词：shelled 现在分词：shelling 第三人称单数：shells 
+shell 复数：shells 过去式：shelled 过去分词：shelled 现在分词：shelling 第三人称单数：shells 
 shelter 复数：shelters 过去式：sheltered 过去分词：sheltered 现在分词：sheltering 第三人称单数：shelters 
 shepherd 复数：shepherds 
 shield 复数：shields 过去式：shielded 过去分词：shielded 现在分词：shielding 第三人称单数：shields 
 shift 复数：shifts 过去式：shifted 过去分词：shifted 现在分词：shifting 第三人称单数：shifts 
 shilling 复数：shillings 
-shine 过去式：shone shined 过去分词：shone shined 现在分词：shining 第三人称单数：shines 
+shine 过去式：shone/shined 过去分词：shone/shined 现在分词：shining 第三人称单数：shines 
 ship 复数：ships 过去式：shipped 过去分词：shipped 现在分词：shipping 第三人称单数：ships 
 shipment 复数：shipments 
 shirt 复数：shirts 
 shiver 复数：shivers第三人称单数：shivers过去式：shivered过去分词：shivered现在分词：shivering
 shock 复数：shocks 过去式：shocked 过去分词：shocked 现在分词：shocking 第三人称单数：shocks 
-shoe 复数：shoes 过去式：shod shoed 过去分词：shod shoed 现在分词：shoing 第三人称单数：shoes 
+shoe 复数：shoes 过去式：shod/shoed 过去分词：shod/shoed 现在分词：shoing 第三人称单数：shoes 
 shoot 复数：shoots第三人称单数：shoots过去式：shot过去分词：shot现在分词：shooting
 shop 复数：shops 过去式：shopped 过去分词：shopped 现在分词：shopping 第三人称单数：shops 
 shopkeeper 复数：shopkeepers 
@@ -4373,15 +4373,15 @@ should
 shoulder 复数：shoulders 过去式：shouldered 过去分词：shouldered 现在分词：shouldering 第三人称单数：shoulders 
 shout 复数：shouts 过去式：shouted 过去分词：shouted 现在分词：shouting 第三人称单数：shouts 
 shove 复数：shoves 过去式：shoved 过去分词：shoved 现在分词：shoving 第三人称单数：shoves 
-show 过去式：showed 过去分词：shown showed 现在分词：showing 第三人称单数：shows 
+show 过去式：showed 过去分词：shown/showed 现在分词：showing 第三人称单数：shows 
 shower 复数：showers 过去式：showered 过去分词：showered 现在分词：showering 第三人称单数：showers 
 shrewd 比较级：shrewder 最高级：shrewdest 
-shrink 复数：shrinks第三人称单数：shrinks过去式：shrank shrunk过去分词：shrunk shrunken现在分词：shrinking
+shrink 复数：shrinks 第三人称单数：shrinks 过去式：shrank/shrunk 过去分词：shrunk/shrunken 现在分词：shrinking
 shrug 复数：shrugs 过去式：shrugged 过去分词：shrugged 现在分词：shruging 第三人称单数：shrugs 
 shut 过去式：shut 过去分词：shut 现在分词：shutting 第三人称单数：shuts 
 shutter 复数：shutters
 shuttle 复数：shuttles 
-shy 复数：shies 过去式：shied 过去分词：shied 现在分词：shying 第三人称单数：shies 比较级：shyer shier 最高级：shyest shiest 
+shy 复数：shies 过去式：shied 过去分词：shied 现在分词：shying 第三人称单数：shies 比较级：shyer/shier 最高级：shyest/shiest 
 sick 过去式：sicked 过去分词：sicked 现在分词：sicking 第三人称单数：sicks 比较级：sicker 最高级：sickest 
 side 复数：sides 过去式：sided 过去分词：sided 现在分词：siding 第三人称单数：sides 
 sideways 
@@ -4401,7 +4401,7 @@ silicon
 silk 复数：silks 
 silly  复数：sillies 比较级：sillier 最高级：silliest 
 silver 复数：silvers 
-similar 复数：similars 比较级：more similar 最高级：most similar 
+similar 复数：similars 比较级：more-similar 最高级：most-similar 
 simple 比较级：simpler 最高级：simplest 
 simplicity 复数：simplicities 
 simplify 过去式：simplified 过去分词：simplified 现在分词：simplifying 第三人称单数：simplifies 
@@ -4449,7 +4449,7 @@ sleep 过去式：slept 过去分词：slept 现在分词：sleeping 第三人�
 sleeve 复数：sleeves 过去式：sleeved 过去分词：sleeved 现在分词：sleeving 第三人称单数：sleeves 
 slender 比较级：slenderer 最高级：slenderest 
 slice 复数：slices 过去式：sliced 过去分词：sliced 现在分词：slicing 第三人称单数：slices 
-slide 复数：slides 过去式：slid 过去分词：slid slidden 现在分词：sliding 第三人称单数：slides 
+slide 复数：slides 过去式：slid 过去分词：slid/slidden 现在分词：sliding 第三人称单数：slides 
 slight 复数：slights 过去式：slighted 过去分词：slighted 现在分词：slighting 第三人称单数：slights 比较级：slighter 最高级：slightest 
 slim 过去式：slimmed 过去分词：slimmed 现在分词：slimming 第三人称单数：slims 比较级：slimmer 最高级：slimmest
 slip 过去式：slipped 过去分词：slipped 现在分词：slipping 第三人称单数：slips 
@@ -4461,12 +4461,12 @@ slope 复数：slopes 过去式：sloped 过去分词：sloped 现在分词：sl
 slot 
 slow 过去式：slowed 过去分词：slowed 现在分词：slowing 第三人称单数：slows 比较级：slower 最高级：slowest 
 slum 复数：slums 过去式：slummed 过去分词：slummed 现在分词：slumming 第三人称单数：slums 
-sly 比较级：slier slyer 最高级：sliest slyest 
+sly 比较级：slier/slyer 最高级：sliest/slyest 
 small 比较级：smaller 最高级：smallest 
 smart 复数：smarts 过去式：smarted 过去分词：smarted 现在分词：smarting 第三人称单数：smarts 比较级：smarter 最高级：smartest 
 smash 过去式：smashed 过去分词：smashed 现在分词：smashing 第三人称单数：smashes 
-smell 复数：smells 过去式：smelt smelled 过去分词：smelt 现在分词：smelling 第三人称单数：smells 
-smile 数：smiles 过去式：smiled 过去分词：smiled 现在分词：smiling 第三人称单数：smiles
+smell 复数：smells 过去式：smelt/smelled 过去分词：smelt 现在分词：smelling 第三人称单数：smells 
+smile 复数：smiles 过去式：smiled 过去分词：smiled 现在分词：smiling 第三人称单数：smiles
 smog 复数：smogs 
 smoke 过去式：smoked 过去分词：smoked 现在分词：smoking 第三人称单数：smokes 
 smooth 过去式：smoothed 过去分词：smoothed 现在分词：smoothing 第三人称单数：smoothes 比较级：smoother 最高级：smoothest 
@@ -4475,7 +4475,7 @@ snack 复数：snacks
 snake 复数：snakes 过去式：snaked 过去分词：snaked 现在分词：snaking 第三人称单数：snakes 
 snap 过去式：snapped 过去分词：snapped 现在分词：snapping 第三人称单数：snaps 
 snatch 复数：snatches 过去式：snatched 过去分词：snatched 现在分词：snatching 第三人称单数：snatches 
-sneak 过去式：sneaked snuck 过去分词：sneaked snuck 现在分词：sneaking 第三人称单数：sneaks 
+sneak 过去式：sneaked/snuck 过去分词：sneaked/snuck 现在分词：sneaking 第三人称单数：sneaks 
 sneeze 过去式：sneezed 过去分词：sneezed 现在分词：sneezing 第三人称单数：sneezes 
 sniff 复数：sniffs 过去式：sniffed 过去分词：sniffed 现在分词：sniffing 第三人称单数：sniffs 
 snow 复数：snows 过去式：snowed 过去分词：snowed 现在分词：snowing 第三人称单数：snows 
@@ -4523,7 +4523,7 @@ somewhere
 son 复数：sons 
 song 复数：songs 
 soon 比较级：sooner 最高级：soonest 
-sophisticated 比较级：more sophisticated 最高级：most sophisticated 
+sophisticated 比较级：more-sophisticated 最高级：most-sophisticated 
 sophomore 复数：sophomores 
 sore 复数：sores 
 sorrow 复数：sorrows 
@@ -4539,11 +4539,11 @@ southeast
 southern 
 southwest
 sovereign 复数：sovereigns
-sow 过去式：sowed 过去分词：sown sowed 现在分词：sowing 第三人称单数：sows 
+sow 过去式：sowed 过去分词：sown/sowed 现在分词：sowing 第三人称单数：sows 
 space 复数：spaces 过去式：spaced 过去分词：spaced 现在分词：spacing 第三人称单数：spaces 
 spacecraft 复数：spacecrafts 
 spaceship 复数：spaceships 
-spacious 比较级：more spacious 最高级：most spacious 
+spacious 比较级：more-spacious 最高级：most-spacious 
 spade 复数：spades 
 span 复数：spans 过去式：spanned 过去分词：spanned 现在分词：spanning 第三人称单数：spans 
 spare 过去式：spared 过去分词：spared 现在分词：sparing 第三人称单数：spares 
@@ -4552,12 +4552,12 @@ sparkle 过去式：sparkled 过去分词：sparkled 现在分词：sparkling �
 speak 过去式：spoke 过去分词：spoken 现在分词：speaking 第三人称单数：speaks 
 speaker 复数：speakers 
 spear 复数：spears 过去式：speared 过去分词：speared 现在分词：spearing 第三人称单数：spears 
-special 复数：specials 比较级：more special 最高级：most special 
+special 复数：specials 比较级：more-special 最高级：most-special 
 specialist 复数：specialists 
 speciality 复数：specialities 
 specialize 过去式：specialized 过去分词：specialized 现在分词：specializing 第三人称单数：specializes 
 species 复数：species 
-specific 复数：specifics 比较级：more specific 最高级：most specific 
+specific 复数：specifics 比较级：more-specific 最高级：most-specific 
 specification 复数：specifications
 specify 过去式：specified 过去分词：specified 现在分词：specifying 第三人称单数：specifies 
 specimen 复数：specimens 
@@ -4567,25 +4567,25 @@ spectator 复数：spectators
 spectrum 复数：spectra 
 speculate 过去式：speculated 过去分词：speculated 现在分词：speculating 第三人称单数：speculates 
 speech 复数：speeches
-speed 复数：speeds 过去式：sped speeded 过去分词：sped speeded 现在分词：speeding 第三人称单数：speeds 
-spell 过去式：spelt spelled 过去分词：spelt spelled 现在分词：spelling 第三人称单数：spells 
+speed 复数：speeds 过去式：sped/speeded 过去分词：sped/speeded 现在分词：speeding 第三人称单数：speeds 
+spell 过去式：spelt/spelled 过去分词：spelt/spelled 现在分词：spelling 第三人称单数：spells 
 spelling 
 spend 复数：spends 过去式：spent 过去分词：spent 现在分词：spending 第三人称单数：spends 
 sphere 复数：spheres 过去式：sphered 过去分词：sphered 现在分词：sphering 第三人称单数：spheres 
 spicy 比较级：spicier 最高级：spiciest 
 spider 复数：spiders 
-spill 复数：spills 过去式：spilt spilled 过去分词：spilt spilled 现在分词：spilling 第三人称单数：spills 
-spin 复数：spins 过去式：spun span 过去分词：spun 现在分词：spinning 第三人称单数：spins 
+spill 复数：spills 过去式：spilt/spilled 过去分词：spilt/spilled 现在分词：spilling 第三人称单数：spills 
+spin 复数：spins 过去式：spun/span 过去分词：spun 现在分词：spinning 第三人称单数：spins 
 spine 复数：spines 
-spiral 复数：spirals 过去式：spiralled spiraled 过去分词：spiralled spiraled 现在分词：spiralling spiraling 第三人称单数：spirals 
+spiral 复数：spirals 过去式：spiralled/spiraled 过去分词：spiralled/spiraled 现在分词：spiralling/spiraling 第三人称单数：spirals 
 spirit 复数：spirits
 spiritual 复数：spirituals 
-spit 过去式：spat spit 过去分词：spat spit 现在分词：spitting 第三人称单数：spits 
+spit 过去式：spat/spit 过去分词：spat/spit 现在分词：spitting 第三人称单数：spits 
 spite 复数：spites 过去式：spited 过去分词：spited 现在分词：spiting 第三人称单数：spites 
 splash 复数：splashes第三人称单数：splashes过去式：splashed过去分词：splashed现在分词：splashing
 splendid 
 split 复数：splits 过去式：split 过去分词：split 现在分词：splitting 第三人称单数：splits 
-spoil 第三人称单数：spoils过去式：spoilt  spoiled过去分词：spoilt  spoiled现在分词：spoiling
+spoil 第三人称单数：spoils过去式：spoilt/spoiled 过去分词：spoilt/spoiled 现在分词：spoiling
 spokesman 复数：spokesmen 
 sponge 过去式：sponged 过去分词：sponged 现在分词：sponging 第三人称单数：sponges 
 sponsor 复数：sponsors 过去式：sponsored 过去分词：sponsored 现在分词：sponsoring 第三人称单数：sponsors 
@@ -4610,7 +4610,7 @@ stability 复数：stabilities
 stable 复数：stables 过去式：stabled 过去分词：stabled 现在分词：stabling 第三人称单数：stables 
 stack 复数：stacks 过去式：stacked 过去分词：stacked 现在分词：stacking 第三人称单数：stacks 
 stadium 复数：stadia
-staff 复数：staffs staves 过去式：staffed 过去分词：staffed 现在分词：staffing 第三人称单数：staffs 
+staff 复数：staffs/staves 过去式：staffed 过去分词：staffed 现在分词：staffing 第三人称单数：staffs 
 stage 复数：stages 过去式：staged 过去分词：staged 现在分词：staging 第三人称单数：stages 
 stagger 过去式：staggered 过去分词：staggered 现在分词：staggering 第三人称单数：staggers 
 stain 复数：stains 过去式：stained 过去分词：stained 现在分词：staining 第三人称单数：stains 
@@ -4697,12 +4697,12 @@ stretch 复数：stretches 过去式：stretched 过去分词：stretched 现在
 strict 比较级：stricter 最高级：strictest 
 stride 复数：strides 过去式：strode 过去分词：stridden 现在分词：striding 第三人称单数：strides 
 strife 复数：strives 
-strike 复数：strikes 过去式：struck strook 过去分词：struck stricken 现在分词：striking 第三人称单数：strikes 
-striking 比较级：more striking 最高级：most striking 
+strike 复数：strikes 过去式：struck/strook 过去分词：struck/stricken 现在分词：striking 第三人称单数：strikes 
+striking 比较级：more-striking 最高级：most-striking 
 string 复数：strings 过去式：strung 过去分词：strung 现在分词：stringing 第三人称单数：strings 
 strip 复数：strips 过去式：stripped 过去分词：stripped 现在分词：stripping 第三人称单数：strips 
 stripe 复数：stripes 过去式：striped 过去分词：striped 现在分词：striping 第三人称单数：stripes 
-strive 过去式：strove strived 过去分词：striven strived 现在分词：striving 第三人称单数：strives 
+strive 过去式：strove/strived 过去分词：striven/strived 现在分词：striving 第三人称单数：strives 
 stroke 复数：strokes 过去式：stroked 过去分词：stroked 现在分词：stroking 第三人称单数：strokes 
 stroll 复数：strolls 过去式：strolled 过去分词：strolled 现在分词：strolling 第三人称单数：strolls 
 strong 比较级：stronger 最高级：strongest 
@@ -4728,7 +4728,7 @@ subscribe 过去式：subscribed 过去分词：subscribed 现在分词：subscr
 subsequent  
 subsidy 复数：subsidies 
 substance 复数：substances 
-substantial 复数：substantials 比较级：more substantial 最高级：most substantial 
+substantial 复数：substantials 比较级：more-substantial 最高级：most-substantial 
 substitute 复数：substitutes 过去式：substituted 过去分词：substituted 现在分词：substituting 第三人称单数：substitutes 
 subtle 比较级：subtler 最高级：subtlest 
 subtract 过去式：subtracted 过去分词：subtracted 现在分词：subtracting 第三人称单数：subtracts 
@@ -4737,7 +4737,7 @@ suburb 复数：suburbs
 subway 复数：subways
 succeed 过去式：succeeded 过去分词：succeeded 现在分词：succeeding 第三人称单数：succeeds 
 success 复数：successes 
-successful 比较级：more successful 最高级：most successful 
+successful 比较级：more-successful 最高级：most-successful 
 succession 复数：successions 
 successive 
 successor 复数：successors
@@ -4753,7 +4753,7 @@ suggest 过去式：suggested 过去分词：suggested 现在分词：suggesting
 suggestion 复数：suggestions 
 suicide 复数：suicides 
 suit 复数：suits 过去式：suited 过去分词：suited 现在分词：suiting 第三人称单数：suits 
-suitable 比较级：more suitable 最高级：most suitable 
+suitable 比较级：more-suitable 最高级：most-suitable 
 suite 复数：suites 
 sulfur 过去式：sulfured 过去分词：sulfured 现在分词：sulfuring 第三人称单数：sulfurs 
 sum 复数：sums 过去式：summed 过去分词：summed 现在分词：summing 第三人称单数：sums 
@@ -4799,7 +4799,7 @@ surroundings
 survey 复数：surveys 过去式：surveyed 过去分词：surveyed 现在分词：surveying 第三人称单数：surveys 
 survival 复数：survivals 
 survive 过去式：survived 过去分词：survived 现在分词：surviving 第三人称单数：survives 
-susceptible 比较级：more susceptible最高级：most susceptible
+susceptible 比较级：more-susceptible最高级：most-susceptible
 suspect 第三人称单数：suspects过去式：suspected过去分词：suspected现在分词：suspecting
 suspend 过去式：suspended 过去分词：suspended 现在分词：suspending 第三人称单数：suspends 
 suspicion 复数：suspicions 
@@ -4811,17 +4811,17 @@ swan 复数：swans 过去式：swanned 过去分词：swanned 现在分词：sw
 swarm 复数：swarms第三人称单数：swarms过去式：swarmed过去分词：swarmed现在分词：swarming
 sway 过去式：swayed 过去分词：swayed 现在分词：swaying 第三人称单数：sways 
 swear 过去式：swore 过去分词：sworn 现在分词：swearing 第三人称单数：swears 
-sweat 复数：sweats 过去式：sweat sweated 过去分词：sweat sweated 现在分词：sweating 第三人称单数：sweats 
+sweat 复数：sweats 过去式：sweat/sweated 过去分词：sweat/sweated 现在分词：sweating 第三人称单数：sweats 
 sweater 复数：sweaters 
 sweep 过去式：swept 过去分词：swept 现在分词：sweeping 第三人称单数：sweeps 
 sweet 复数：sweets 比较级：sweeter 最高级：sweetest 
-swell 过去式：swelled 过去分词：swollen swelled 现在分词：swelling 第三人称单数：swells 
+swell 过去式：swelled 过去分词：swollen/swelled 现在分词：swelling 第三人称单数：swells 
 swift 复数：swifts 比较级：swifter 最高级：swiftest 
 swim 过去式：swam 过去分词：swum 现在分词：swimming 第三人称单数：swims 
 swing 复数：swings第三人称单数：swings过去式：swung过去分词：swung现在分词：swinging
 switch 复数：switches 过去式：switched 过去分词：switched 现在分词：switching 第三人称单数：switches 
 sword 复数：swords 
-symbol 复数：symbols第三人称单数：symbols过去式：symbolled symboled过去分词：symbolled symboled现在分词：symbolling symboling
+symbol 复数：symbols第三人称单数：symbols过去式：symbolled/symboled过去分词：symbolled/symboled现在分词：symbolling/symboling
 symmetry 复数：symmetries 
 sympathetic 
 sympathize 过去式：sympathized 过去分词：sympathized 现在分词：sympathizing 第三人称单数：sympathizes 
@@ -4835,7 +4835,7 @@ synthetic 复数：synthetics
 system 复数：systems 
 systematic 
 table 复数：tables
-tablet 复数：tablets 过去式：tableted tabletted 过去分词：tableted tabletted 现在分词：tableting tabletting 第三人称单数：tablets 
+tablet 复数：tablets 过去式：tableted/tabletted 过去分词：tableted/tabletted 现在分词：tableting/tabletting 第三人称单数：tablets 
 tackle 复数：tackles 过去式：tackled 过去分词：tackled 现在分词：tackling 第三人称单数：tackles 
 tactic 复数：tactics 
 tag 复数：tags 
@@ -4859,18 +4859,18 @@ tariff 复数：tariffs
 task 复数：tasks 过去式：tasked 过去分词：tasked 现在分词：tasking 第三人称单数：tasks 
 taste 复数：tastes 过去式：tasted 过去分词：tasted 现在分词：tasting 第三人称单数：tastes 
 tax 复数：taxes 过去式：taxed 过去分词：taxed 现在分词：taxing 第三人称单数：taxes 
-taxi 复数：taxis taxies 
+taxi 复数：taxis/taxies 
 tea 过去式：taught 过去分词：taught 现在分词：teaching 第三人称单数：teaches 
 teach 过去式：taught 过去分词：taught 现在分词：teaching 第三人称单数：teaches 
 teacher 复数：teachers
 team 复数：teams 过去式：teamed 过去分词：teamed 现在分词：teaming 第三人称单数：teams 
 tear 复数：tears 过去式：tore 过去分词：torn 现在分词：tearing 第三人称单数：tears 
 tease 复数：teases 过去式：teased 过去分词：teased 现在分词：teasing 第三人称单数：teases 
-technical 比较级：more technical 最高级：most technical 
+technical 比较级：more/technical 最高级：most/technical 
 technician 复数：technicians 
 technique 复数：techniques 
 technology 
-tedious 比较级：more tedious 最高级：most tedious 
+tedious 比较级：more-tedious 最高级：most-tedious 
 teenager 复数：teenagers 
 telegram 复数：telegrams 
 telegraph 复数：telegraphs 过去式：telegraphed 过去分词：telegraphed 现在分词：telegraphing 第三人称单数：telegraphs 
@@ -4881,7 +4881,7 @@ temper 复数：tempers 过去式：tempered 过去分词：tempered 现在分�
 temperament 复数：temperaments 
 temperature 复数：temperatures
 temple 复数：temples 
-tempo 复数：tempos tempi 
+tempo 复数：tempos/tempi 
 temporary 复数：temporaries 
 tempt 过去式：tempted 过去分词：tempted 现在分词：tempting 第三人称单数：tempts 
 temptation 复数：temptations 
@@ -4898,7 +4898,7 @@ tentative 复数：tentatives
 term 复数：terms 
 terminal 复数：terminals
 terminate 复数：terminates 过去式：terminated 过去分词：terminated 现在分词：terminating 第三人称单数：terminates 
-terrible 比较级：more terrible 最高级：most terrible 
+terrible 比较级：more-terrible 最高级：most-terrible 
 terrific 
 terrify 过去式：terrified 过去分词：terrified 现在分词：terrifying 第三人称单数：terrifies 
 territory 复数：territories 
@@ -4952,7 +4952,7 @@ thorough
 those 
 though 
 thought 复数：thoughts
-thoughtful 比较级：more thoughtful 最高级：most thoughtful 
+thoughtful 比较级：more-thoughtful 最高级：most-thoughtful 
 thousand 复数：thousands 
 thread 复数：threads
 threat 复数：threats 
@@ -4961,7 +4961,7 @@ three 复数：threes
 threshold 复数：thresholds
 thrift 复数：thrifts 
 thrill 复数：thrills 过去式：thrilled 过去分词：thrilled 现在分词：thrilling 第三人称单数：thrills 
-thrive 过去式：thrived throve 过去分词：thrived thriven 现在分词：thriving 第三人称单数：thrives 
+thrive 过去式：thrived/throve 过去分词：thrived/thriven 现在分词：thriving 第三人称单数：thrives 
 throat 复数：throats第三人称单数：throats过去式：throated过去分词：throated现在分词：throating
 throne 复数：thrones 过去式：throned 过去分词：throned 现在分词：throning 第三人称单数：thrones 
 through 
@@ -4991,12 +4991,12 @@ tin 复数：tins 过去式：tinned 过去分词：tinned 现在分词：tinnin
 tiny 比较级：tinier 最高级：tiniest 
 tip 复数：tips第三人称单数：tips过去式：tipped过去分词：tipped现在分词：tipping
 tire 过去式：tired 过去分词：tired 现在分词：tiring 第三人称单数：tires 
-tired 比较级：more tired 最高级：the most tired 
+tired 比较级：more-tired 最高级：the-most-tired 
 tiresome 
 tissue 复数：tissues 
 title 复数：titles第三人称单数：titles过去式：titled过去分词：titled现在分词：titling
 to 
-toast 数：toasts 过去式：toasted 过去分词：toasted 现在分词：toasting 第三人称单数：toasts 
+toast 复数：toasts 过去式：toasted 过去分词：toasted 现在分词：toasting 第三人称单数：toasts 
 tobacco 复数：tobaccos
 today 
 toe 复数：toes 
@@ -5031,7 +5031,7 @@ tour 复数：tours 过去式：toured 过去分词：toured 现在分词：tour
 tourist 复数：tourists 
 tow 复数：tows 过去式：towed 过去分词：towed 现在分词：towing 第三人称单数：tows 
 toward 
-towel 复数：towels 过去式：toweled towelled 过去分词：toweled towelled 现在分词：toweling towelling 第三人称单数：towels 
+towel 复数：towels 过去式：toweled/towelled 过去分词：toweled/towelled 现在分词：toweling/towelling 第三人称单数：towels 
 tower 复数：towers 过去式：towered 过去分词：towered 现在分词：towering 第三人称单数：towers 
 town 复数：towns 
 toxic 复数：toxics 
@@ -5063,7 +5063,7 @@ translate 过去式：translated 过去分词：translated 现在分词：transl
 translation 
 transmission 复数：transmissions 
 transmit 过去式：transmitted 过去分词：transmitted 现在分词：transmitting 第三人称单数：transmits 
-transparent 比较级：more transparent 最高级：most transparent 
+transparent 比较级：more-transparent 最高级：most-transparent 
 transplant 复数：transplants 过去式：transplanted 过去分词：transplanted 现在分词：transplanting 第三人称单数：transplants 
 transport 复数：transports 过去式：transported 过去分词：transported 现在分词：transporting 第三人称单数：transports 
 trap 复数：traps 过去式：trapped 过去分词：trapped 现在分词：trapping 第三人称单数：traps 
@@ -5076,7 +5076,7 @@ treat 复数：treats 过去式：treated 过去分词：treated 现在分词：
 treaty 复数：treaties 
 tree 复数：trees 过去式：treed 过去分词：treed 现在分词：treeing 第三人称单数：trees
 tremble 过去式：trembled 过去分词：trembled 现在分词：trembling 第三人称单数：trembles 
-tremendous 比较级：more tremendous 最高级：most tremendous 
+tremendous 比较级：more-tremendous 最高级：most-tremendous 
 trench 复数：trenches 
 trend 过去式：trended 过去分词：trended 现在分词：trending 第三人称单数：trends 
 trial 复数：trials 
@@ -5090,7 +5090,7 @@ trim 过去式：trimmed 过去分词：trimmed 现在分词：trimming 第三�
 trip 复数：trips 过去式：tripped 过去分词：tripped 现在分词：tripping 第三人称单数：trips 
 triple 过去式：tripled 过去分词：tripled 现在分词：tripling 第三人称单数：triples 
 triumph 复数：triumphs 过去式：triumphed 过去分词：triumphed 现在分词：triumphing 第三人称单数：triumphs 
-trivial 比较级：more trivial 最高级：most trivial 
+trivial 比较级：more-trivial 最高级：most-trivial 
 trolley 复数：trolleys 过去式：trolleyed 过去分词：trolleyed 现在分词：trolleying 第三人称单数：trolleys 
 troop 复数：troops 过去式：trooped 过去分词：trooped 现在分词：trooping 第三人称单数：troops 
 tropic 复数：tropics 
@@ -5132,7 +5132,7 @@ two 复数：twos
 type 复数：types 过去式：typed 过去分词：typed 现在分词：typing 第三人称单数：types 
 typewriter 复数：typewriters 
 typhoon 复数：typhoons 
-typical 比较级：more typical 最高级：most typical 
+typical 比较级：more-typical 最高级：most-typical 
 typist 复数：typists 
 ugly 比较级：uglier 最高级：ugliest 
 ultimate 复数：ultimates 
@@ -5160,7 +5160,7 @@ uneasy 比较级：uneasier 最高级：uneasiest
 unemployment 
 unexpected
 unfold 过去式：unfolded 过去分词：unfolded 现在分词：unfolding 第三人称单数：unfolds 
-unfortunately 比较级：more unfortunately 最高级：most unfortunately 
+unfortunately 比较级：more-unfortunately 最高级：most-unfortunately 
 uniform 复数：uniforms 
 unify 过去式：unified 过去分词：unified 现在分词：unifying 第三人称单数：unifies 
 union 复数：unions 
@@ -5196,7 +5196,7 @@ us
 usage 复数：usages
 use 复数：uses 过去式：used 过去分词：used 现在分词：using 第三人称单数：uses 
 used 过去式：useded 过去分词：useded 现在分词：useding 第三人称单数：useds 
-useful 比较级：more useful最高级：most useful
+useful 比较级：more-useful最高级：most-useful
 usual 
 usually
 utilize 过去式：utilized 过去分词：utilized 现在分词：utilizing 第三人称单数：utilizes 
@@ -5253,7 +5253,7 @@ via
 vibrate 过去式：vibrated 过去分词：vibrated 现在分词：vibrating 第三人称单数：vibrates 
 vice 复数：vices 
 vicinity 复数：vicinities 
-vicious 比较级：more vicious 最高级：most vicious 
+vicious 比较级：more-vicious 最高级：most-vicious 
 victim 复数：victims 
 victory 复数：victories
 video 复数：videos 过去式：videoed 过去分词：videoed 现在分词：videoing 第三人称单数：videos 
@@ -5264,7 +5264,7 @@ village 复数：villages
 vinegar 复数：vinegars 
 violate 过去式：violated 过去分词：violated 现在分词：violating 第三人称单数：violates 
 violence 
-violent 比较级：more violent 最高级：most violent 
+violent 比较级：more-violent 最高级：most-violent 
 violet 复数：violets 
 violin 复数：violins 
 virgin 复数：virgins 
@@ -5277,15 +5277,15 @@ vision 复数：visions
 visit 过去式：visited 过去分词：visited 现在分词：visiting 第三人称单数：visits 
 visitor 复数：visitors 
 visual 复数：visuals 
-vital 比较级：more vital 最高级：most vital 
+vital 比较级：more-vital 最高级：most-vital 
 vitamin 复数：vitamins
-vivid 比较级：more vivid 最高级：most vivid 
+vivid 比较级：more-vivid 最高级：most-vivid 
 vocabulary 复数：vocabularies 
 vocal 复数：vocals 
 vocation 复数：vocations 
 voice 复数：voices 过去式：voiced 过去分词：voiced 现在分词：voicing 第三人称单数：voices 
 void 复数：voids 过去式：voided 过去分词：voided 现在分词：voiding 第三人称单数：voids
-volcano 复数：volcanoes volcanos 
+volcano 复数：volcanoes/volcanos 
 volleyball 
 volt 复数：volts 
 voltage 复数：voltages 
@@ -5323,7 +5323,7 @@ wash 过去式：washed 过去分词：washed 现在分词：washing 第三人�
 waste 过去式：wasted 过去分词：wasted 现在分词：wasting 第三人称单数：wastes 
 watch 复数：watches 过去式：watched 过去分词：watched 现在分词：watching 第三人称单数：watches 
 watch 复数：watches 过去式：watched 过去分词：watched 现在分词：watching 第三人称单数：watches 
-water 数：waters 过去式：watered 过去分词：watered 现在分词：watering 第三人称单数：waters 
+water 复数：waters 过去式：watered 过去分词：watered 现在分词：watering 第三人称单数：waters 
 waterfall 复数：waterfalls 
 waterproof 复数：waterproofs 过去式：waterproofed 过去分词：waterproofed 现在分词：waterproofing 第三人称单数：waterproofs 
 watt 复数：watts 
@@ -5391,7 +5391,7 @@ whose
 why 复数：whys 
 wicked 比较级：wickeder 最高级：wickedest 
 wide 比较级：wider 最高级：widest 
-widespread 比较级：more widespread 最高级：most widespread
+widespread 比较级：more-widespread 最高级：most-widespread
 widow 复数：widows 
 width 复数：widths 
 wife 复数：wives 
@@ -5427,7 +5427,7 @@ wood 复数：woods
 wooden 
 wool 
 word 复数：words 过去式：worded 过去分词：worded 现在分词：wording 第三人称单数：words 
-work 复数：works 过去式：worked wrought 过去分词：worked wrought 现在分词：working 第三人称单数：works 
+work 复数：works 过去式：worked/wrought 过去分词：worked/wrought 现在分词：working 第三人称单数：works 
 worker 复数：workers 
 workshop 复数：workshops 
 world 复数：worlds
@@ -5582,7 +5582,7 @@ district 复数：districts
 disturb 过去式：disturbed 过去分词：disturbed 现在分词：disturbing 第三人称单数：disturbs 
 disturbance 复数：disturbances 
 ditch 复数：ditches 过去式：ditched 过去分词：ditched 现在分词：ditching 第三人称单数：ditches 
-dive 过去式：dived dove 过去分词：dived 现在分词：diving 第三人称单数：dives 
+dive 过去式：dived/dove 过去分词：dived 现在分词：diving 第三人称单数：dives 
 diverse
 diversion 复数：diversions 
 divert 过去式：diverted 过去分词：diverted 现在分词：diverting 第三人称单数：diverts 
@@ -5651,7 +5651,7 @@ expel 过去式：expelled 过去分词：expelled 现在分词：expelling 第�
 expend 过去式：expended 过去分词：expended 现在分词：expending 第三人称单数：expends 
 expenditure
 expense 复数：expenditures 
-expensive 比较级：more expensive 最高级：most expensive 
+expensive 比较级：more-expensive 最高级：most-expensive 
 experience 复数：experiences 过去式：experienced 过去分词：experienced 现在分词：experiencing 第三人称单数：experiences 
 experiment 复数：experiments 过去式：experimented 过去分词：experimented 现在分词：experimenting 第三人称单数：experiments 
 experimental
@@ -5671,7 +5671,7 @@ expose 过去式：exposed 过去分词：exposed 现在分词：exposing 第三
 exposure 复数：exposures 
 express 复数：expresses 过去式：expressed 过去分词：expressed 现在分词：expressing 第三人称单数：expresss 
 expression 复数：expressions 
-exquisite 复数：exquisites 比较级：more exquisite 最高级：most exquisite 
+exquisite 复数：exquisites 比较级：more-exquisite 最高级：most-exquisite 
 extend 过去式：extended 过去分词：extended 现在分词：extending 第三人称单数：extends 
 extension 复数：extensions
 extensive 
@@ -5689,7 +5689,7 @@ fragile
 funeral 复数：funerals 
 funny 复数：funnies 比较级：funnier 最高级：funniest 
 fur 复数：furs 
-furious 比较级：more furious 最高级：most furious 
+furious 比较级：more-furious 最高级：most-furious 
 furnace 复数：furnaces 
 furnish 过去式：furnished 过去分词：furnished 现在分词：furnishing 第三人称单数：furnishes 
 furniture
@@ -5721,7 +5721,7 @@ idle 过去式：idled 过去分词：idled 现在分词：idling 第三人称�
 if 复数：ifs 
 ignite 过去式：ignited 过去分词：ignited 现在分词：igniting 第三人称单数：ignites 
 ignorance 
-ignorant 比较级：more ignorant 最高级：most ignorant 
+ignorant 比较级：more-ignorant 最高级：most-ignorant 
 ignore 过去式：ignored 过去分词：ignored 现在分词：ignoring 第三人称单数：ignores 
 ill 比较级：worse 最高级：worst 
 illegal 复数：illegals 
@@ -5737,7 +5737,7 @@ imagination 复数：imaginations
 imaginative
 imagine 过去式：imagined 过去分词：imagined 现在分词：imagining 第三人称单数：imagines 
 imitate 过去式：imitated 过去分词：imitated 现在分词：imitating 第三人称单数：imitates 
-imitation imitation
+imitation 复数：imitations
 immediate 
 immense
 immerse 过去式：immersed 过去分词：immersed 现在分词：immersing 第三人称单数：immerses 
@@ -5778,12 +5778,12 @@ income 复数：incomes
 incorporate 过去式：incorporated 过去分词：incorporated 现在分词：incorporating 第三人称单数：incorporates 
 increase 复数：increases 过去式：increased 过去分词：increased 现在分词：increasing 第三人称单数：increases 
 increasingly
-incredible 比较级：more incredible 最高级：most incredible 
+incredible 比较级：more-incredible 最高级：most-incredible 
 incur 过去式：incurred 过去分词：incurred 现在分词：incurring 第三人称单数：incurs 
 indeed
 independence
-independent 复数：independents 比较级：more independent 最高级：most independent 
-index 复数：indexes indices 过去式：indexed 过去分词：indexed 现在分词：indexing 第三人称单数：indexes 
+independent 复数：independents 比较级：more-independent 最高级：most-independent 
+index 复数：indexes/indices 过去式：indexed 过去分词：indexed 现在分词：indexing 第三人称单数：indexes 
 indicate 过去式：indicated 过去分词：indicated 现在分词：indicating 第三人称单数：indicates 
 indication 复数：indications 
 indicative 复数：indicatives 
@@ -5822,7 +5822,7 @@ inhale 过去式：inhaled 过去分词：inhaled 现在分词：inhaling 第三
 inherent
 inherit 过去式：inherited 过去分词：inherited 现在分词：inheriting 第三人称单数：inherits 
 inhibit 过去式：inhibited 过去分词：inhibited 现在分词：inhibiting 第三人称单数：inhibits 
-initial 复数：initials 过去式：initialled initialled 过去分词：initialled initialled 现在分词：initialling initialling 第三人称单数：initials 
+initial 复数：initials 过去式：initialled/initialled 过去分词：initialled/initialled 现在分词：initialling/initialling 第三人称单数：initials 
 initiate 过去式：initiated 过去分词：initiated 现在分词：initiating 第三人称单数：initiates 
 initiative 复数：initiatives 
 inject 过去式：injected 过去分词：injected 现在分词：injecting 第三人称单数：injects 
@@ -5897,7 +5897,7 @@ intersection 复数：intersections
 interval 复数：intervals 
 intervene 第三人称单数：intervenes过去式：intervened过去分词：intervened现在分词：intervening
 interview 复数：interviews 过去式：interviewed 过去分词：interviewed 现在分词：interviewing 第三人称单数：interviews 
-intimate 复数：intimates 过去式：intimated 过去分词：intimated 现在分词：intimating 第三人称单数：intimates 比较级：more intimate 最高级：most intimate 
+intimate 复数：intimates 过去式：intimated 过去分词：intimated 现在分词：intimating 第三人称单数：intimates 比较级：more-intimate 最高级：most-intimate 
 intimidate 过去式：intimidated 过去分词：intimidated 现在分词：intimidating 第三人称单数：intimidates 
 into
 intricate
