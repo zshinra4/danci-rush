@@ -1,0 +1,374 @@
+alt###high;高的$$$altar,exalt,exaltation,altitude,altimeter,alto
+alter/ali###other;其他$$$alter,alter-ego,alternate,alternation,alternative,altrusim,alien,alienate,alias,alibi
+am###to love;爱$$$amateur,amatory,amiable,amicable,amity,amorist,amorous,amour,enamored,enemy,enmity,paramour
+angl/angul###angle;角$$$angle,angular,equiangular,quadrangular,rectangle,triangle,triangular
+anim###breath;气息###soul;心灵$$$animal,animate,animation,animator,inanimate,reanimate,magnanimous,unanimity,unanimous
+ann###year;年$$$annals,anniversary,annuity,biannual,centennial,perennial,superannuate
+anthrop###man;人类$$$anthropology,anthropoid,misanthrope,philanthropy,anthropography,anthropomorphize,anthropocentric
+apt/ept###fit;适当的$$$apt,aptitude,aptness,adapt,adept,adaptable,adaptation,inapt,inaptitude
+aqua###water;水$$$aquarium,aquatic,aquamarine,aqueduct,aquarius
+art###skill;技巧###art技术$$$art,artist,artist,artless,artifact,artificial,artisan
+aud###to hear;听$$$audible,inaudible,audience,auditorium,audiometer,audiphone,audition,auditor,auditorial,auditory
+aug###to increase;增加$$$auction,acutioneer,augment,august
+avi###bird;鸟$$$avian,aviarist,aviary,aviate,aviation,aviator,aviatrix,aviculture
+band/bond###to bind;捆绑$$$band,bond,bandage,bondage,contraband,bound,boundary
+bar###bar;横木$$$bar,barrister,barrel,barrier,barrage,debar,embargo,embarrass,embarrassment,embarrassing
+bell###war;战争$$$bellicose,belligerent,rebel,rebellion,rebellious,rebeldom
+bio###life;生命$$$biology,biography,biographer,autobiography,autobiographical,biosphere,biochemistry,biometry,antibiotic,symbiosis
+brev###short;短的$$$breviate,brevity,brief,briefly,abbreviate,abbreviation,abridge,abridement
+calc###lime;石灰###stone;石头$$$calcic,calcify,calcium,calculate,calculable,calculation,calculator,calculus,chalk
+camp###field;平原,田野$$$camp,campus,champion,championship,campaign,campfire,campsite,encamp,decamp
+cand###white;白色###bright;光亮的$$$candle,candela,candid,candidate,candidacy,incandescent,incandescent-lamp
+cant/chant/cent###to sing;唱歌$$$cant,cantata,canticle,cantor,descant,incantation,recant,chant,enchant,enchantment,accent,accentuate
+cap###head;头$$$cape,capital,captitalism,capitalist,capitalize,captain,cabbage,decapitate,decapitation,precipitate,precipitous,
+cap/cep/cip/ceive###to take;取,拿$$$capable,capacious,capacity,caption,captivate,captivating,captive,captivity,captor,capture,accept,acceptable,acceptance,accepted,conceive,conceivable,concept,conception,deceive,deceit,deception,deceptive,except,exception,exceptional,inception,inceptive,intercept,interception,interceptor,perceive,perceptible,perception,precept,preceptor,receive,receiver,receivable,receipt,receptacle,reception,receptive,recipient,susceptible,susceptive,anticipate,anticipation,participate,participation,participle,emancipate,enancipation
+car###car;车###to run;跑$$$car,cargo,carry,career,carriage,carrier,cart,carter,charge,discharge,chariot
+carn###flesh;肉$$$carnage,carnal,carnalism,carnival,carnivalesque,carnivore,carnivorous,discarnate,incarnate,incarnation,reincarnate,carnation
+cast###to throw;投掷$$$cast,broadcast,forecast,outcast,overcast,telecast
+cav###hollow;中空的$$$cave,cavern,cavernous,cavity,concave,excavate,excavation,excavator
+cede/ceed/cess###to go;去###to proceed;进行$$$accede,access,accessible,accession,antecede,antecedent,ancestor,cede,cessation,cession,concede,concession,concessive,exceed,exceeding,exceedingly,excess,excessive,incessant,intercede,intercession,intercessor,precede,precedence,precedent,precedented,preceding,precession,proceed,proceeding,process,procession,recede,recess,recession,recessive,retrocede,retrocession,secede,seceder,secession,succeed,neccessary
+cent###hundred;一百$$$century,centenary,centennial,centenarian,centigrade,cnetimeter,centipede,centuple,centuplicate,percent,percentage
+centr/center###center;中心$$$central,centralism,centralization,eccentric,eccentricity,egocenric,epicenter,ethnocentric,centrifugal,acentric,anthropocentric,concentrate,concentration,decentralize,heliocentric
+cern/cret###to seperate;分离###to shift;筛选###to observe;观察$$$conern,concerning,disern,discernable,discernment,discreet,discrete,discretion,excrete,excrement,secret,secretary,secrete,secretion,secernent
+cert###sure;确定的$$$ascertain,certain,certainly,certify,certifiable,certification,certitude,concert,disconcert
+chron###time;时间$$$chronic,chronicle,chronograph,chronology,chronometer,chronometry,chronoscope,anachronism,isochronal,synchronize,synchronous
+cide/cise###to cut;切$$$concise,concision,decide,decision,decisive,excise,excision,fratricide,incise,incision,incisive,insecticide,pesticide,precise,precision,patricide,matricide,suicide,homicide
+circ/cyc###ring;环$$$circle,cirular,circulate,circulation,circuit,circuitous,circuity,circus,encircle,semicircle,cycle,cyclone,bicycle,bicycle,tricycle,encyclopedia
+cite###to call;呼叫###to urge;驱策$$$cite,citable,citation,excite,excitable,excitant,excitement,incite,incitement,recite,recital,recitation,resuscitate,resuscitator,solicit,solicitation,solicitor,solicitous,solicitude
+claim/clam###to cry;大叫$$$claim,claimant,clamour,clamorous,acclaim,acclamation,declaim,declaimation,exclaim,exlamation,exclamatory,proclaim,proclamation,reclaim,reclaimable,reclamation
+clin/cliv###to bend;弯曲###to lean;倾斜$$$acclivous,acclivity,decline,declension,declination,declivity,declivous,incline,inclination,disincline,disinclination,proclivity,recline,climax
+clud/clos/clus###to shut;关闭$$$close,closet,closure,conclude,conclusion,conclusive,disclose,enclose,exclude,exclusion,exclusionism,exclusive,include,inclusion,inclusive,occlude,occlusion,preclude,preclusion,recluse,reclusion,seclude,secluded,seclusive,seclusion,claustrophobia
+cognis/gnos###to know;知道$$$agnostic,cognition,cognitive,cognizable,congizance,cognizant,diagnose,diagnosis,ignore,ignorance,ignorant,incognito,prognosis,prognosticate,recognize,recognizable,recognizance,recognition
+cord###heart;心$$$core,accord,accordance,according,accordingly,cordial,cordiality,concord,concordant,courage,courageous,discord,discordance,discordant,discourage,discouragement,encourage,encouragement,record
+corp###body;身体$$$corps,corpse,corporal,corporality,corporation,corporeal,corpulent,corpus,corpuscle,incorporate,incorporation,corset
+cosm###ornament;修饰###order;秩序$$$cosmetics,cosmic,cosmos,cosmogony,cosmonaut,cosmopolitan,microcosm
+count###to count;计算$$$count,countdown,counter,account,discount,recount
+cover###to cover;掩盖$$$cover,coverage,covert,discover,discovery,recover,recovery,uncover
+cre/cresc###to make;制造###to grow;生长$$$accretion,accrue,create,creation,creative,creator,creature,crescendo,concrete,concretion,crescent,decrepit,decrescent,decrease,decrescendo,increase,increment,procreate,recreate,recreation
+cred###to believe;相信$$$credence,credential,credible,credit,creditable,creditor,credo,creed,credulity,credulous,accredit,discredit,discreditable
+crim###accusation;控诉###crime;罪行$$$crime,criminal,criminate,incriminate,recriminate
+crit###to judge;判断$$$criterion,critic,critical,criticism,criticize,hypercritical,hypocritical
+cruc###cross;十字,交叉$$$crucifix,crusade,crucial,cruciate,crucify,cruciform,cruise,crux,excruciate
+cult###to till;耕种$$$culture,cultural,cultivable,cultivate,cultivation,acculturate,agriculture,agricultural,apiculture,aquiculture,aviculture,floriculturel,pisciculture,sericulture,colony,colonial,colonist,colonize
+cub###cumb;to lie down;横躺$$$cumber,concubine,concubinage,incubus,incumbent,procumbent,procumbent,recumbent,recumbency,succumb
+cur###care for;关注,关怀$$$cure,curer,curious,curiosity,curio,curate,curator,accurate,accurate,accuracy,manicure,pedicure,procure,procurable,procuration,procurator,procurement,secure,security
+curr/curs###to run;流,跑$$$current,currently,currency,concur,concurrence,concurrent,curriculum,cursive,cursor,cursory,discursive,excursion,excursive,incur,incursion,incursive,occur,occurence,precursor,recur,recurrence,recurrent,succor,transcurrent,course,concourse,discourse,intercourse,recourse
+cuss###to strike;打击###to shake;摇动$$$concuss,concussion,discuss,discussion,percuss,percussion,repercussion
+deb/du###to owe;负债$$$debt,debtor,indebted,due,duty,dutiful
+de/div###god;神###divine;神的$$$deify,deific,deification,deiform,deism,deist,deity,divine
+dem###people;民众$$$democracy,democrat,democratic,democratize,democratism,demography,demotic,endemic,epidemic,pandemic,demagogue
+dent###tooth;牙齿$$$dent,dental,dentate,dentist,dentition,denture,edentate,edentulous,indent,indenture,interdental,dandelion
+dic###to say;说$$$diction,dictionary,dictate,dictation,dictator,dictum,dedicate,dedication,abdicate,abdication,condition,contradict,contradiction,contradictious,edict,indicate,indication,indict,interdict,interdiction,jurisdiction,malediction,predicate,predication,predict,prediction,sedition,valedictory,verdict,vindicate
+dign###worthy;有价值的$$$dignity,dignify,dignitary,indign,indignant,indignation,dainty,disdain
+divid/divis###to divide;分割$$$divide,dividend,division,divisive,divisor,divisory,individual,individualism,individuality,indivisible,subdivide,subdivisible
+doc/doct###to teach;教导$$$docent,docile,doctor,doctoral,doctorate,doctrinaire,doctrine,document,documenary,documetation,didactic,didacticism,didactics,indotrinate,indoctrination,disciple,discipline
+dom###house;房屋,家$$$come,domestic,domesticate,domesticity,domical,domicile,semidome
+dom###master;主人$$$dominant,dominate,domination,domineer,dominion,domain,predominate,predominant,predominance,kingdom,madam
+don/dot/dow###to give;给予$$$donate,donation,donee,donor,condone,pardon,anecdote,antidote,dose,dosage,dower,dowry,endow,endowment
+dorm###to sleep;睡眠$$$dormancy,dormant,dormient,dormition,dormitive,dormitory,dormouse
+dogma/dox###opinion;意见$$$dogma,dogmatic,dogmatism,doxology,orthodox,paradox,paradoxical
+draw###to draw;拉,引$$$draw,drawback,drawer,drawerful,indrawn,outdraw,redraw,underdraw,undraw,withdraw
+duc###to lead;领导,引导$$$abduct,adduct,conduce,conduct,conductor,deduce,deducible,deduct,deduction,deductive,ductile,ductility,education,educe,eduction,induce,inducement,induct,induction,inductive,introduce,oviduct,produce,producer,product,production,productive,reduce,reduced,reduction,seduce,seducer,seduction,semiconductor,subdue,superinduce,traduce,ventiduct,viaduct
+dur###to last;持续$$$durable,durance,duration,endure,endurance,indurate,nondurable,obdurate,perdure,perdurable
+dyn/dynam###power;力量$$$dynast,dynastic,dynasty,dynamic,dynamism,dynamite,dynamo,dynamometer,hydrodynamics,thermodynamics
+eco###house;家$$$ecology,economy,economic,economical,economics,economist,economize
+ego###I;我###self;自己$$$egocentric,egoism,egoist,egomania,egotism,egotist
+electr###electric;电的$$$electric,electrical,electrician,electricity,electrify,electrocute,electrochemistry,electrode,electrology,electrolysis,electron,electronics
+em/empt/ampl###to take;拿,获得$$$ample,example,exemplar,exemplify,exempt,preempt,premium,prompt,promptitude,promptly,redeem,redeemer,redemption,ransom
+equ###equal;相等的$$$equable,equal,equalitarian,equality,equanimity,equanimous,equate,equation,equator,equinox,equinoctial,equipoise,equiponderate,equipotential,equity,equitable,equivalent,equivocal,adequate,adequacy
+err###to wander;迷失###to err;犯错$$$err,error,erroneous,errant,errancy,erratic,erratum,aberrant,aberrance,aberration,inerrant,inerratic
+ess/est###to be;存在###essence,essential,interest,interesting,disintereted,quintessence
+fa/fabl/fam/fess###to speak;说$$$fate,fatal,infant,infantry,infancy,infantile,infantine,fable,fabulous,affable,affability,confabulate,effable,ineffable,nefarious,prefatory,fame,famous,infamy,infamous,defame,defamation,defamatory,confess,confession,profess,profession,professional,professor
+fac/fic###face;脸,面$$$face,facelift,facet,facetious,facial,facade,deface,efface,ineffaceable,preface,surface,superficial,front,frontier,affront,confront,effrontery
+fac/fec/fic###to make;做;to do;做,为$$$fact,factor,factory,faction,factional,factious,factitious,factotum,factum,facture,benefactor,malefactor,manufacture,putrefacient,facile,facilitate,facility,facsimile,faculty,affect,affectation,affection,affectionate,confect,confection,confectionary,defect,defection,effect,effective,effectual,infect,infection,infectious,disinfect,perfect,perfection,imperfect,prefect,prefecture,refection,refectory,deficient,deficiency,difficult,difficulty,efficacy,efficient,efficiency,magnificent,magnificence,office,official,proficient,proficiency,profit,profitable,sacrifice,suffice,sufficient,affair,feat,defeat,feature,feasible,counterfeit,forfeit
+fall/fail/fals/fault###to err;犯错###deceive;欺骗$$$fallacy,fallacious,fallible,infallible,fail,failing,failure,false,falsehood,falsify,falsification,falsity,fault,faulty,default
+fare###to go;走$$$fare,farewell,thoroughfare,warfare,welfare
+fend###to strike;打,击$$$fend,fence,fencing,defend,defendant,defense,defensive,offend,offense,offensive,ferry,ferriage,fertile,fertilize,fertilizer,afferent,circumference,confer,conference,conferment,defer,deference,deferential,deferment,differ,difference,defferent,differentiate,efferent,indifferent,infer,inferable,inference,inferential,luminiferous,metalliferous,odoriferous,offer,prefer,preferable,preference,preferential,proffer,refer,referable,reference,referential,somniferous,soniferous,suffer,sufferable,sufferance,sufferance,suffering,transfer,transferor,transferee,transference,
+fer###to carry;运,载$$$ferry,ferriage,fertile,fertilize,fertilizer,afferent,circumference,confer,conference,conferment,defer,deference,deferential,deferment,differ,difference,defferent,differentiate,efferent,indifferent,infer,inferable,inference,inferential,luminiferous,metalliferous,odoriferous,offer,prefer,preferable,preference,preferential,proffer,refer,referable,reference,referential,somniferous,soniferous,suffer,sufferable,sufferance,sufferance,suffering,transfer,transferor,transferee,transference
+ferv###to boil;沸腾$$$fervency,fervent,fervid,fervidity,fervor,defervesce,effervescent,perfervid
+fid###to trust;信任$$$fidelity,fiducial,faith,faithful,confide,confidant,confidence,confident,confidential,diffidence,infiel,infidelity,defy,defiance,defiant,perfidy,perfidious
+fig###to shape;形成###figure;形状$$$figment,figure,figuration,figurative,configuration,disfigure,prefigure,transfigure,effigy
+fin###to end;结束$$$fine,final,finale,finalize,finance,finish,finite,finitude,infinite,infinite,infinitesimal,infinitive,infinitude,infinity,confine,confinement,define,definite,definition,definitive,indefinite,refine,refined,refinement
+firm###firm;坚固$$$firm,firmament,affirm,affirmative,confirm,confirmation,confirmed,disaffirm,infirm,infirmary,infirmity
+fix###to fasten;缚,固定$$$fix,fixate,fixation,fixity,fixture,affix,infix,prefix,suffix,transfix,transfixion
+flam/flagr###flam;火焰###to burn;燃烧$$$flame,flammable,flamboyant,flamingo,inflame,inflammable,inflammation,inflammatory,nonflammable,flagrant,flagrancy,conflagration,effulgent
+flat###to blow;吹$$$flatulent,flatulence,conflate,conflation,deflate,deflation,inflate,inflation,reflation
+flect/flex###to bend;弯曲$$$flexible,flexibility,flexion,flection,inflexible,inflexibility,deflect,deflection,inflect,inflexion,reflect,reflection,reflexion,reflective,reflex,reflexive
+flict###to strike;打击$$$afflict,affliction,afflictive,conflict,inflict,infliction
+flor/flour###flower;花$$$flora,floral,florescent,florescence,floret,floriculture,florid,floriferous,florist,defloration,efflorescence,flourish
+flu###to flow;流动$$$fluent,fluency,fluid,fluidity,flume,flush,fluctuate,affluent,affluence,circumfluent,circumfluence,confluent,confluence,effluent,effluence,influent,influence,influential,refluent,refluence,superfluous,superfluity,inflow,overflow,reflow,flux,fluxion,afflux,conflux,efflux,influx,reflux
+foli###leaf;叶子$$$foliage,foliate,folio,defoliate,exfoliate,portfolio,trifoliate
+forc/fort###strong;强壮的$$$force,forcible,enforce,enforcement,reinforce,reinforcement,perforce,fort,forte,fortify,fortification,fortifier,fortress,fortitude,comfort,comfortable,discomfort,effort
+form###to form;形成###form;形状$$$form,formal,formalism,formality,formation,formula,formulate,conform,conformance,conformation,conformity,deform,deformity,information,informative,informed,malformation,perform,performance,reform,reformation,reformatory,reformer,transform,transformer,transformation,uniform,uniformity,multiform
+found/fund###base;基础$$$found,foundation,founder,fund,fundamental,profound,profundity
+fract/frag###to break;打破$$$fractoin,fracture,fragile,fragility,fragment,fragmentary,fragmentation,frail,frailty,diffract,diffraction,infract,infraction,refrain,suffrage
+fug###to flee;逃走$$$fugacious,fugitive,centrifugal,febrifuge,lucifugous,refuge,refugee,subterfuge,vermifuge
+fuse/found###to pouar;倾倒###to melt;融化,溶化$$$fuse,fusible,fusion,circumfuse,circumfusion,confuse,confusion,diffuse,diffusion,diffusive,effuse,effusion,infuse,infusion,interfuse,perfuse,profuse,profusion,refuse,refusal,suffuse,suffusion,transfuse,found,foundry,confound
+gam###marriage;婚姻$$$bigamy,bigamist,bigamous,monogamy,monogamist,monogamous,polygamy,polygamist,polygamous
+gen###come into being;产生$$$gender,gene,genealogy,general,generality,generalize,generate,generation,generator,degenerate,engender,regenerate,generic,generous,genesis,genial,biogenesis,abiogenesis,congenial,endogenous,exogenous,homogeneity,genital,congenital,pathogenic,primogenitor,progenitive,progenitor,progeny,genius,ingenious,ingenuous,genocide,genteel,gentile,gentle,genuine,genus,eugenics,pregnant,cognate,hydrogen,nitrogen,oxygen
+ger/gest###to carry;运,载$$$gestate,gestation,gesticulate,gesture,congest,congestion,digest,digestion,exaggerate,exaggeration,indigestion,ingest,suggest,suggestion
+grad/grass###to walk;行走$$$grade,gradation,gradient,gradual,graduate,graduation,degrade,degradation,postgraduate,retrograde,undergraduate,upgrade,ingredient,aggress,aggression,congress,digress,digressive,egress,ingress,progress,progressive,regression,retrogress,transgress
+gram/graph###to write;书写$$$grammar,grammarian,cryptogram,diagram,epigram,monogram,parallelogram,program,programmer,telegram,gramophone,graph,graphic,autograph,biography,autobiography,cacography,calligraphy,dictograph,geography,hydrography,lexicography,lithography,monograph,orthography,phonograph,photograph,stenography,telegraph,topography
+grand###grand;大的$$$grand,grandeur,grandiloquent,grandiose,grandiosity,aggrandize,aggrandizement
+grad###to please;欢喜$$$grateful,ungrateful,gratify,gratification,gratitude,ingrate,ingratitude,gratis,gratuitous,gratuity,gratulate,grace,graceful,gracious,disgrace,agree,agreeable,agreement,congratulate,congratulation,ingratiate,ingratiation
+grav###heavy;重$$$grave,gravity,gravitate,gravitation,gravid,gravida,gravimeter,aggravate,aggravation,grieve,grief,aggrieve,engraving
+greg###herd;群,成群$$$gregarious,aggregate,aggregation,congregate,congregation,segregate,segregation,egregious
+habit/hibit###to have;拥有$$$habit,habitual,habitant,habituate,habitude,habitat,habitation,cohabit,inhabit,inhabitation,inhabitant,exhibit,exhibition,inhibit,inhibition,prohibit,prohibition
+hap###luck;运气$$$hap,mishap,happen,happening,haphazard,perhaps
+helio###sun;太阳$$$heliolithic,heliocentric,heliogram,heliograph,helioscope,heiotherapy,heiotropic,heliotropism,helium
+her###heir;继承人$$$heir,heiress,heirloom,heirship,coheir,heredity,hereditament,hereditary,heritage,heritable,inherit,inheritance,inheritor,inheritor,inheritrix,disinherit
+herb###grass;草$$$herb,herbage,herbal,herbalism,herbalist,herbary,herbicide,herbiferous,herbivore,herbivorous
+here/hes###to stick;粘着$$$adhere,adherence,adherent,adhesion,adhesive,cohere,coherence,coherent,cohesion,cohesive,inhere,inherence,inherent,inhesion,hesitate,hesitation,hesitant
+horr###to tremble;发抖$$$horrible,horrid,horrify,horrific,horrification,horror,abhor,abhorrent,abhorrence
+hum###ground;土地$$$human,humane,humanism,humanitarian,humanity,humanize,humankind,humble,humiliate,humiliation,humility,humus,exhume,inhume,posthumous
+hydr###water;水$$$hydrant,hydrate,hydrangea,hydroelectric,hydrogen,hydrogenate,hydrography,hydrolysis,hydrophobia,hydrotherapy,hydrotropism,dehydrate,hydrodynamic
+hypno###sleep;睡眠$$$hypnotic,hypnotism,hypnotist,hypnotize,hypnosis,hypnophobia,hypnotherapy
+idio###personal;个人的###distinct;独特的$$$idiot,idiolect,idiographic,idiom,idiomatic,idiomorphic,idiopathic,idiosyncrasy
+insul###island;岛屿$$$insular,insularity,insulate,insulation,insulator,island,isle,islet,ioslate,isolation,peninsula
+it###to go;走$$$itineracy,itinerant,ambit,ambition,ambitious,circuit,circuitous,coition,initiate,initiation,initiative,initiator,initial,transit,transition,transitive,transitory,transient
+jac/jec###to throw;投,掷$$$abject,abjection,conjecture,deject,eject,ejection,inject,injection,interject,interjection,object,objection,objective,objectivity,project,projecto,reject,rejection,subject,subjection,subjective,trajectory,adjacent,ejaculate,ejaclation,interjeccent,subjacent
+join/junct###to join;加入,连接$$$join,adjoin,conjoin,disjoin,rejoin,subjoin,junction,juncture,adjunct,adjunction,conjunct,conjunction,disjunct,disjunction,injunction,subjunction,subjunctive
+journ###day;一日$$$journal,journalism,journey,adjourn,sojourn,diary,diurnal
+jud###to judge;判断$$$judge,judgement,judicature,judicatory,judiciary,judicious,adjudicate,prejudice,subjudice
+jur###to swear;发誓$$$abjure,abjuraion,adjure,adjuration,conjure,conjuration,perjure,perjury
+just/juris###law;法律###right;正义$$$just,justice,justify,adjust,adjustment,injustice,unjust,unjustifiable,juridical,jurisconsult,jurisprudence,jury,jurist,juror,injure,injurious,injury
+labor###to work;工作$$$labor,laboratory,labored,laborer,laborious,belabor,collaborate,elaborate
+laps###to slip;滑###to glide;溜$$$lapse,collapse,collapsible,elapse,prolapse,relapse
+lat###to bring;带来###to bear;搬运$$$ablation,collate,prelate,dilate,dilatable,dilatation,elate,illation,oblate,relate,relation,relative,relator,superlative,translate,translate,translator,ventilate,ventilation
+later###side;边,侧面$$$lateral,latitude,bilateral,collateral,equilateral,multilateral,quadrilateral,unilateral
+lav/lau###to wash;洗$$$lave,lava,lavatory,lavish,launder,laundress,laundry,deluge,dilute
+lax/lyse###to loosen;放松$$$lax,laxation,laxative,laxity,relax,relaxation,release,analyse,nanlyze,analysis,analytic,analytical,paralyse,paralyze,paralysis
+lect/leg###to choose;选择###to gather;集合###to read;读$$$lectern,lection,lecture,lecturer,collect,collection,elect,election,elector,electorate,intellect,intellectual,neglect,neglectful,recollect,recollection,select,selection,legend,legendary,legible,legion,elegant,elegance
+leg###law;法律$$$legal,legislate,legislation,legislative,legislator,legislature,legist,legitimate,allege,allegation,allegiance,privilege
+lega###to appoint;指定,任命###to send;送$$$legate,legation,legator,legatee,legacy,delegate,delegation,delegacy,relegate,relegation
+lev###to raise;升,举###light;轻的$$$lever,leverage,levy,leviable,levitate,levitation,levity,alleviate,alleviation,elevate,elevation,elevator,relevant,relevance,relieve,relief
+liber###free;自由的$$$liberal,liberalism,liberalist,liberality,liberalize,liberalization,liberate,liberation,liberator,liberty,libertarian,libertine
+libr/lib###book;书籍$$$library,librarian,libretto,librettist,libel,libelous
+lic###to be permitted;被允许,被准许$$$license,licensee,licenser,licentiate,licentious,illicit
+lig###to bind;绑$$$ligate,ligament,ligature,oblige,obligate,obligation,obligatory,religion,religious,league,colleague,colligate
+lingu###tongue;舌头###language;语言$$$ingual,linguist,linguistic,linguistics,bilingual,collingual,monolingual,multilingual,sublingual,trilingual,language
+liqu###liquid;液体###liquate,liquefy,liquefaction,liquescent,liquid,liquidity,liquidize,liquor
+liter###letter;文字$$$literal,literalism,literally,literary,literate,literature,alliterate,iliteracy,illiterate,obliterate,obliterate,preliterate,subliterary,transiliterate
+loc###place;场所$$$local,locale,localism,locality,localize,locate,location,allocate,collocate,collocation,dislocate,dislocation,mislocate,relocate,relocation,translocation,locus
+log###speech;讲话$$$catalog,decalog,dialog,monolog,prolog,epilog,logic,logical,apology,apology,apologia,apologist,apologue,apologize,analogy,analogous,antropology,astrology,chronology,entomology,etymology,eulogy,enlogize,genealogy,geology,meteorology,mineralogy,mythology,neology,pathology,philology,phrenology,physiology,psychology,theology,trilogy,zoology,colloquial,colloquy,eloquence,loguacious,loquacity,obloquy,soliloquy,locution,circumlocution
+long###long;长的$$$longevity,longtitude,longitudinal,along,belong,elongate,elongation,length,lengthen,lengthy,oblong,prolong,prolongate,prolongation
+lud/lus###to play;扮演,游戏$$$allude,allusion,collude,delude,delusion,elude,elusion,elusive,illusion,disillusion,ludicrous,prelude,interlude,postlude
+luc/lux/lust###bright;亮的$$$luster,lustrous,illustrate,illustration,lucent,lucid,lucidity,Lucifer,lucifugous,luculent,elucidate,noctiluca,noctilucent,pellucid,translucent
+lum/lumen/lumin###light;光$$$luminance,luminary,luminescence,luminiferous,luminosity,luminous,illuminate,illumine,relumine,bioluminescence,illuminati,lumen,superluminal,phillumenist
+magn/max/maj###great;伟大的$$$magnanimous,magnanimity,magnate,magnify,magnificate,magnificence,magnifico,magnifier,magniloquent,magniloquence,majesty,majestic,major,majority,maxim,maximal,maximum,climax,anticlimax
+man/anu###hand;手$$$manacle,manage,management,manager,manicure,manifest,manipulate,manipulation,manual,manufacture,manumit,manuscript,emancipate,emancipation
+mand/mend###order;命令###entrust;委托$$$command,commander,commandment,countermand,demand,mandate,mandatory,remand,commend,commendation,recommend,recommendation,commando
+mari/mare###sea;海$$$marine,mariculture,mariner,submarine,submariner,transmarine,ultramarine,ultramarine,aquamarine,marina,mare,mare-clausum,mare-liberum
+mark###to mark;标记###boundary;边界$$$mark,marked,markedly,marker,demarcate,demarcation,remark,remarkable
+mater/matr###mother;母亲$$$mater,maternal,maternalism,maternity,matriarchy,matricide,matrilineal,matrimony,matrix,matron,matrilocal,matriculate
+med###middle;中间###to heal;治疗$$$medic,medical,medicate,medication,medicine,medicinal,remedy,remediable,irremediable,medium,medial,median,mediate,mediation,mediator,mediocre,medieval,Mediterranean,immediate,intermediate,intermediation,intermediary,intermedium
+melan###black;黑色$$$melancholia,melancholiac,melancholy,melanin,melanism,melanoma
+memor###to remember;记忆$$$memorable,memorial,memory,memorize,memorandum,memoir,memento,commemorate,commemorable,commemoration,remember,remembrance
+ment###to think;想###mind;心智$$$mental,mentalism,mentalist,mentality,mention,mentor,amentia,comment,commentary,demented,dementia,senile-dementia,vehement,mind,remind,reminder,reminiscent,reminiscence
+merc###to trade;贸易###reward;报酬$$$mercantile,mercenary,mercer,merchandise,merchant,marker,marketing,mercy,merciful,merciless,commerce,comercial
+merge/mers###to sink/to dip;沉$$$merge,mergence,merger,emerge,emergence,emergent,emersion,immerge,immerse,immersion,submerge,submergence,submersion,submerge,submergence,submersion,submersible
+meter###to measure;测量$$$meter,metric,metricate,metrology,metronome,aerometer,anemometer,barometer,chronometry,diamter,dynamometer,geometry,heiometer,hydrometer,hygrometer,perimeter,seismometer,symmetry,thermometer,trigonometry,voltmeter
+migr###to remove;移动###to wander;飘泊$$$migrate,migrant,migration,migratory,emigratory,emigrate,emigrant,emigration,immigrate,immigrant,immigration,transmigrate,transmigrant,transmigration
+milit###soldier;士兵$$$militant,militancy,militry,militarize,militarism,militate,militia,demilitarize,demilitarization,remilitarize,remilitarizaition
+min###to jut/to project;突出$$$eminent,eminence,imminent,imminence,preeminent,preeminence,prominent,prominence,supereminent,supereminence
+min###small;小的$$$minify,minification,minim,minimal,minimize,minimum,minor,miniority,minus,minuscule,minute,minute,minutia,mince,sminister,ministry,administer,administration,administrative,comminute,comminution,diminish,diminution,diminutive,miniature,minikin
+mir###to wonder;惊讶###to behold;看见$$$admire,admirer,admirable,miracle,miraculous,mirage,mirror,marvel,marvelous
+miss/mit###to send;送###to throw;投,掷$$$missile,mission,missionary,message,messenger,admit,admission,admittance,commit,commitment,committee,commission,commissioner,compromise,demise,demission,dismiss,dismissal,emit,emission,emissary,intermit,intermittence,intermittent,intermission,manumit,manumission,omit,omission,omissible,omissive,permit,permission,premise,pretermit,pretermission,promise,promising,promissory,remiss,remit,remittance,remittee,remitter,remittent,remission,submit,submission,submissive,surmise,transmit,transmission
+mod###manner;方法,样式$$$mode,modal,model,moderate,moderation,moderator,modern,modernize,modest,modesty,modify,modification,modify,modification,modifier,modish,modulate,modulation,commodity,commodious,commode,accommodate,accommodation,outmoded
+mon###to advise;忠告###to remind;提醒$$$monition,monitor,monitorship,monitory,monument,monumental,monumentalize,admonish,admonition,admonitor,admonitory,premonish,premonitory,summon
+monstr###to show;表示$$$monster,monstrous,demonstrate,demonstration,demonstrative,remonstrate,remonstrance,remonstrant
+mor###custom;风俗,习惯$$$moral,morale,moralism,moralist,moraity,moralize,moralization,amoral,demoralize,demoralization,immoral,unmoral,mores,morose
+morph###form;形状,形态$$$morphology,geomorphic,amorphous,morph,morphological,amorphous,heteromorphic,isomorphic,metamorphosis,polymorphic
+mort###death;死$$$mortal,mortality,immortal,mortician,mortify,mortification,mortuary,morbid,morbidity,moribund,mortgage,postmortem
+mount/mont###mountain;山###to ascend;上升$$$mount,mountain,mountainous,mountainy,amount,dismount,paramount,promontory,remount,surmount,surmountable,montage,
+mov/mob/mot###to move;移动$$$move,movement,movable,remove,removable,removal,mob,mobile,mobilize,mobilization,automobile,demobilize,mobocracy,motion,motivate,motif,motor,motorize,commotion,demote,emotion,emotional,locomotion,locomotive,promote,promoter,promotion,remote,remoteness,moment,momentary,momentous,momentum
+muni###service;服务$$$municipal,munificence,munificent,commune,communicate,communication,communion,communism,communist,community,immune,immunity,immunize
+mur###wall;墙$$$mural,muralist,extramural,immure,immurement,intramural
+mut###to change;改变$$$mutable,mutability,mutate,mutation,mutual,mutuality,commutate,commutation,commutator,commute,commuter,immutable,permute,permutation,transmute,transmutation
+myst###mystery;神秘$$$mystagogue,mystery,mysterious,mystic,mystical,mysticism,mystify,myth
+nasc/nat/nai###to be born;出生,天生$$$nation,national,nationality,nationalize,nationalization,native,naive,nature,natural,naturalism,naturalize,naturalization,cognate,cognation,connate,connatural,denatural,denaturalize,innate,neonate,postnatal,prenatal,renaissance
+nau/nav###ship;船$$$nausea,nauseate,nauseant,nauseous,nautical,aeronaut,aeronautics,astronaut,navy,naval,navicert,navicular,navigate,navigation,navigator,navigable,circumnavigate,circumnavigation
+necro###death;死亡###dead;死亡的$$$necrology,necromancy,necromancer,necropolis,necrosis,necrophobia,necrotomy
+nect/nex###to bind;绑,连结$$$connect,connection,connective,connector,disconnect,disconnected,interconnect,interconnection,annex,annexation,connexion,nexus
+neg###to deny;否定$$$negate,negation,negative,neglect,neglectful,negligence,negligible,negotiate,negotiation,negatron,renegade
+neur/neuro/nerv###nerve;神经$$$neural,neuralgia,neurasthenia,neuritis,neurobiology,neurochemistry,neurology,neurological,neurosis,neurotic,nervous,enervate,innerate,unnerve
+neutr###neither;两者都不$$$neuter,neutral,neutralism,neutralist,neutrality,neutralize,neutron
+nihil###nothing;无,虚无$$$nihil,nihilism,nihilist,nihilistic,nihility,annihilate,annihilation,annihilator
+noc/nox###to harm;伤害$$$nocent,nocuous,noxious,innocent,innocence,innocency,innocuity,obnoxious
+noct/nox###night;夜晚$$$noctambulant,noctambulism,noctambulist,noctilucent,nocturnal,noctivagant,eqinox,eqninoctial
+nomin###name;名字$$$nominal,nominalism,nominate,nomination,nominative,nominator,nominee,denominate,denomination,denominational,denominative,denominator,ignominy,ignominious
+norm###rule;规则###norm;标准$$$norm,normal,normalize,normalization,normality,normally,normative,abnormal,abnormality,enormity,enormous,subnormal,supernormal
+not###to-mark;标示$$$note,noted,nota-bene,notable,notary,notarial,notarize,notarization,notandum,notation,notice,noticeable,notify,notification,notion,notorious,annotate,annotation,connote,connotation,connotative,denote,denotation
+nounce/nunci###to report;报告$$$announce,announcement,annunciate,annunciation,denounce,denunciation,enunciate,enunciation,pronounce,pronunciation,renounce,renouncement,renunciation
+nov###new;新的$$$novel,novelette,novelist,novelty,novice,novity,novitiate,innovate,innovation,innovator,renovate,renovation
+nul/null###nothing;无$$$null,nullify,nullification,nullity,annul,annulment
+number/numer###number;数###to count;计数$$$number,numberless,numberable,numerable,numeral,numerate,numerical,numerous,enumerate,enumeration,innumerable,supernumerary
+nutri###to nourish;滋养,孕育$$$nutrient,nutriment,nutrition,nutritious,nutritive,innutrition,malnutrition
+onym###name;名字$$$acronym,anonym,anonymous,antonym,autonym,cryptonym,homonym,matronymic,paronym,patronymic,pseudonym,synonym
+oper###to-work/work;工作$$$opera,operable,operant,operate,operatic,operational,operative,operator,cooperate,cooperation,cooperative,cooperator
+opt###choose;选择$$$opt,option,optional,adopt,adoption,adoptive,optative,optimism,optimist,optimize,optimum
+opt/opto###eye;眼睛,视力$$$optic,optical,optician,optics,optometer,optometrist,optometry,hyperopia,myopia,myopic
+ora###to speak;说话###to pray;祷告$$$oral,orate,oration,orator,oratorical,oratorio,oratory,oratrix,oracle,oracular,adoration,inexorable,inexorability,peroral,perorate,peroration
+order/ordin###order;顺序$$$order,orderly,ordinal,ordinance,ordinary,ordinarily,ordinate,ordination,ordinee,coordinate,coordinative,coordinator,disorder,extraordinary,extraordinarily,inordinate,primordial,subordinate,subordination,subordinative
+ori###to rise;升起###to begin;开始$$$orient,oriental,orientate,orientation,origin,original,originality,originate,originative,originator,aboriginal,abortion,disorient,disorientate,disorientation,reorient,reorientate,reorientation
+orn###to decorate;装饰###to furnish;装备$$$ornament,ornamental,ornamentalist,ornate,adorn,adornment,inornate
+ortho###straight;直的###right;正的$$$orthodox,orthodoxy,orthogonal,orthography,orthographer,orthographic,orthopedic,orthopedics,orthopedist,orthopsychiatry,orthoptic,orthotic,orthotics
+pact###to agree;同意###to fasten;系紧$$$pact,compact,compactly,compactor,impact,impacted,impaction
+pan###bread;面包$$$panada,pantry,company,companion,companionship,accompany
+par###equal;相等$$$par,parity,compare,comparable,comparability,comparative,comparison,disparate,disparity,imparity,pair,disparage
+part###part;部分###to part;分开$$$part,partage,parting,partake,partial,partiality,partible,participate,participant,participation,participator,participle,particle,particular,particularity,particulate,partisan,partition,partitioner,partner,partnership,apart,apartment,compart,compartment,counterpart,depart,department,departure,impart,impartation,impartial,impartiality,impartment,parcel,portion,apportion,proportion,proportional
+pass###to pass;通过$$$pass,passage,passenger,passerby,passover,passport,pastime,bypass,compass,impasse,overpass,repass,surpass,trespass,trespasser,underpass
+path/pati###suffering;受苦的$$$patient,patience,impatient,compatible,compatibility,incompatible,pathos,pathetic,pathogeny,pathology,antipathy,antipathetic,apathy,apathetic,neuropathy,psychopathy,sympatheticm,sympathy
+patr###father;父亲$$$paternal,paternity,patriarch,patrician,patricide,patrilineal,patrimony,patriot,patriotic,patriotism,patron,patronage,patronize,compatriot,expatriate,repatriate,repatriation
+ped###foot;足$$$pedal,pedate,pedestal,pedestrian,pedicab,pedicure,pedometer,biped,centipede,multiped,quadruped,tripod,expedite,expedition,expeditionary,expeditious,expedient,expedience,impede,impediment
+ped###child;儿童$$$pedagogue,pedagogic,pedagogy,pedant,pedantic,pedantry,pediatrician,pediatrics,pedophilia
+pel/puls###to move or drive;驱动,移动$$$pulse,pulsate,pulsatile,pulsation,compel,compulsion,compulsive,compulsory,dispel,expel,expellant,expulsion,expulsive,impel,impellent,impulse,impulsion,impulsive,propel,propellant,propeller,propulsion,propulsive,propulsor,repel,repellent,repulse,repulsion,repulsive,peal,appeal,appealing,appellant,appellation,appellative,repeal
+pen/pun###to punish;处罚$$$penal,penalize,penalty,penance,penitence,penitent,penitentiary,repent,repentance,repentant,punish,punishment,punitive,impunity
+pend/pens###to hang;悬挂###to weigh;衡量$$$pendant,pending,pendulous,pendulum,append,appendage,appendant,appendix,appendicitis,compendious,compendium,denpend,dependant,dependence,dependency,expend,expenditure,expense,expensive,impend,impending,independence,independency,independent,interdependence,perpend,perpendicular,spend,suspend,suspender,suspense,suspension,suspensive,suspensor,suspensory,pension,pensive,compensate,compensation,dispense,dispensable,indispensable,dispensary,dispenser,dispensation,prepense,propensity,recompense,poise,counterpoise,ponder,ponderable,ponderous,preponderate,preponderant
+peri###going around something;四处,周围走动$$$peripatetic,periodontal,peristalsis,periscope,perigee,perimeter,peripheral
+pet###to seek;寻求$$$petition,petitionary,petitioner,appetite,appetitive,appetizer,appetizing,appetent,compete,competition,competitive,competitor,competence,competent,incompetent,impetus,impetuous,repeat,repetition,centripetal
+petr/petro###stone;石###rock;岩石$$$petrification,petrify,petrochemistry,petrography,petroleum,petroliferous,petrology,petrologist
+phan/phen/fan###to appear or seem;显现$$$phan,phantasm,phantom,phase,fantasy,fantasia,fantastic,fancy,fancied,fanciful,phenomenon,phenomenal,diaphanous,emphasize,emphasis,emphatic
+phon/phe###sound;声音###to speak;说话$$$phoneme,phonemics,phonetic,phonetician,phonetics,phonic,phonics,phonogenic,phonogram,phonograph,phonology,phonometer,phonophile,phonovision,cacophony,cacophonous,euphony,euphonious,gramophone,homophone,megaphone,microphone,symphony,telephone,xylophone,blaspheme,euphemism,prophecy,prophesy,prophet
+photo###light;光$$$photon,photochemistry,photochromic,photocompositioin,photoconduction,photocopy,photocopier,photocurrent,photodetector,photoelectric,photogenic,photograph,photographer,photography,photometer,photophobia,photoprint,photosensitive,photosynthesis,phototherapy,phototube
+pict###to paint;描写###picture;画$$$pictograph,pictorial,pictorialize,picture,picturesque,depict,depiction
+plac/pleas###to please;取悦,使高兴$$$placate,placable,placability,placatory,placid,placidity,complacent,complacency,implacable,please,pleased,pleasing,pleasant,pleasantry,pleaure,complaisance,complaisant,displease,displeasing,displeasure,unpleasant
+plain/plaint###to beat the breast;捶胸$$$plaint,plaintiff,plaintive,plaintiveness,complain,complainant,complaint
+plant###to plant;种植###plant;植物$$$plant,plantation,planter,plantlet,implant,implantation,transplant,transplantable,transplantation
+pland/plode###to strike;打,击###to clap;鼓掌,拍$$$applaud,applaudable,applause,applausive,plaudit,plausibility,explode,explosion,explosive,implode
+plen/plete/ple###to fill;充满###full;满的$$$plenary,plenipotentiary,plenitude,plenty,plenteous,plentiful,plenum,ample,complete,completeness,completion,complement,complementary,deplete,expletive,implement,impletion,replenish,replenishment,replete,repletion,supplement,supplemental,supplementary
+ply/pli/pie###to fold;折叠,表示“倍；重”$$$ply,pliable,pliers,apply,appliance,applicable,applicant,application,imply,implicate,implicit,reply,replica,replicate,complicated,complication,complicity,complex,complexion,complexity,explicate,explicable,explication,explicit,exploit,perplex,perlexed,perlexity,supplicate,suppliant,deploy,deployment,display,employ,employee,employer,employment,simple,simpleton,simplicity,simplify,duple,duplex,duplicate,duplicator,duplicity,diploma,diplomatic,diplomacy,diplomatist,triple,triplicate,triplicity,quadruple,quadruplicate,multiple,multiplex,multiply,multiplicity,multiplication,multiplicative,plait,pleach,pleat,plight
+polis/polit##city;城邦$$$acropolis,cosmopolis,cosmopolitan,megalopolitan,metropolis,metropolitan,necropolis,polity,politic,political,politician,politics,police,policy,impolitic
+pon/pos###to place/to put;放置$$$component,compound,exponent,expound,opponent,postpone,postponement,proponent,pose,posit,position,positive,post,post,postage,postal,posture,appostie,apposition,compose,composedly,composer,composite,compositor,composition,compost,composure,decompose,depose,deposit,deposition,depositor,depository,discompose,discomposure,dispose,disposable,disposal,disposition,expose,exposure,exposition,expositor,impose,imposing,imposition,impostor,imposture,indispose,indisposition,interpose,juxtapose,oppose,opposite,opposition,predispose,predisposition,preposition,prepositional,prepositive,propose,repose,repose,reposal,reposeful,reposit,reposition,repository,superimpose,superpose,superposition,suppose,supposedly,supposition,presuppose,presupposition,transpose,transposition,pause
+popul/publ###people;人$$$populace,popular,popularity,popularize,populate,population,populous,public,publicity,publicize,publish,publication,depopulation,overpopulated,overpopulation,republic,republican,republish,republication,underpopulated,vox-populi
+port###to carry;运送$$$port,portal,portico,porch,opportunity,opportune,opportunism,opportunist,passport,transport,transportation,portable,portage,porter,portfolio,deport,deportee,deportation,deportment,disport,export,exporter,import,important,importance,importation,importer,purport,report,sport,sporty,support,supportable,supporter
+potent###powerful;有力的$$$potent,potence,potentate,potential,potentiality,potentialize,potentiate,impotent,impotence,omnipotent,onmipotence,prepotent
+preci/prais###price;价值,价格$$$precious,preciosity,preciousness,appreciate,appreciable,appreciably,appreciation,appreciative,appreciator,depreciate,depreciation,depreciatory,praise,appraise,appraisal
+press###to press;压$$$press,pressing,pressure,compress,compressed,compressible,compression,compressive,compressor,depress,depressant,depressed,depressing,depression,express,expressage,expression,expressionism,expressionist,expressive,expressly,impress,impression,impressionable,impressionism,impressionist,impressive,oppress,oppression,opressor,repress,repression,repressible,repressive,repressor,suppress,suppressible,suppression,suppressor
+prim/prin/prem###first;第一$$$prime,primer,primeval,primitive,primitivism,primogenitor,primogeniture,primordial,primordium,primrose,primus,primacy,prima-donna,primal,primary,primarily,primate,prince,principal,principle,premier
+prehend/prehens###to seize;捉,握取$$$prehensile,prehension,apprehend,apprehensible,apprehension,apprehensive,apprentice,apprenticeship,comprehend,comprehension,comprehensive,misapprehend,reprehend,reprehensible,reprehension
+priv###private;私有的###to deprive;使丧失$$$private,privacy,privately,privation,privatism,privative,privatize,privilege,privileged,privy,privily,privity,depreive,deprived,deprivation
+proach/proxim###near;接近$$$approach,approachable,approachability,approximate,approximately,proximal,proximity,reproach,reproachful,reproaching
+prob/prov###prove;证明###proof;检验$$$prove,proof,probable,probably,probability,probate,probation,probationary,probationer,probative,probe,probing,probity,approbate,approbation,approbative,approbatory,approve,approval,disapprove,disapproval,disprove,disproof,improve,improvement,reprobate,reprobation,reprove,reproof,reprieve
+prop/propri###own;拥有$$$proper,property,proprietary,proprietor,proprietorial,proprietorship,appropriate,expropriate,expropriation,impropriety,misappropriate,misappropriation
+psych###soul;心灵,精神$$$psyche,psychiatry,psychiatric,psychiatrist,psychic,psychics,psychoanalysis,psychoanalyze,psycholinguistics,psychology,psychological,psychologist,psychologize,psychoneurosis,psychopath,psychopathy,psychosis,psychosomatic,psychotherapy,psychotherapist
+pugn###to fight;战斗,打架$$$pugnacious,pugnacity,impugn,impugnable,impugnment,repugnance,repugnant
+punc/pung###to prick;刺###point;点$$$pungent,pungency,punctate,punctilio,punctilious,punctual,punctuality,punctuate,punctuation,puncture,acupuncture,compunction,compunctious,expunge,expunction,pounce,punch,poignant,point,appoint,appointment,disappoint,disappointment
+pur##pure;纯洁的$$$pure,purify,purification,purism,puritan,puritantic,purity,impure,impurity
+purg###to purify;使清洁$$$purge,purgation,purgative,purgatory,purgee,purger,compurgation,expurgate,expurgation,expurgator,expurgatory,unexpurgated
+put###to think/to consider;思考$$$compute,computer,computerese,computerize,computation,depute,deputation,deputy,dispute,disputable,disputation,disputatious,impute,imputation,indisputable,putative,repute,reputation,reputable,disreputable,disrepute,amputate
+quarr/quer###to complain;抱怨$$$quarrel,quarreler,quarrelsome,querimonious,querulous
+qui/quiet###calm;安静###rest;休息$$$quiet,quietness,quietude,quietus,inquietude,unquiet,quiescence,quiescent,acquiesce,acquiescence,acquiescent
+quest/quir/quis/quer###to seek;追求$$$query,quest,question,questionable,questionnaire,acquire,acquirement,acquistion,acquisitive,conquer,conquest,disquisition,exquisite,inquire,inquiry,inquest,inquisition,inquisitive,require,requirement,requisite,prerequisite,requisition,request,sequester
+quit###to free;使自由$$$quit,quittance,quitter,acquit,acquittal,requite,requital,unrequited
+rad/ras###to scrape;刮,擦$$$abrade,abradant,abrase,abrasion,abrasive,erate,erasable,eraser,erasure,raze,razor
+radi###root;根$$$radical,radicalism,radicalize,radicalization,radicand,radicle,radish,radix,deradicalize,eradicate,eradicable,eradication,eradicator
+radi###ray;射线$$$radium,radius,radial,radiate,radiation,radiative,radiator,radiant,radiance,radio,radioactive,radioactivity,radiology,radiotelephone,radiotherapy,irradiate,irradiation,irradiant,irradiance
+rap/rav###to snatch;攫夺$$$rape,rapist,rapacious,rapid,rapidity,rapt,rapture,enrapt,enrapture,rapturous,raptorial,ravage,raven,ravening,ravish,ravishment
+rat/ratio###to reckon;推定###reason;理由,理性$$$ratify,ratio,ratiocinate,ratiocination,ration,rational,rationale,rationalism,rationalist,rationality,rationalize,rationalization,irrational,irrationality
+rect###right;正的,公正的###straight;直的$$$rectal,rectum,rectangle,rectify,rectifiable,rectifier,rectilineal,rectitude,rector,correct,correction,correctitude,corrective,corrector,direct,direction,directive,director,directory,erect,erectile,erection,erectness,erector,escort,incorrect,indirect
+reg###to rule;统治###king;王$$$regal,regalia,regent,regency,regicide,regime,regiment,Regina,regius,region,realm,regnal,regnant,reign,regular,regularity,regulate,regulation,irregular,royal,royalty,rigid,rigidity,rigor,rigorous
+rept###to creep;爬行$$$reptant,reptile,reptilian,surreptitious,subreption
+rid/ris###to laugh;笑$$$ridicule,ridiculous,risible,risibility,deride,derisioin,derisive,derisory
+rod/ros###to gnaw;咬$$$rodent,rodenticide,corrode,corrosion,corrosive,erode,erosion,erosive
+rog###to ask;询问$$$rogation,abrogate,abrogation,arrogance,arrogant,arrogate,arrogation,derogate,derogatory,interrogate,interrogation,interrogative,interrogator,interrogatory,prerogative,surrogate
+rot###wheel;轮子###to turn;旋转$$$rotary,rotate,rotation,rotational,rotator,rotatory,rotor,rotund,rotunda,rotundity,dextrorotaotry,levorotatory
+rud###rude;原始的,粗野的$$$rude,rudiment,rudimental,rudimentary,erudite,erudition
+rupt###to break;打破$$$rupture,abrupt,abruption,bankrupt,bankruptcy,corrupt,corruption,disrupt,disruption,erupt,eruption,incorrupt,incorruptible,interrupt,interruption,irrupt,irruption,route
+rur/rus###country;乡村$$$rural,rurality,ruralize,rustic,rusticate,rustication,rusticity,ruralist
+sacr/sanct###sacred;神圣的$$$sacred,sacrifice,sacrilege,scrilegious,sacrosanct,sacrosancity,sacrament,sacramental,sanctify,sanctification,sanctimony,sanctimonious,sanction,sancity,sanctuary,consecrate,consecration,desecrate,desecration,execrate,execration,excerable,obsecrate,obsecration,saint
+sal###salt;盐$$$salad,salary,salaried,salify,saliferous,saline,salina,salinity,salinize,salt,salted,salter,saltern,desalination
+sal/san###healthy;健康的$$$salute,salutatory,salutation,salubrious,salubrity,salutary,sane,sanity,insane,insanity,sanative,sanatory,sanatorium,sanitary,sanitate,sanitation,sanitarian,insanitary
+sangui###blood;血$$$exsanguine,sanguine,sanguinary,sanguineous,sanguinity,consanguine,consanguinity,ensanguine
+sat/full###充满的$$$sate,satiate,satiation,satiable,satiey,insatiable,insatiability,insatiate,satisfy,satisfaction,satisfacotry,dissatisfy,dissatisfaction,dissatisfactory,saturate,saturation
+scend/scent/scal###to climb;登,爬$$$ascend,ascent,asensive,asension,ascendant,ascendancy,descend,descent,descendant,condescend,condescension,transcend,transcendent,transcendence,transcendental,scale,escalade,escalator
+sci###to know;知道$$$science,sceintific,scientist,sciolism,sciolist,conscience,conscientious,conscious,consciousness,subconscious,nescient,nescience,omniscient,omniscience,prescient,prescience,prescientific
+scribe/script###to write;写$$$scribe,scribble,scrip,script,scripture,scrivener,ascribe,ascription,circumscribe,circumscription,conscribe,conscript,conscription,describe,description,descriptive,indescribable,inscribe,inscription,manuscript,nondescript,postscript,prescribe,prescript,prescription,prescriptive,proscribe,proscription,rescript,subscribe,subscriber,subscript,subscription,superscribe,superscription,transcribe,transcription
+sect###to cut;切割$$$sect,sectarian,sectary,sectile,section,sectional,sectionalism,sectionalize,bisect,bisection,dissect,dissection,dissector,insect,insectarium,insecticide,insectivore,insectivorous,intersect,intersection,intersection,transect,transection,vivisect,vivisection,secant,segment
+sed/sess/sid###to sit;坐$$$sedate,sedative,sedentary,sediment,sedimentation,sedulous,sessile,session,assess,assessor,assiduous,assiduity,dissidence,dissident,insidious,obsess,obsession,obsessive,possess,possessed,possession,dispossess,prepossess,respossess,preside,president,presidency,presidential,presidium,reside,residence,resident,residential,residual,residue,subside,subsidence,subsidize,subsidy,subsidiary,supersede,supersession,siege,besiege,consult,consultant,exile
+semin###seed;种子$$$seminal,seminar,seminary,semination,seminiferous,disseminate,dissemination,disseminator,inseminate,insemination
+sen###old;老的,年长的$$$senate,senator,senatorial,senescent,senescence,senile,senility,senior,seniority
+sens/sent###to feel;感觉$$$sense,sensibility,sensible,sensitive,sensitivity,sensorium,sensory,sensual,sensuous,sensate,sensation,sensational,sentient,sentience,sentiment,sentimental,sentimentality,sentence,sententious,assent,assentient,assentation,consent,consentient,consentaneous,consensus,dissent,dissenter,dissentient,dissension,extrasensory,insensate,insensible,insensitive,nonsense,presentiment,resent,resentful,resentment,scent
+sequ/secut/su###to follow;跟随$$$sequacious,sequel,sequence,sequent,sequential,consequence,consequent,consequential,obsequious,subsequence,subsequent,consecution,consecutive,execute,execution,executive,excecutor,persecute,persecution,prosecute,prosecution,prosecutor,sue,ensue,pursue,pursuance,pursuit,suit,suitable,suite
+sert###to join;结合###to put;放置$$$series,serial,seriate,serried,assert,assertion,assertive,concert,desert,deserted,desertion,dissertation,exert,exertion,insertion,reassert,reassertion
+serv###to serve;服务###to keep;保持$$$serve,servant,service,servile,servility,servitude,serf,serfdom,sergeant,conserve,conservancy,conservation,conservative,conservatory,deserve,disserve,disservice,observe,observance,observation,observatory,preserve,preservation,preservative,reserve,reserved,reservation,reservoir,subserve,subservient
+sign###to mark;加上记号$$$sign,signal,signatory,signature,signet,signify,significant,significance,signification,significative,assign,assignation,assignee,assigner,assignment,consign,consignee,consigner,consignment,countersign,countersignature,design,designed,designer,designate,designation,ensign,insignia,resign,resigned,resignation
+simil/sembl###like;类似###same;相同$$$simile,similar,similarity,similitude,simulate,simulant,simultaneous,simultaneity,assimilate,assimilation,dissimilate,semblance,assemble,assemblage,assembly,dissemble,facsimile,resemble,resemblance,verisimilar,verisimilitude
+sinu###bend;弯曲$$$sinuate,sinuation,sinuous,sinuosity,sinus,sinusitis,insinuate,insinuation,insinuative
+sist/stitut/sta/st###to stand;站立$$$assist,assistance,assistant,consist,consistent,consistence,desist,exist,exsitent,existence,insist,insistent,insistence,persist,persistent,persistence,resist,resistant,resisntance,inresistible,subsist,subsistence,constitute,constituent,constitution,constitutional,destitute,destitution,institute,institution,prostitute,prostitution,restitute,restitution,solstice,substitute,substitution,superstition,superstitious,stable,stablize,stabilization,stability,establish,establishment,stage,constrast,obstacle,obstetric,obstinate,obstinacy,stance,state,stately,statement,statesman,static,station,stationary,stationer,stationery,statist,statistics,statue,stature,status,statute,estate,stead,steady,steadfast,circumstance,circumstantial,circumstantiate,constant,constancy,destine,destiny,destination,distant,distance,extant,instant,instance,instantaneous,substance,substantial,substantiate,restore,restoration,restorative,stall,install,installation,installment,apostasy,apostate,ecstasy,ecstatic,metastasis,system
+soci###companion;同伴###to associate;结交$$$sociable,sociability,social,socialism,socialist,socialite,socialize,socialization,society,sociology,sociological,sociologist,asociate,associable,associated,association,associative,consociate,consociation,dessociable,dessociation
+sol###alone;单独的$$$sole,solely,solitary,solitude,solo,soloist,solemn,solemnity,solioquy,solid,solidity,solidarity,solidify,consolidate,consolidation,console,consolation,solace,desolate,desolation
+sol###sun;太阳$$$solar,solarium,solarize,solarization,circumsolar,extrasolar,insolate,insolation,parasol,subsolar,turnsole
+solv/solu###to loosen;松开$$$solve,soluble,solute,solution,solvable,solvent,absolve,absolution,absolute,dissolve,dissoluble,dissolution,dissolute,dissolvable,dissolvent,insolvable,insolvency,insolvent,resolve,resolvable,resolvent,resolute,resolution
+somn###sleep;睡眠$$$somnambulate,somnambulism,somnambulist,somniferous,somniloquy,somnolent,somnolence,insomnia,insomniac
+son###sound;声音$$$sonant,sonance,sonic,soniferous,sonorous,sonority,consonant,consonance,dissonant,disonance,resonant,resonance,resonate,resonator,subsonic,supersonic,ultrasonic,unison,unisonant,unisonous
+soph###wise;聪明的###wisdom;智慧$$$sophism,sophist,sophistic,sophisiticate,sophisticated,sophistication,sophistry,sophomore,sophomoric,philosophy,philosoper,philosophic
+sort###kind;种类$$$sort,sorter,assort,assorted,assortment,consort,consortium,resort,resort
+spec/spic###to see/to look;看见$$$spy,espy,espionage,espial,species,special,specialist,specialty,specialize,specimen,spice,specify,specific,specious,spectacle,spectacular,spectator,spectral,specter,spectrum,specular,speculate,speculation,speculator,speculum,scope,auspice,conspicuous,frontispiece,persipcuous,perspicacious,transpicuous,despise,despicable,despite,aspect,circumspect,conspectus,expect,expectant,expectancy,expectation,inspect,inspection,instpector,introspect,perspective,prospect,prospective,respect,respectable,respectful,respective,retrospect,,suspect,suspicion,suspicious,auspicious,conspicuous
+sper###hope;希望$$$desperado,desperate,desperately,desperation,despair,despairing,prosper,prosperity,prosperous,
+spers###to scatter;撒,散播$$$asperse,aspersion,disperse,dispersal,despersed,despersion,despersive,intersperse,interspersion,sparse,sparisty
+shper###ball;球,球状物$$$sphere,spherical,sphericity,spherics,spheroid,spherometer,spherule,atmosphere,atmospheric,hemisphere,hemispheric
+spir###to breathe;呼吸$$$spirit,dispirit,inspirit,spiritual,spiracle,sprightly,aspire,aspirant,aspiration,conspire,conspiracy,conspirator,expire,expiration,expiry,inspire,inspiration,perspire,perspiration,respire,respiration,resipratory,supire,transpire,transpiration
+spond/spons###to promise;约定$$$sponsor,sponsion,despond,despondent,despondence,respond,response,responsible,responsibility,responsive,correspond,conrrespondent,correspondence,spontaneous
+stell###star;星$$$stellar,stellate,stelliform,stellular,constellate,constellation,interstellar
+still###drop;滴$$$distill,distillate,distillation,distiller,distillery,instill,instillation,instillment
+stinct/sting/stimul###to prick;刺$$$sting,stingy,distinguish,distinguished,distinct,distinction,distinctive,extinguish,extinguisher,extinct,extinction,instinct,instinctive,instigate,instigation,instigator,stimulate,stimulant,stimulation,stimulus,stigma
+string/strict/strin/stress###to draw tight;拉紧$$$string,stringent,stringency,straight,strain,strait,straiten,strangle,strangulate,stress,stretch,strict,strictness,stricture,astringent,astringency,astrict,astriction,constringe,constrain,constrained,constraint,constrict,constriction,constrictive,constrictor,distrain,distrninee,distrainer,distraint,distress,distressful,district,overstrain,restrain,restraint,restrict,restriction,restrictive
+stru/struct###to build;建筑$$$structure,structural,construct,construction,reconstruct,reconstruction,construe,destory,destruct,destructible,destruction,destructive,instruct,instruction,instructive,instructor,instrument,instrumental,instrumentality,misconstrue,misconstruction,obstruct,obstruction,obstructive,substructure,superstructure
+suades/suas###to advise;劝告$$$suasion,suasive,dissuade,dissuasion,dissuasive,persuade,persuasion,persuasible,persuasive
+sume/sumpt###to take;拿取$$$sumptuary,sumptuous,assume,assuming,assumption,assumptive,consume,consumer,consumerism,consumption,presume,presumable,presuming,presumption,presumptive,presumptuous,reassume,resume,resumption,resumptive,unassuming
+summ###sum;总数$$$sum,summary,summarily,summarize,summarization,summation,summit,consummate,consummation,consummatory
+sur###sure;确定的$$$assure,assured,assurance,assuring,ensure,insure,insurable,insurance,insurant,insurer,reassure,reassurance,reassuring,reinsure,reinsurance
+surge/surrect###to rise;立起$$$surge,surgy,insurgency,insurgent,insurrection,resurge,resurgence,resurgent,resurrect,resurrection,source,resource,resourceful
+tail###to cut;切割$$$tailor,tailoring,detail,detailed,entail,entailment,retail,retail,retailer
+tang/tact###to touch;接触$$$tangency,tangent,tangible,tact,tactful,tactics,tactician,tactile,tactility,tactual,contact,contagion,contagious,contiguity,contiguous,contingency,contingent,intact,intangible,integer,integral,integrant,integrate,integration,integrity,attain,attainment,attaint,taint
+tain/ten/tin###to hold;掌握$$$tenable,tenacious,tenacity,tenancy,tenant,tendril,tenement,tenet,tenor,tenure,abstain,abstention,abstinence,appertain,contain,container,containment,content,contented,contentment,continence,continent,continental,continue,continual,continuance,continuation,continuity,continuous,conutenance,detain,detainee,detainer,detention,entertain,entertainer,entertainment,inmpertinent,impertinence,lieutenant,maintain,maintenance,obtain,pertain,pertinence,pertinent,perinacious,pertinacity,retain,rein,retention,retentive,retentivity,retinue,sustain,sustainable,sustainment,sustenance,sustentation,sustentative
+techn/techno###art;技艺###skill;技术$$$technics,technical,technicality,technically,technician,technique,technocracy,technocrat,technological,technologist,technology
+tect###to cover;遮蔽$$$detect,detectaphone,detection,detective,detector,protect,protection,pretectionism,protectionist,protective,protector,protege,protegee,tegument
+temper###to moderate;节制,调节$$$temper,temperament,termperamental,temperance,temperate,temperate,temperature,tempered,tempersome,attemper,distemper
+tempor###time;时$$$temporal,temporary,temporize,tempest,contemporary,contemporaneity,contemporaneous,extempore,extemporaneous,extemporize,extemporization
+tempt/tent###to try;尝试$$$tempt,temptation,tempter,tempting,temptress,attempt,attempted,contempt,tentative,tentacle
+tend/tens/tent###to stretch;伸展$$$tend,tendance,tendency,tendentious,tender,tendon,tense,tensile,tension,tensity,tent,attend,attendance,attendant,attention,attentive,contend,contention,contentious,distend,distensible,distension,extend,extensible,extensile,extension,extensive,extensor,extent,hypertension,intend,intended,intendance,intendment,intense,intensify,intersification,intersion,intensity,intensive,intent,intention,intentional,ostensible,ostensive,ostentation,ostentatious,portend,portent,portentous,pretend,pretentious,pretence,pretension,superintend,superintendence,superintendent
+tenu###thin;细薄的$$$tenuity,tenuous,attenuate,attenuation,attenuator,extenuate,extenuation
+term/termin###to limit;限定$$$term,terminable,terminal,terminate,termination,terminative,terminator,terminology,terminus,conterminous,determine,determinable,deterninant,determinate,determination,determined,determiner,determinism,determinist,exterminate,extermination,exterminator,predeterminate,predetermination
+terr###earth;地$$$terrace,terrain,terramycin,terraqueous,terrene,terrestrial,territory,territorial,exterritorial,extraterrestrial,inter,interment,disinter,disinterment,Mediterranean,subterranean
+terr###to frighten;使惊吓$$$terrible,terrify,terrific,terror,terrorism,terrorist,terrorize,deter,deterrent,deterrence
+test###test;测试###witness;证据$$$test,testament,testamentary,testate,testator,testatrix,testify,testimony,testimonial,attest,attestation,attester,contest,contestant,contestation,detest,detestable,detestation,protest,protestant,protestation
+text###to weave;编织$$$text,textile,textual,texture,textural,context,contextual,contexture,intertexture,pretext,subtle,subtlety,tissue
+the(o)###god;神$$$theism,theist,theocracy,theocrat,theocratic,theology,theologian,theologize,apotheosis,apotheosize,atheism,atheist,monotheism,monotheist,pantheism,pantheist,pantheon,polytheism,polytheist
+thes/thet###to place/to put;置放$$$thesis,antithesis,antithetic,hypothesis,hypothesize,hypothetic,parenthesis,parenthesize,parenthetic,synthesis,synthesize,synthetic
+tim###to fear;害怕$$$timid,timidity,timorous,intimidate,intimidation,intimidator
+ton###tone;音调$$$tone,tonal,tonality,atonal,atonality,atonic,diatonic,intone,intonation,monotone,monotonous,monotony,semitone,undertone
+tort###to twist;卷缠$$$torsion,torture,torturer,torturous,tortuous,tortoise,torment,torch,contort,contortion,contortionist,extort,extortion,retort,retortion
+tour/torn###to turn;转动$$$tour,tourism,tourist,tournament,attorney,contour,detour
+tox###poison;毒$$$toxic,tociant,toxicity,toxicology,toxicologist,toxin,antitoxic,antitoxin,detoxify,endotoxin,intoxicate,intoxicant,intoxicated,intoxication
+tract/treat###to draw;拉拽$$$trace,track,trackage,tract,tractable,traction,tractive,tractor,trail,trailer,train,treat,treatment,treatise,treaty,abstract,abstraction,attract,attraction,attractive,contract,contractible,contratile,contraction,contractor,contractual,contracture,detract,detraction,destract,extract,extration,extractor,intractable,protract,protractile,protraction,protractor,retrace,retract,retractable,retractile,retractility,retraction,subtract,subtraction,entreat,maltreat,portary,portrait,retreat,subtrahend
+tribut###to pay;付###to bestow;赠与tribute,tributary,attribute,attribution,attributive,contribute,contribution,contributor,distribute,distribution,retribution,retributive
+trud/trus###to thrust/to push;推入$$$abstruse,detrude,extrude,extrusion,extrusive,intrude,intruder,intrusion,intrusive,obtrude,obtrusion,intrusive,obtrude,obtrusion,obtrusive,obtrisiveness,protrude,protrudent,protrusion,protrusile,protrusive,
+turb###stir;搅动$$$turbid,turbidity,turbulent,turbulence,disturb,disturbance,perturb,perturbation,trouble,troublesome,troublous
+ultim###last;最后的$$$ultima,ultimate,ultimately,ultimatum,ultimo,penultimate,antepenultimate
+umbr###shadow;阴影$$$umbra,umbrage,umbrageous,umbral,umbrella,adumbrate,adumbration,adumbrative,penumbra,somber
+urb###city;城市$$$urban,urbane,urbanism,urbanite,urbanity,urbanize,urbanization,urbanulogy,urbanologist,conurbation,exurb,exurban,exurbia,interurban,suburb,suburban,suburbanite,suburbia
+us/ut###to use;使用$$$use,usage,usance,useful,useless,usual,usufruct,ususfructuary,usurp,usurpation,usury,usurer,usurious,utensil,utile,utilize,utilization,utility,utilitarian,abuse,abusive,disabuse,disuse,disused,inutile,inutility,misuse,misusage,peruse,perusal
+vac/van/void###empty;空的$$$vacant,vacancy,vacate,vacation,vacationist,vacuum,vacuity,vacuous,evacuate,evacuation,vain,vanity,vanish,evanesce,evanescence,evanescent,void,voidance,avoid,avoidance,devoid,
+vade###to go;行走$$$evade,evasion,evasive,invade,invader,invasion,invasive,pervade,pervasion,wade,waddle
+vag###to wander;流浪,飘泊$$$vagabond,vagabondage,vagary,vagarious,vagrancy,vagrant,vague,disvagate,divagation,extravagant,extravagance,extravaganza
+val/vail###strength;力量$$$valence,valiant,valid,validate,validation,validity,valor,valorous,value,valuable,valuation,avail,available,convalesce,convalescence,convalescent,countervail,devaluate,evaluate,equivalent,invalid,invalidate,invalidity,invaluable,multivalent,prevail,prevalent,prevalence,,prevailing,udervalue,undervaluation
+var(i)###to vary;变化$$$vary,variable,variability,variance,variant,variation,varicolored,varied,variegate,variegated,variegation,variety,variform,variometer,prevaricate
+velop###to wrap;包,裹$$$develop,developement,envelop,envelope,envelopment
+ven/vent###to come;来到$$$advent,adventitious,adventive,adventure,adventurous,venture,venturous,venturesome,misadventure,circumvent,circumvention,contravene,contravention,convene,convention,conventional,conventioneer,convenient,convenience,event,eventful,eventual,eventuate,invent,invention,inventor,invetory,prevent,prevention,preventive,intervene,intervention,intervenient,supervene,supervention,avenue,revenue,souvenir
+venge###to avenge;报仇$$$vengeance,vengeful,avenge,avenger,revenge,revengeful
+vent###wind;风$$$vent,ventage,venter,venthole,ventilate,ventilation,ventilator
+ver###true;真实的,确实的$$$very,veridical,verify,verfiable,verification,verily,verisimilar,versimilitude,verity,veritable,veracious,veracity,verdict,aver
+verb###word;字,词$$$verb,verbal,verbalism,verbalist,verbality,verbalize,verbatim,verbiage,verbify,verbose,verbosity,adverb,adverbial,proverb,proverbial
+vers/vert###to turn;转移,改变,转向$$$verse,versed,versify,versification,version,versatile,vertex,vertical,vertigo,vertiginous,vortex,adverse,adversary,adversity,advert,advertence,advertise,advertiser,advertisement,animadvert,anniversary,avert,averse,aversion,controvert,controversy,controversial,converse,convsersant,conversation,convert,convertible,conversion,divers,diverse,diversify,diversity,divert,diversion,divorce,evert,exrovert,inadvertent,inadvertences,introvert,introversion,invert,inverse,inversion,invert,inverse,inversion,malversation,obvert,obverse,obversion,pervert,perversion,perverse,perversity,retrovert,retroversion,revert,reversion,reverse,reversal,reversible,subvert,subversion,subversive,tergiversation,transverse,transversal,traverse,universe,universal,university
+vest###to clothe;穿衣###garment;衣服$$$vest,vestment,vesture,devest,divestiture,divestment,invest,investment,investor
+vi/via/voy###way;路$$$via,viable,viaduct,voyage,convey,conveyance,convoy,deviate,deviant,deviation,devious,envoy,invoice,obviate,obvious,pervious,impervious,previous,trivia,trivial,triviality
+vict/vinc###to conquer;征服$$$victor,victorious,victory,vanquish,invincible,convince,convincible,convincing,conviction,convict,evict,evince
+vid/vis###to see;看见$$$visa,visage,visible,vision,visionary,visit,visitant,visitation,visitor,visor,vista,visual,visualize,advise,advisement,adviser,advisory,advice,devise,device,envisage,envision,envy,envious,invidious,evident,envidence,improvise,invisible,previse,prevision,provide,provident,providential,providence,provision,provisory,revise,revision,supervise,supervision,supervisor,supervisory,surveillance,surveillant,survey,surveyor,televise,television,interview,interviewee,purview,review
+vig/veg###lively;快活的,有生气的$$$vigil,vigilance,vigilant,vigor,vigorous,invigorate,invigoration,invigorator,vegetate,vegetation,vegetable
+viv###to live;生活,生存$$$victual,victualer,viand,vital,vitality,vitalize,vitamin,vivacious,vivacity,vivarium,vivid,vivify,vivisect,vivisection,avitanminosis,convivial,devitalize,revitalize,revive,revival,revivify,revivification,reviviscence,survive,survival,survivor
+voc/voke###to call;喊叫###voice;声$$$vocal,vocalist,vocalize,vocable,vocabulary,vocation,vociferate,vociferous,vouch,advocate,advocacy,avocation,avouch,avow,convoke,convocation,equivocal,equivocate,equivoke,evoke,evocation,invoke,invocation,multivocal,provoke,provoking,provocation,revoke,revocation,irrvocable,
+vol###will;意志,意志力$$$voluntary,involuntary,volunteer,voluptuous,volition,volitional,benevolence,malevolence,
+volve/volut###to roll;滚,卷$$$voluble,volume,volumeter,voluminous,volute,volution,circumvolute,convolve,convoluted,convolution,devolve,devolution,evolve,evolution,evolutionism,evolutionist,involve,involvement,involute,involution,revolve,revolver,revolution,revolutionary,revolt
+vor###to eat;吃$$$voracious,voracity,carnivore,carnivorous,devour,devouringly,granivorous,herbivore,berbivorous,insectivore,insectivorous,omnivore,omnivorous,piscivorous
