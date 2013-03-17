@@ -1,0 +1,76 @@
+ab-:from,away,from,off:abdicate,abnormal,abortion,abstract
+ad-:to,at,for:addict,advent,adverse,affirm,aggress,attract
+ambi-:on both sides,about,around:ambidextrous,ambiguous,ambition
+an-:negative,ont,without:anesthetic,anarchy
+anti-:against,opposite to(与pro-相反):antipathy,antarctic
+auto-:self:automobile,autobiography,autonomy
+bene-:well,good(与male-相反):beneficial,benefit
+bi-:double,two:bicycle,bilingual
+cata:down,downwards,fully:catalyst,catalogue,catastrophe
+circum:around,round about:circumlunar,circumstance
+com-:together,with,wholly:combat,compose,communicate
+contra-:against:contradict,contrary,contrast
+de-:down,downward:decrease,debate,deduce
+de-:apart,from:decode,deficit
+deca-:ten:decade
+deci-:十分之一:decimal,decimter
+di-:double,twice:dilemma,diploma
+dia-:through,between,across:diagnosis,dialogue,diameter
+dis-:apart,away:disable,disadvantage,disagree
+duo-:two,double:double,doubt,dual,duel,duplicate
+en-:in,into,on,at,near:enact,enclose,encounter,enlarge
+epi-:upon,to,besides,among:epic,epidemic,episode
+eu-:well:eugenics,euthanasia
+ex-:out of,fully:example,exclude,exhibit
+extra-:beyond:extra,extracurricular,extraordinary
+fore-:before:forefather,foresee,forward
+forth-:towards:forthcoming
+homo-:same(与hetero-相反):homogeneous,homonym,homosexual
+hyper-:above,beyond含有excess过度的意思:hypersonic,hypertension
+hypo-:under(与hyper-相反):hypotension,hypothesis
+in-:in,into,on:include,income,increase
+in-:negative:inadquate,incomparable,insane
+inter-:between,among:interior,interrupt,intelligence
+kilo-:thousand:kilogram
+macro-:large,long:macroeconomics
+mal(e)-:badly,ill(与bene-相反):malign,malnourished
+mege-:large,million:megabyte
+micro-:small:microbe,microeconomics,microphone,microscope,microwave
+milli-:thousand,thousandth:milliliter,millimeter
+mis-:wrong(ly),bad(ly),ill:mislead,misunderstand
+mono-:single,sole,alone:monochrome,monocracy,monopoly,monk
+multi-:many,much:multicolor,multiply
+ob-:as,towards,at,before,upon,over,about,near,against:object,obstruct
+octa-,octo-:eight,eighth:October,octopus,octuple
+out-:out,beyond:outline,outnumber,outwit
+over-:above,across,beyond:overcome,overhear,overlap,overlook
+para-:beside,beyond,against,contrary:paragraph,parallel
+penta-:five:pentagon,pentagram
+per-:through,thoroughly,away:perfect,perplex,persist
+peri-:around,round,about:period,periphery
+poly-:many:polychrome,polygon
+post-:after,behind(与ante-相反):postgraduate,postpone
+pre-:before:precaution,predict
+pro-:for,before,forth,forward:problem,progress,project:problem,progress,project
+quadr-:four:quadruped,quadruple:quadruped,,quadruple
+re-:again,back:rebel,record:rebel,record,
+se-:away,apart:select,separate
+semi-:semicricle,semiconductor
+sep-:seven:September:septuple
+sex-:six:sextuple
+sub-:subject,substance,subtitle,support,suspect
+super-:superficial,superior,supervise,superface,surname
+syn-:syndicate,synthesis,sympathy
+tele-:telegraph,telephone,television
+tetra-:four:tetrahedron
+trans-:beyond,across,over:transaction,transfer
+tri-:three,threefold:triangle,tribe,trilogy,tripod
+twi-:two:twice,twin,twist
+ultra-:beyond:ultra,ultrared,ultraviolet
+un-:no:unchangeable,unfortunate
+un-:the reversal of an action:unearth,unlock
+under-:under,beneath:undergo,underlie,undertake
+uni-:one:union,unique,universal
+up-:up,aloft:uphold,upstairs
+vice-:in place of:vice-chairman,vice-chancellor
+with-:against,back:withdraw,withhold,withstand
