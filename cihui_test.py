@@ -1,7 +1,41 @@
 import datetime
 import sys
 import os
-import msvcrt
+#import msvcrt
+
+class _Getch:
+    """Gets a single character from standard input.  Does not echo to the screen."""
+    def __init__(self):
+        try:
+            self.impl = _GetchWindows()
+        except ImportError:
+            self.impl = _GetchUnix()
+    def __call__(self): return self.impl()
+
+class _GetchUnix:
+    def __init__(self):
+        import tty, sys
+    def __call__(self):
+        import sys, tty, termios
+        fd = sys.stdin.fileno()
+        old_settings = termios.tcgetattr(fd)
+        try:
+            tty.setraw(sys.stdin.fileno())
+            ch = sys.stdin.read(1)
+        finally:
+            termios.tcsetattr(fd, termios.TCSADRAIN, old_settings)
+        return ch
+
+class _GetchWindows:
+    def __init__(self):
+        import msvcrt
+
+    def __call__(self):
+        import msvcrt
+        return msvcrt.getch()
+
+platform_getch = _Getch()
+
 
 word_list = [l.strip() for l in file("danci.txt") if len(l) > 0]
 jieshi_list = [l.strip() for l in file("jieshi.txt") if len(l) > 0]
@@ -48,7 +82,8 @@ while 1:
 
     print word_list[idx]
     #ch = sys.stdin.read(1)
-    ch = msvcrt.getch()
+    #ch = msvcrt.getch()
+    ch = platform_getch()
     if ch == '\r':
         know_c += 1
 	state_list[idx] += " K"
